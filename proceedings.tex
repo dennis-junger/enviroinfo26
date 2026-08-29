@@ -77,9 +77,9 @@
 
 \usepackage{ulem}
 
-\usepackage[english,ngerman]{babel}
-
-\renewcommand{\indexname}{Authorenverzeichnis}
+%\usepackage[english,ngerman]{babel}
+\usepackage[english]{babel}
+\renewcommand{\indexname}{List of Authors}
 
 \usepackage{fancyhdr}
 
@@ -102,18 +102,6 @@
 %Solution by https://tex.stackexchange.com/a/365267/9075
 \newcommand{\tocformatchapter}[1]{\rightskip 0pt\chapterfontsize{\nohyphens{#1}}}
 
-%By default show no page numbers for parts in TOC, but for the author index
-\newif\iftocpartshowpage
-\tocpartshowpagefalse % default: suppress page number
-\newcommand*{\maybePrintPartPageNumber}[1]{%
-  \iftocpartshowpage
-    \global\tocpartshowpagefalse
-    #1%
-  \else
-    % print nothing
-  \fi
-}
-
 %No ident of the second line of the TOC
 %Source: https://tex.stackexchange.com/a/314015/9075
 \RedeclareSectionCommand[tocnumwidth=0em]{chapter}
@@ -121,7 +109,7 @@
 \DeclareTOCStyleEntry[%
   beforeskip=22pt,
   entryformat={\tocformatpart},
-  pagenumberformat={\maybePrintPartPageNumber}
+  pagenumberformat={\suppresstext}
 ]{part}{part}
 
 \DeclareTOCStyleEntry[%
@@ -453,26 +441,29 @@
 % everything before the foreword
 \includepdf[pagecommand={\thispagestyle{empty}},pages=1-2,noautoscale]{LNI-Startseiten.pdf}
 \phantomsection
-\pdfbookmark[part]{Titelseite}{Titelseite}
+\pdfbookmark[part]{Title Page}{Title Page}
 \includepdf[pagecommand={\thispagestyle{empty}},pages=3-4,noautoscale]{LNI-Startseiten.pdf}
 
 \phantomsection
-\pdfbookmark[part]{Vorwort}{Vorwort}
+\pdfbookmark[part]{Preface}{Preface}
 %Use "plain" instead of "empty" if you want to add page numbers -- currently does not work as they seem out of the margins
 \includepdf[pagecommand={\thispagestyle{empty}},pages=5-5,noautoscale]{LNI-Startseiten.pdf}
 
 \phantomsection
-\pdfbookmark[part]{Sponsoren}{Sponsoren}
+\pdfbookmark[part]{Sponsors}{Sponsors}
 \includepdf[pagecommand={\thispagestyle{empty}},pages=6-6,noautoscale]{LNI-Startseiten.pdf}
 
 \phantomsection
-\pdfbookmark[part]{Tagungsleitung}{Tagungsleitung}
-\pdfbookmark[part]{Programmkomitee}{Programmkomitee}
-\pdfbookmark[part]{Organisationsteam}{Organisationsteam}
+\pdfbookmark[part]{Conference Chair}{Conference Chair}
+\pdfbookmark[part]{Programme Committee}{Programme Committee}
 \includepdf[pagecommand={\thispagestyle{empty}},pages=7-7,noautoscale]{LNI-Startseiten.pdf}
 
-% END: LNI-Startseiten.pdf
+\phantomsection
 
+\pdfbookmark[part]{Organising Committee}{Organising Committee}
+\includepdf[pagecommand={\thispagestyle{empty}},pages=8-8,noautoscale]{LNI-Startseiten.pdf}
+
+% END: LNI-Startseiten.pdf
 
 \setboolean{@twoside}{true}
 \makeatletter
@@ -493,41 +484,111 @@
 %% now all papers %%
 \pagenumberingnoreset{arabic}
 
-%% content should start on page 1
-\newcounter{firstcontentpage}
-\setcounter{firstcontentpage}{\value{page}} % store current page number
-\newwrite\offsetfile
-\openout\offsetfile=offset.txt
-\write\offsetfile{\arabic{firstcontentpage}}
-\setcounter{page}{1}
-
 \newwrite\pagesfile
 \openout\pagesfile=pages.txt
 
+%\addpart{Work-in-Progress Papers / Short Papers}
 
-\addpart{Eingeladene Vorträge}
-\addpaper{A1-1}{Vorname Nachname}{Erster eingeladener Vortrag}
-\addpaper{A2-1}{Other Name}{Second invited Talk}
+%\addchap{AI \& ML in Environmental Monitoring and Sustainability}
+\addchap{Artificial Intelligence and Sustainability}
 
-\addpart{Scientific Program}
+\addpaper[Kobiela et al.]
+[AI model of a photovoltaic installation]
+{A1-1}
+{Pawe{\l} Kobiela \and Jaros{\l}aw Sta\'nczak \and Pawe{\l} Bartoszczuk}
+{AI model of a photovoltaic installation}
 
-\addchap{Topic1}
-\addpaper{B1-1}{Firstname1 Lastname1}{Talk1}
-\addpaper[Firstname2a Lastname2a et al.]{B1-2}{Firstname2a Lastname2a \and Firstname2b Lastname2b \and Firstname2c Lastname2c \and Firstname2d Lastname2d}{Talk2}
+\addpaper[Koch de Souza \and Engstler]
+[Environmentally Informed GenAI Use in ITSM:]
+{A1-2}
+{Larissa Koch de Souza \and Martin Engstler}
+{Environmentally Informed GenAI Use in ITSM: A Problem Analysis of Organisational Use-Case Decision-Making}
 
-\addchap{Topic2 with a very long title which requires a lot of space and, hence, also requires a line break}
-\addpaper{B2-1}{Firstname3 Lastname3}{Talk3}
-\addpaper[Firstname4a Lastname4a et al.][Talk 4]{B2-2}{Firstname4a Lastname4a \and Firstname4b Lastname4b \and Firstname4c Lastname4c \and Firstname4d Lastname4d}{Talk4 with a very long title, which does not fit in one line in the running head and therefore must be shortended}
+\addpaper[Werner et al.]
+[AI in German Municipal Wastewater Facilities]
+{A1-3}
+{Nicole Werner \and Heiko Thimm \and Leonie Hammann}
+{Application of Artificial Intelligence in German Municipal Wastewater Facilities}
 
-\addchap{Word-Papers}
-\addpaper[Vorname1 Nachname1 et al.]{B3-1}{Vorname1 Nachname1 \and Vorname2 Nachname2  \and {in der gleichen Notation}, {weitere Autoren und Autoren}}{Der Titel des Beitrags, der auch etwas länger sein und über zwei Zeilen reichen kann}
-\addpaper[Last name 1, First name 1 et al.][Short Title]{B3-2}{{Last name 1}, {First name 1} \and {last name 2}, {first name 2} \and {the same notation}, {other authors using}}{Title of the paper, which can also be somewhat longer and cover more than two lines}
+
+\addchap{Doctoral Workshop}
+
+\addpaper[Fellinger]
+[Assessing the Maturity of Sustainability-aware Data]
+{A2-1}
+{Engelbert Fellinger}
+{Assessing the Maturity of Sustainability-aware Data Management Strategies that minimise Data Volumes and reduce Energy Consumption}
+
+\addpaper[Flohr et al.]
+[Linking Water Quality to Corrosion Behaviour]
+{A2-2}
+{Sarah Flohr \and Paul Bruck \and Jan Kleinmann \and Grit Behrens \and Andreas Kahlfeld}
+{Linking Water Quality to Corrosion Behaviour at Steel Sheet Pile Walls: A Machine Learning Study in the Port of Hamburg}
+
+
+\addchap{Environmental Management Software}
+
+\addpaper[Elfeky]
+[Life-Cycle Decision Support for Post-Optimization]
+{A3-1}
+{Ahmed Elfeky}
+{Life-Cycle Decision Support for Post-Optimization Industrial Decarbonization: An Environmental-Informatics Case Study of an SME Foundry}
+
+\addpaper[Fuchs-Kittowski et al.]
+[Common and Domain-Specific Design Patterns]
+{A3-2}
+{Frank Fuchs-Kittowski \and Maximilian Deharde \and David Starzl \and Marius Poppel \and Simon Burkard}
+{Common and Domain-Specific Design Patterns for Mobile AR Applications to Visualize Measures on Building Facades in an Environmental Context}
+
+\addpaper[Koravi]
+[Sustainability Context Inheritance]
+{A3-3}
+{Sandhya Koravi}
+{Sustainability Context Inheritance: From Trusted Evidence to Product Sustainability Profiles in Circular Economy Decision-Making}
+
+\addpaper[Nachtsheim \and Arndt]
+[Time-Variable State Spaces for Auditable ESG]
+{A3-4}
+{Ren\'{e} Nachtsheim \and Hans-Knud Arndt}
+{Time-Variable State Spaces for Auditable ESG and Taxonomy Evidence in Operational Information Systems}
+
+\addpaper[Sza{\l}ata et al.]
+[Air Quality Knowledge as a Driver]
+{A3-5}
+{{\L}ukasz Sza{\l}ata \and Grit Behrens \and Cezary Or{\l}owski \and Rafa{\l} Grzeszczyk}
+{Air Quality Knowledge as a Driver of Computing Competences: An International Project-Based Learning Project}
+
+
+\addchap{Green Coding}
+
+\addpaper[Jahns et al.]
+[Windows Integration into the Green Metrics Tool]
+{A4-1}
+{Maximilian Jahns \and Dennis Junger \and Volker Wohlgemuth \and Geerd-Dietger Hoffmann}
+{Windows Integration into the Green Metrics Tool: Energy Measurement of Native Windows Applications via RAPL}
+
+\addpaper[Kriesing Garcia et al.]
+[Joint Evaluation of the Green Coding Roadmap]
+{A4-2}
+{Nick Kriesing Garcia \and Dennis Junger \and Volker Wohlgemuth}
+{Joint Evaluation of the Green Coding Roadmap Training}
+
+\addpaper[Valko \and Marx G\'{o}mez]
+[Toward a Framework for Performance and Carbon Footprint]
+{A4-3}
+{Danila Valko \and Jorge Marx G\'{o}mez}
+{Toward a Framework for Performance and Carbon Footprint Assessment of Payment Channel Network Solutions}
+
+\addpaper[Westing \and Naumann]
+[Towards a Taxonomy of ICT and Software Sustainability]
+{A4-4}
+{Max Westing \and Stefan Naumann}
+{Towards a Taxonomy of ICT and Software Sustainability Assessment Instruments}
 
 \pagestyle{plain}
 
-\renewcommand{\indexname}{Autorenverzeichnis}
+\renewcommand{\indexname}{List of Authors}
 \phantomsection
-\addtocontents{toc}{\protect\global\protect\tocpartshowpagetrue}
 \addcontentsline{toc}{part}{\indexname}
 \printindex
 
