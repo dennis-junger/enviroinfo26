@@ -53,12 +53,10 @@ author = ""
 for p in doc.paragraphs:
 	if style_index < 2:
 		if p.style.name != old_style:
+			style_index += 1
 			old_style = p.style.name
-			if p.style.name != "Untertitel 1": # works with German and English template
-				style_index += 1
 		if style_index == 0:
-			if p.style.name != "Untertitel 1":
-				title += " " + p.text
+			title += " " + p.text
 		elif style_index == 1:
 			author += " " + p.text
 	else:
@@ -67,7 +65,7 @@ author = author.strip()
 title = title.strip()
 title = title.replace('\r', '')
 title = title.replace('\n', ' ')
-title = re.sub(r'\s\s+', ' ', title)
+title = re.sub('\s\s+', ' ', title)
 
 author = re.sub(r"\s\s+", " ", author)
 author = re.sub(r"\s?[,;]\s?", ", ", author)
@@ -78,7 +76,7 @@ for currLine in temp_tex.split("\n"):
 	if m_title:
 		tex += "\\title{" + title + "}\n"
 	elif m_author:
-		tex += "\\author[" +  author + "]\n"
+		tex += "\\author{" +  author + "}\n"
 	else:
 		tex += currLine + "\n"
 
