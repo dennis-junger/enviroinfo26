@@ -1,0 +1,9 @@
+Reviewer 1:
+The RQ's are now stated explicitly and a paragraph justifying the taxonomy approach was added following Nickerson et al.'s rationale for taxonomies in information systems research. Also new is the "Choice of method and procedure" passage explaining why the Nickerson method was selected and how its step structure (including the conceptual-to-empirical and empirical-to-conceptual branches at steps 4–6) works and we corrected the inconsistency between the number of candidate dimensions named in the text and the number shown in Table 1. Key terms are now properly introduced and the codes used in Tables 2 and 3 are explained in the table captions. The instrument selection criteria and count are stated more clearly.
+
+We included a writeup of iteration notes as supplementary material to make the taxonomy easier to follow.
+
+Reviewer 2:
+Wrote out GHG acronym at first use and expanded the compressed paragraph on ITU-T L.14xx, ETSI ES 203 199, the GHG Protocol ICT Sector Guidance, and SCI. I tried to address Reviewer 2's note on staccato prose which proved difficult due to having to shorten the 
+
+I have attempted to consider Reviewer 3's notes on language during editing.

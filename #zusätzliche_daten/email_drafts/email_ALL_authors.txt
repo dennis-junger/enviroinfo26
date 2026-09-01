@@ -1,0 +1,60 @@
+To: [EMAIL1], [EMAIL2], [EMAIL3], ...
+Subject: EnviroInfo 2026 – Action Required Before Proceedings Submission
+
+Dear [*NAME*],
+
+thank you for your contributions to EnviroInfo 2026. We are currently finalising the
+proceedings and need your help to resolve outstanding items for a number of submissions.
+
+Please find your Submission ID in the table below and take the required action(s) by
+
+    *** Friday, 4 September 2026 ***
+
+HOW TO SUBMIT: Please bundle all required files into a single ZIP archive and
+upload it to your EasyChair submission (login → your submission → "Upload files").
+If you have trouble with the EasyChair upload, you may alternatively send the ZIP
+to: dennis.junger@googlemail.com
+
+-------------------------------------------------------------------------------
+ Sub. ID   Actions Required
+-------------------------------------------------------------------------------
+   2       [ ] Granting of Rights form
+  12       [ ] Reformat to LNI template (155×235 mm, not A4)
+  18       [ ] Granting of Rights form
+           [ ] Response to Reviewer Comments
+  20       [ ] Granting of Rights form
+  29       [ ] Shorten to max. 10 pages
+           [ ] Granting of Rights form
+           [ ] Clarify prior publication (see below)
+  32       [ ] Reformat to LNI template (155×235 mm, not A4)
+           [ ] Shorten to max. 8 pages (Short Paper)
+           [ ] Granting of Rights form
+           [ ] Response to Reviewer Comments
+  34       [ ] Granting of Rights form
+           [ ] Response to Reviewer Comments
+  35       [ ] Reformat to LNI template (155×235 mm, not A4)
+           [ ] Granting of Rights form
+           [ ] Response to Reviewer Comments
+-------------------------------------------------------------------------------
+
+WHAT TO INCLUDE IN YOUR ZIP
+  - Granting of Rights form: Download the LNI rights form, sign it (digitally or
+    by hand + scan), and include it as PDF.
+  - Response to Reviewer Comments: A short document addressing each reviewer
+    comment point by point.
+  - LNI template: Available at https://gi.de/service/publikationen/lni
+    Please recompile your paper using the LNI LaTeX or Word template, ensure the
+    page size is 155×235 mm, and include the final PDF in the ZIP.
+
+QUESTIONS / UPLOAD LINK
+  EasyChair submission portal: https://easychair.org/conferences/?conf=enviroinfo26
+  Contact:                      enviroinfo26@easychair.org
+
+If you have already uploaded any of the above items and believe this message was sent in
+error, please contact us and we will update our records accordingly.
+
+Thank you very much for your cooperation.
+
+Kind regards,
+Dennis Junger
+EnviroInfo 2026 Proceedings Chair

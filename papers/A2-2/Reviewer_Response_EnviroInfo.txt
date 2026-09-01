@@ -1,0 +1,42 @@
+REVIEWER 1
+
+Spatially blocked cross-validation.
+Reviewer 1 asked for a spatially blocked scheme to firm up the generalisation
+claims. A preliminary leave-one-group-out evaluation was added to Section 4,
+holding out one monitoring group per fold. The pooled out-of-group R2 falls below
+the global-mean baseline, indicating that the random cross-validated performance
+partly reflects group identity shared between training and test sites. This is
+framed as an exploratory robustness check rather than a rigorous generalisation
+estimate, since the number of monitoring groups is small and C_residual carries a
+group-specific level that a held-out group cannot recover. The generalisation
+caveat in the Discussion was updated accordingly.
+
+Variance partitioning.
+Reviewer 1 also asked for a quantitative variance partitioning of group structure
+versus water quality. Within the work-in-progress scope this analysis was not run
+but added to the future work in Section 6. The existing ablation (full 0.719,
+no-group 0.718, water-quality-only 0.388) reported in Section 4 serves as the
+current partial decomposition.
+
+
+REVIEWER 2
+
+Perceived limited novelty.
+Reviewer 2 found the study competent but not distinctive. The contribution was
+sharpened rather than extended with new methods. The Introduction now states the
+contribution explicitly as a spatial-resolution diagnosis with consequences for
+monitoring-network design and maintenance planning, rather than the headline R2.
+The Conclusion now separates assessment for monitoring groups represented in the
+data, which the results support, from prediction at unobserved locations, which
+the leave-one-group-out check suggests is substantially harder. Together with the
+added leave-one-group-out evaluation, this reframes the study around its
+actionable diagnostic finding.
+
+
+CONSISTENCY CORRECTION
+
+Independent of the reviews, the group and parent counts in Section 3 were
+corrected to match the actual model dataset, which comprises five monitoring
+groups and 39 corrosion parents (previously stated as six and 34) carrying all
+153 measurement sites. The reference to median-based water quality summaries in
+Section 6 was corrected to mean-based, matching the methodology.
