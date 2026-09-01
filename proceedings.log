@@ -1,9 +1,9 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.9.13)  1 SEP 2026 22:01
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.9.1)  1 SEP 2026 22:38
  restricted system commands enabled.
 **proceedings
 (./proceedings.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-08-13>
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
@@ -40,98 +40,367 @@ Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
 Inserting `tracingstacklevels' in `input_level_string'. (C:/MiKTeX/tex/latex/la
 tex-lab/documentmetadata-support.ltx
-(C:/MiKTeX/tex/latex/pdfmanagement-testphase/pdfmanagement-testphase.sty
-Package: pdfmanagement-testphase 2025-08-05 v0.96v LaTeX PDF management bundle
+(C:/MiKTeX/tex/latex/pdfmanagement/pdfmanagement-init.sty
+Package: pdfmanagement-init 2026-05-26 v0.97c LaTeX PDF management bundle
 
 (C:/MiKTeX/tex/latex/tagpdf/tagpdf-base.sty
-Package: tagpdf-base 2025-07-16 v0.99u part of tagpdf - provide base, no-op ver
-sions of the user commands 
-\c@g__tag_MCID_abs_int=\count273
-\c@g__tag_struct_abs_int=\count274
+Package: tagpdf-base 2026-08-21 v1.0e part of tagpdf - provide base, no-op vers
+ions of the user commands 
+\c@g__tag_MCID_abs_int=\count274
+\c@g__tag_struct_abs_int=\count275
 )
-(C:/MiKTeX/tex/latex/pdfmanagement-testphase/pdfmanagement.ltx
-File: pdfmanagement.ltx 2025-08-05 v0.96v PDF management code
-\g__pdfmanagement_EmbeddedFiles_int=\count275
-\l__pdfmeta_xmp_indent_int=\count276
-\g_pdffile_embed_pdfa_int=\count277
-\g_pdffile_embed_nonpdfa_int=\count278
+(C:/MiKTeX/tex/latex/pdfmanagement/pdfmanagement.ltx
+File: pdfmanagement.ltx 2026-05-26 v0.97c PDF management code
+\g__pdfmanagement_EmbeddedFiles_int=\count276
+\l__pdfmeta_xmp_indent_int=\count277
+\g_pdffile_embed_pdfa_int=\count278
+\g_pdffile_embed_nonpdfa_int=\count279
+\l_pdfoutline_open_int=\count280
+\g__pdfoutline_id_int=\count281
+\g__pdfoutline_current_level_int=\count282
 )))
-(C:/MiKTeX/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2025-06-09 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count279
+(C:/MiKTeX/tex/latex/l3kernel/l3backend-luatex.def
+File: l3backend-luatex.def 2026-08-10 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count283
 Inserting `l3color' in `luaotfload.parse_color'.
 Inserting `l3opacity' in `luaotfload.parse_transparent'.)
-(C:/MiKTeX/tex/latex/pdfmanagement-testphase/l3backend-testphase-luatex.def
-File: l3backend-testphase-luatex.def 2025-08-05 v0.96s LaTeX PDF management bun
-dle backend support:PDFoutput(LuaTeX)
+(C:/MiKTeX/tex/latex/pdfmanagement/l3backend-testphase-luatex.def
+File: l3backend-pdf-luatex.def 2026-05-26 v0.97c LaTeX PDF management bundle ba
+ckend support: PDF output (LuaTeX)
 \l__pdf_backend_tmpa_box=\box53
 \l__pdf_backend_tmpb_box=\box54
-\g__pdf_backend_resourceid_int=\count280
-\g__pdf_backend_name_int=\count281
-\g__pdf_backend_page_int=\count282
+\g__pdf_backend_resourceid_int=\count284
+\g__pdf_backend_name_int=\count285
+\g__pdf_backend_page_int=\count286
 Custom whatsit pdf_link_adjust_level = 1
 Inserting `linksplit' in `pre_shipout_filter'.
-Lua function pdflinkadjustlevel = 29)
-(C:/MiKTeX/tex/latex/pdfmanagement-testphase/pdfmanagement-firstaid.sty
-Package: pdfmanagement-firstaid 2025-08-05 v0.96v LaTeX PDF management bundle /
+Lua function pdflinkadjustlevel = 31)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-latest.sty
+Package: latex-lab-testphase-latest 2026-05-02 v0.1g latex-lab modules
+
+(C:/MiKTeX/tex/latex/tagpdf/tagpdf.sty
+Package: tagpdf 2026-08-21 v1.0e  LaTeX kernel code for PDF tagging 
+\l__tag_tmpa_int=\count287
+\l__tag_tmpa_box=\box55
+\l__tag_tmpb_box=\box56
+\l__tag_loglevel_int=\count288
+\g__tag_unique_cnt_int=\count289
+\l__tag_tag_stop_int=\count290
+
+(C:/MiKTeX/tex/latex/tagpdf/tagpdf-luatex.def
+File: tagpdf-luatex.def 2026-08-21 v1.0e tagpdf driver for luatex
+luaotfload | db : Font names database loaded from C:/Users/Thunderhelix/AppData/
+Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz
+Lua module: tagpdf 2026-08-21 v1.0e tagpdf lua code
+Lua-only attribute g__tag_mc_type_attr = 4
+Lua-only attribute g__tag_mc_cnt_attr = 5
+Lua-only attribute g__tag_structnum_attr = 6
+Lua-only attribute g__tag_interwordspaceOff_attr = 7
+Lua-only attribute g__tag_interwordspace_attr = 8
+Lua-only attribute g__tag_interwordfont_attr = 9
+Lua-only attribute l__tag_softhyphen_attr = 10
+Inserting `tagpdf.rewrite-softhyphen' in `pre_shaping_filter'.
+Inserting `tagpdf.rewrite-softhyphen' in `post_shaping_filter'.
+Inserting `tagpdf' in `linksplit'.)
+(C:/MiKTeX/tex/latex/tagpdf/tagpdf-mc-code-lua.sty
+Package: tagpdf-mc-code-lua 2026-08-21 v1.0e tagpdf - mc code only for the luam
+ode 
+)
+\g__tag_tree_id_pad_int=\count291
+\c@g__tag_parenttree_obj_int=\count292
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf2.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-mathml.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-latex-book.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-latex.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-latex-lab.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf.def
+
+
+Package tagpdf Info: reading namespace definitions tagpdf-ns-pdf2.def
+
+\g__tag_struct_AFobj_int=\count293
+\g__tag_para_begin_int=\count294
+\g__tag_para_end_int=\count295
+\g__tag_para_main_begin_int=\count296
+\g__tag_para_main_end_int=\count297
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-names.sty
+Package: latex-lab-testphase-names 2026-04-28 v0.8k Code related to the names o
+f tags
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-new-or-2.sty
+Package: latex-lab-testphase-new-or-2 2026-01-16 v0.86d Changes to the output r
+outine
+
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-footnotes.ltx
+File: latex-lab-footnotes.ltx 2026-04-28 v0.8p changes to the footnote interfac
+es
+\footnotemargin=\dimen149
+\g_fnote_id_int=\count298
+))
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-block.sty
+Package: latex-lab-testphase-block 2026-06-10 v1.0c blockenv implementation
+
+LaTeX template Info: Declaring template type 'blockenv' taking 4 argument(s)
+(template)           on line 195.
+
+
+LaTeX template Info: Declaring template type 'list' taking 4 argument(s) on
+(template)           line 196.
+
+
+LaTeX template Info: Declaring template type 'captionedtext' taking 4
+(template)           argument(s) on line 197.
+
+
+LaTeX template Info: Declaring template type 'thmstyle' taking 4 argument(s)
+(template)           on line 198.
+
+
+LaTeX template Info: Declaring template type 'block' taking 1 argument(s) on
+(template)           line 199.
+
+
+LaTeX template Info: Declaring template type 'item' taking 1 argument(s) on
+(template)           line 200.
+
+
+LaTeX template Info: Declaring template type 'para' taking 1 argument(s) on
+(template)           line 201.
+
+\c@maxblocklevels=\count299
+\l_para_begin_skip=\skip49
+\l__block_unchained_skip=\skip50
+\l__block_botsep_skip=\skip51
+\l__block_parbotsep_skip=\skip52
+\l__block_parindent_dim=\dimen150
+\l__block_counter_start_int=\count300
+\l__block_one_label_box=\box57
+\g__block_labels_box=\box58
+\l__block_tmpa_skip=\skip53
+\l__block_effective_top_skip=\skip54
+\l__block_effective_bot_skip=\skip55
+\l__block_caption_before_skip=\skip56
+\l__block_caption_after_skip=\skip57
+
+LaTeX template Info: Declaring instance 'flushleft' of type blockenv on line
+(template)           1489.
+
+
+LaTeX template Info: Declaring instance 'flushright' of type blockenv on line
+(template)           1493.
+
+\@descriptiondepth=\count301
+
+LaTeX template Info: Declaring instance 'remark' of type thmstyle on line
+(template)           1791.
+
+
+LaTeX template Info: Declaring instance 'definition' of type thmstyle on line
+(template)           1796.
+
+
+LaTeX template Info: Declaring instance 'legacy2e' of type thmstyle on line
+(template)           1798.
+
+LaTeX Info: Redefining \centering on input line 1894.
+LaTeX Info: Redefining \raggedleft on input line 1895.
+LaTeX Info: Redefining \raggedright on input line 1896.
+LaTeX Info: Redefining \qed on input line 2238.
+
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-enumitem.sty
+Package: latex-lab-enumitem 2026-04-21 v0.80f Emulating enumitem
+))
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-context.sty
+Package: latex-lab-testphase-context 2026-05-26 v0.6a Providing context for ins
+tance, etc.
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-kernel-changes.sty
+Package: latex-lab-kernel-changes 2026-04-27 v0.85j General kernel and class ch
+anges
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-sec.sty
+Package: latex-lab-testphase-sec 2026-04-28 v0.84o Code related to the tagging 
+of heading commands
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-sec-template.sty
+Package: latex-lab-testphase-sec-template 2026-05-25 v0.9g heading implementati
+on
+
+LaTeX template Info: Declaring template type 'heading' taking 9 argument(s) on
+(template)           line 177.
+
+
+LaTeX template Info: Declaring template type 'headformat' taking 6 argument(s)
+(template)           on line 178.
+
+\l__head_level_int=\count302
+\l__head_before_skip=\skip58
+\l__head_penalty_int=\count303
+\l__head_after_penalty_skip=\skip59
+\l__head_after_skip=\skip60
+\l__head_heading_indent_dim=\dimen151
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-toc.sty
+Package: latex-lab-testphase-toc 2026-04-28 v0.85k  Code related to the tagging
+ of toc-like lists
+\g__tag_toc_level_int=\count304
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-minipage.sty
+Package: latex-lab-testphase-minipage 2026-04-24 v0.81k Code related to the tag
+ging of minipages and parboxes
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-graphic.sty
+Package: latex-lab-testphase-graphic 2026-04-28 v0.80i Code related to the tagg
+ing of graphics
+\g__tag_graphic_int=\count305
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-float.sty
+Package: latex-lab-testphase-float 2026-04-24 v0.81n Code related to the taggin
+g of floats
+\g__tag_float_int=\count306
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-bib.sty
+Package: latex-lab-testphase-bib 2026-05-28 v0.81f Code related to the tagging 
+of bibliography and cite command
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-text.sty
+Package: latex-lab-testphase-text 2026-04-27 v0.85g Code related to the tagging
+ of various small text commands
+LaTeX Info: Redefining \mbox on input line 108.
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-marginpar.sty
+Package: latex-lab-testphase-marginpar 2026-04-24 v0.85i Changes related to the
+ tagging of the margin notes
+\g__kernel_marginpar_int=\count307
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-title.sty
+Package: latex-lab-testphase-title 2026-05-27 v0.85g Changes related to the tag
+ging of the title
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-table.sty
+Package: latex-lab-testphase-table 2026-04-28 v0.85t Code related to the taggin
+g of tables
+
+(C:/MiKTeX/tex/latex/tools/array.sty
+Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
+\col@sep=\dimen152
+\ar@mcellbox=\box59
+\extrarowheight=\dimen153
+\NC@list=\toks17
+\extratabsurround=\skip61
+\backup@length=\skip62
+\ar@cellbox=\box60
+))
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-math.sty
+Package: latex-lab-testphase-math 2025-03-10 v0.8d code related to the math tag
+ging
+
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-math.ltx
+File: latex-lab-math.ltx 2026-05-27 v0.7e Grab all the math(s) and tag it
+\l__math_tmpa_skip=\skip63
+\g__math_mathml_total_int=\count308
+\g__math_mathml_int=\count309
+\g__math_math_total_int=\count310
+\g__math_mathml_AF_found_int=\count311
+\g__math_mathml_AF_attached_int=\count312
+\l__math_tmpa_box=\box61
+\l__math_mathstyle_int=\count313
+\g__math_mathchoice_int=\count314
+\l__math_grab_env_int=\count315
+\g__math_postdisplaypenalty_int=\count316
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-mathpkg.ltx
+File: latex-lab-mathpkg.ltx 2026-05-11 v0.1e mathpkg adaptions
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-mathintent.ltx
+File: latex-lab-mathintent.ltx 2026-01-16 v0.1c MathML intent attributes
+))
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-firstaid.sty
+Package: latex-lab-testphase-firstaid 2026-06-08 v0.85x Temporary patches to ex
+ternal packages needed for the tagging project
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-testphase-tikz.sty
+Package: latex-lab-testphase-tikz 2026-05-12 v0.80i Code related to the tagging
+ of tikz pictures
+))
+(C:/MiKTeX/tex/latex/pdfmanagement/pdfmanagement-firstaid.sty
+Package: pdfmanagement-firstaid 2026-05-26 v0.97c LaTeX PDF management bundle /
  firstaid-patches
 
 Package pdfmanagement Info: loading pdfmanagement firstaid code for pgf
 
 )
 (C:/MiKTeX/tex/latex/koma-script/scrbook.cls
-Document Class: scrbook 2025/08/28 v3.47 KOMA-Script document class (book)
+Document Class: scrbook 2026/02/02 v3.49.2 KOMA-Script document class (book)
 (C:/MiKTeX/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2025/08/28 v3.47 KOMA-Script package (KOMA-Script-dependent b
-asics and keyval usage)
+Package: scrkbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-dependent
+ basics and keyval usage)
 
 (C:/MiKTeX/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2025/08/28 v3.47 KOMA-Script package (KOMA-Script-independent 
-basics and keyval usage)
+Package: scrbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-independen
+t basics and keyval usage)
 
 (C:/MiKTeX/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2025/08/28 v3.47 KOMA-Script package (file load hooks)
+Package: scrlfile 2026/02/02 v3.49.2 KOMA-Script package (file load hooks)
 
 (C:/MiKTeX/tex/latex/koma-script/scrlfile-hook.sty
-Package: scrlfile-hook 2025/08/28 v3.47 KOMA-Script package (using LaTeX hooks)
-
+Package: scrlfile-hook 2026/02/02 v3.49.2 KOMA-Script package (using LaTeX hook
+s)
 
 (C:/MiKTeX/tex/latex/koma-script/scrlogo.sty
-Package: scrlogo 2025/08/28 v3.47 KOMA-Script package (logo)
+Package: scrlogo 2026/02/02 v3.49.2 KOMA-Script package (logo)
 )))
 (C:/MiKTeX/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
 )
 Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line
  370.
 ))
 (C:/MiKTeX/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2025/08/28 v3.47 KOMA-Script package (handling toc-files)
-\scr@dte@tocline@numberwidth=\skip49
-\scr@dte@tocline@numbox=\box55
+Package: tocbasic 2026/02/02 v3.49.2 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip64
+\scr@dte@tocline@numbox=\box62
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `toc' on input line 143.
-Class scrbook Info: File `scrsize11pt.clo' used instead of
-(scrbook)           file `scrsize11.clo' to setup font sizes on input line 2709
-.
 
+
+LaTeX Warning: Command \@footnotemark  has changed.
+               Check if current package is valid.
+
+Class scrbook Info: File `scrsize11pt.clo' used instead of
+(scrbook)           file `scrsize11.clo' to setup font sizes on input line 2713
+.
 (C:/MiKTeX/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2025/08/28 v3.47 KOMA-Script font size class option (11pt
+File: scrsize11pt.clo 2026/02/02 v3.49.2 KOMA-Script font size class option (11
+pt)
 )
-luaotfload | db : Font names database loaded from C:/Users/Thunderhelix/AppData/
-Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
 (C:/MiKTeX/tex/latex/koma-script/typearea.sty
-Package: typearea 2025/08/28 v3.47 KOMA-Script package (type area)
-\ta@bcor=\skip50
-\ta@div=\count283
-\ta@hblk=\skip51
-\ta@vblk=\skip52
-\ta@temp=\skip53
-\footheight=\skip54
+Package: typearea 2026/02/02 v3.49.2 KOMA-Script package (type area)
+\ta@bcor=\skip65
+\ta@div=\count317
+\ta@hblk=\skip66
+\ta@vblk=\skip67
+\ta@temp=\skip68
+\footheight=\skip69
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = 10
 (typearea)             BCOR = 0.0pt
@@ -148,110 +417,115 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1806.
+(typearea)              on input line 1810.
 )
-\c@part=\count284
-\c@chapter=\count285
-\c@section=\count286
-\c@subsection=\count287
-\c@subsubsection=\count288
-\c@paragraph=\count289
-\c@subparagraph=\count290
-\scr@dte@chapter@maxnumwidth=\skip55
+\c_scrbook_cmdhook_cctab=\catcodetable14
+
+
+LaTeX Warning: Command \secdef  has changed.
+               Check if current package is valid.
+
+\c@part=\count318
+\c@chapter=\count319
+\c@section=\count320
+\c@subsection=\count321
+\c@subsubsection=\count322
+\c@paragraph=\count323
+\c@subparagraph=\count324
+\scr@dte@chapter@maxnumwidth=\skip70
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\chapter on input line 6075.
-\scr@dte@section@maxnumwidth=\skip56
+(scrbook)           for `\chapter on input line 5945.
+\scr@dte@section@maxnumwidth=\skip71
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\section on input line 6086.
+(scrbook)           for `\section on input line 5956.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\section on input line 6086.
-\scr@dte@part@maxnumwidth=\skip57
+(scrbook)           for `\section on input line 5956.
+\scr@dte@part@maxnumwidth=\skip72
 Class scrbook Info: using compatibility default `afterindent=true'
-(scrbook)           for `\part on input line 6095.
-\scr@dte@subsection@maxnumwidth=\skip58
+(scrbook)           for `\part on input line 5965.
+\scr@dte@subsection@maxnumwidth=\skip73
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\subsection on input line 6105.
+(scrbook)           for `\subsection on input line 5975.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\subsection on input line 6105.
-\scr@dte@subsubsection@maxnumwidth=\skip59
+(scrbook)           for `\subsection on input line 5975.
+\scr@dte@subsubsection@maxnumwidth=\skip74
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\subsubsection on input line 6115.
+(scrbook)           for `\subsubsection on input line 5985.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\subsubsection on input line 6115.
-\scr@dte@paragraph@maxnumwidth=\skip60
+(scrbook)           for `\subsubsection on input line 5985.
+\scr@dte@paragraph@maxnumwidth=\skip75
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\paragraph on input line 6126.
+(scrbook)           for `\paragraph on input line 5996.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\paragraph on input line 6126.
-\scr@dte@subparagraph@maxnumwidth=\skip61
+(scrbook)           for `\paragraph on input line 5996.
+\scr@dte@subparagraph@maxnumwidth=\skip76
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\subparagraph on input line 6136.
+(scrbook)           for `\subparagraph on input line 6006.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\subparagraph on input line 6136.
-\abovecaptionskip=\skip62
-\belowcaptionskip=\skip63
-\c@pti@nb@sid@b@x=\box56
+(scrbook)           for `\subparagraph on input line 6006.
+\abovecaptionskip=\skip77
+\belowcaptionskip=\skip78
+\c@pti@nb@sid@b@x=\box63
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 7349.
-\scr@dte@figure@maxnumwidth=\skip64
-\c@figure=\count291
+(tocbasic)             for `lof' on input line 7242.
+\scr@dte@figure@maxnumwidth=\skip79
+\c@figure=\count325
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 7362.
-\scr@dte@table@maxnumwidth=\skip65
-\c@table=\count292
-Class scrbook Info: Redefining `\numberline' on input line 7533.
-\bibindent=\dimen147
+(tocbasic)             for `lot' on input line 7255.
+\scr@dte@table@maxnumwidth=\skip80
+\c@table=\count326
+Class scrbook Info: Redefining `\numberline' on input line 7426.
+\bibindent=\dimen154
 )
-Lua module: newpax 2025-08-21 v0.56 newpax lua code
-\paperhoffset=\skip66
-\papervoffset=\skip67
-\papervoffsetFirstPage=\skip68
-\doihoffset=\skip69
-\doivoffset=\skip70
-
-(C:/MiKTeX/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+Lua module: newpax 2026-05-09 v0.58 newpax lua code
+\paperhoffset=\skip81
+\papervoffset=\skip82
+\papervoffsetFirstPage=\skip83
+\doihoffset=\skip84
+\doivoffset=\skip85
+ (C:/MiKTeX/tex/latex/geometry/geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
 
 (C:/MiKTeX/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (C:/MiKTeX/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count293
-\Gm@cntv=\count294
-\c@Gm@tempcnt=\count295
-\Gm@bindingoffset=\dimen148
-\Gm@wd@mp=\dimen149
-\Gm@odd@mp=\dimen150
-\Gm@even@mp=\dimen151
-\Gm@layoutwidth=\dimen152
-\Gm@layoutheight=\dimen153
-\Gm@layouthoffset=\dimen154
-\Gm@layoutvoffset=\dimen155
-\Gm@dimlist=\toks18
+\Gm@cnth=\count327
+\Gm@cntv=\count328
+\c@Gm@tempcnt=\count329
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks19
  (C:/MiKTeX/tex/latex/geometry/geometry.cfg))
 (C:/MiKTeX/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count296
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count330
 )
 (C:/MiKTeX/tex/latex/oberdiek/twoopt.sty
 Package: twoopt 2016/05/16 v1.6 Definitions with two optional arguments (HO)
 ) (C:/MiKTeX/tex/latex/ulem/ulem.sty
-\UL@box=\box57
-\UL@hyphenbox=\box58
-\UL@skip=\skip71
-\UL@hook=\toks19
-\UL@height=\dimen156
-\UL@pe=\count297
-\UL@pixel=\dimen157
-\ULC@box=\box59
+\UL@box=\box64
+\UL@hyphenbox=\box65
+\UL@skip=\skip86
+\UL@hook=\toks20
+\UL@height=\dimen163
+\UL@pe=\count331
+\UL@pixel=\dimen164
+\ULC@box=\box66
 Package: ulem 2019/11/18
-\ULdepth=\dimen158
+\ULdepth=\dimen165
 )
 (C:/MiKTeX/tex/generic/babel/babel.sty
-Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLa
+Package: babel 2026/08/21 v26.11 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
 
 (C:/MiKTeX/tex/generic/babel/luababel.def
@@ -334,30 +608,34 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 \l@uppersorbian=\language76
 \l@usenglishmax=\language77
 \l@welsh=\language78
-\babelcatcodetablenum=\catcodetable14
-\bbl@pattcodes=\catcodetable15
+\babelcatcodetablenum=\catcodetable15
+\bbl@pattcodes=\catcodetable16
 )
-\babel@savecnt=\count298
+\babel@savecnt=\count332
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2045.
+ne 2105.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2047.
+ne 2107.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2049.
+e 2109.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2050.
+e 2110.
 LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2051.
+on input line 2111.
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2053.
+on input line 2113.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2078.
-\U@D=\dimen159
+on input line 2138.
+\U@D=\dimen166
 \l@unhyphenated=\language79
 
 (C:/MiKTeX/tex/generic/babel/luababel.def
-\bbl@attr@locale=\attribute4
+\bbl@attr@locale=\attribute11
 )
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4332.
+
 *************************************
 * Local config file bblopts.cfg used
 *
@@ -365,13 +643,12 @@ on input line 2078.
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
+(C:/MiKTeX/tex/generic/babel/locale/en/babel-english.tex)
+Package babel Info: Importing font and identification data for 'english'
+(babel)             from babel-en.ini. Reported on input line 4460.
+
 (C:/MiKTeX/tex/latex/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-
-(C:/MiKTeX/tex/generic/babel/locale/en/babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 12.
-)
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
@@ -396,62 +673,62 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 (C:/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip72
-\f@nch@offset@elh=\skip73
-\f@nch@offset@erh=\skip74
-\f@nch@offset@olh=\skip75
-\f@nch@offset@orh=\skip76
-\f@nch@offset@elf=\skip77
-\f@nch@offset@erf=\skip78
-\f@nch@offset@olf=\skip79
-\f@nch@offset@orf=\skip80
-\f@nch@height=\skip81
-\f@nch@footalignment=\skip82
-\f@nch@widthL=\skip83
-\f@nch@widthC=\skip84
-\f@nch@widthR=\skip85
-\@temptokenb=\toks20
+\f@nch@headwidth=\skip87
+\f@nch@offset@elh=\skip88
+\f@nch@offset@erh=\skip89
+\f@nch@offset@olh=\skip90
+\f@nch@offset@orh=\skip91
+\f@nch@offset@elf=\skip92
+\f@nch@offset@erf=\skip93
+\f@nch@offset@olf=\skip94
+\f@nch@offset@orf=\skip95
+\f@nch@height=\skip96
+\f@nch@footalignment=\skip97
+\f@nch@widthL=\skip98
+\f@nch@widthC=\skip99
+\f@nch@widthR=\skip100
+\@temptokenb=\toks21
 )
 (C:/MiKTeX/tex/latex/fontspec/fontspec.sty
-(C:/MiKTeX/tex/latex/l3packages/xparse/xparse.sty
-(C:/MiKTeX/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-08-13 L3 programming layer (loader) 
-)
-Package: xparse 2024-08-16 L3 Experimental document command parser
-)
-Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaTeX
 (C:/MiKTeX/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+Package: fontspec-luatex 2026/08/11 v2.9h Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count299
-\l__fontspec_language_int=\count300
-\l__fontspec_strnum_int=\count301
-\l__fontspec_tmp_int=\count302
-\l__fontspec_tmpa_int=\count303
-\l__fontspec_tmpb_int=\count304
-\l__fontspec_tmpc_int=\count305
-\l__fontspec_em_int=\count306
-\l__fontspec_emdef_int=\count307
-\l__fontspec_strong_int=\count308
-\l__fontspec_strongdef_int=\count309
-\l__fontspec_tmpa_dim=\dimen160
-\l__fontspec_tmpb_dim=\dimen161
-\l__fontspec_tmpc_dim=\dimen162
+\l__fontspec_script_int=\count333
+\l__fontspec_language_int=\count334
+\l__fontspec_strnum_int=\count335
+\l__fontspec_tmp_int=\count336
+\l__fontspec_tmpa_int=\count337
+\l__fontspec_tmpb_int=\count338
+\l__fontspec_tmpc_int=\count339
+\l__fontspec_em_int=\count340
+\l__fontspec_emdef_int=\count341
+\l__fontspec_strong_int=\count342
+\l__fontspec_strongdef_int=\count343
+\l__fontspec_tmpa_dim=\dimen167
+\l__fontspec_tmpb_dim=\dimen168
+\l__fontspec_tmpc_dim=\dimen169
 
 (C:/MiKTeX/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
 (C:/MiKTeX/tex/latex/fontspec/fontspec.cfg)))
 (C:/MiKTeX/tex/latex/unicode-math/unicode-math.sty
+(C:/MiKTeX/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-08-10 L3 programming layer (loader) 
+)
 Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
 
 (C:/MiKTeX/tex/latex/unicode-math/unicode-math-luatex.sty
 Package: unicode-math-luatex 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaL
 aTeX
 
+(C:/MiKTeX/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
 (C:/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 )
 (C:/MiKTeX/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
@@ -714,8 +991,8 @@ LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on inpu
 t line 194.
 ))
 (C:/MiKTeX/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
-\@mathmargin=\skip86
+Package: amsmath 2026/05/19 v2.18d AMS math features
+\@mathmargin=\skip101
 
 For additional information on amsmath, use the `?' option.
 (C:/MiKTeX/tex/latex/amsmath/amstext.sty
@@ -723,75 +1000,84 @@ Package: amstext 2024/11/17 v2.01 AMS text
 
 (C:/MiKTeX/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
-\ex@=\dimen163
+\@emptytoks=\toks22
+\ex@=\dimen170
 ))
 (C:/MiKTeX/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen164
+\pmbraise@=\dimen171
 )
 (C:/MiKTeX/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count310
+\inf@bad=\count344
 LaTeX Info: Redefining \frac on input line 235.
-\uproot@=\count311
-\leftroot@=\count312
+\uproot@=\count345
+\leftroot@=\count346
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count313
-\DOTSCASE@=\count314
+\classnum@=\count347
+\DOTSCASE@=\count348
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box60
-\strutbox@=\box61
+\Mathstrutbox@=\box67
+\strutbox@=\box68
 LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen165
+\big@size=\dimen172
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count315
+\macc@depth=\count349
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count316
+\c@MaxMatrixCols=\count350
 \dotsspace@=\muskip17
-\c@parentequation=\count317
-\dspbrk@lvl=\count318
-\tag@help=\toks22
-\row@=\count319
-\column@=\count320
-\maxfields@=\count321
-\andhelp@=\toks23
-\eqnshift@=\dimen166
-\alignsep@=\dimen167
-\tagshift@=\dimen168
-\tagwidth@=\dimen169
-\totwidth@=\dimen170
-\lineht@=\dimen171
-\@envbody=\toks24
-\multlinegap=\skip87
-\multlinetaggap=\skip88
-\mathdisplay@stack=\toks25
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
+\c@parentequation=\count351
+\dspbrk@lvl=\count352
+\tag@help=\toks23
+\row@=\count353
+\column@=\count354
+\maxfields@=\count355
+\andhelp@=\toks24
+\eqnshift@=\dimen173
+\alignsep@=\dimen174
+\tagshift@=\dimen175
+\tagwidth@=\dimen176
+\totwidth@=\dimen177
+\lineht@=\dimen178
+\@envbody=\toks25
+\multlinegap=\skip102
+\multlinetaggap=\skip103
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2965.
+LaTeX Info: Redefining \] on input line 2966.
+)
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-amsmath.ltx
+File: latex-lab-amsmath.ltx 2026-04-25 v0.1j amsmath adaptions
+LaTeX Info: Redefining \eqref on input line 58.
+\l__luamml_struct_tmpa_int=\count356
 )
 (C:/MiKTeX/tex/lualatex/lualatex-math/lualatex-math.sty
 Package: lualatex-math 2022/01/01 v1.12 Patches for mathematics typesetting wit
 h LuaLaTeX
 Lua module: lualatex-math 2013/08/03 v1.3 Patches for mathematics typesetting wi
 th LuaLaTeX)
-\g__um_fam_int=\count322
-\g__um_fonts_used_int=\count323
-\l__um_primecount_int=\count324
+\g__um_fam_int=\count357
+\g__um_fonts_used_int=\count358
+\l__um_primecount_int=\count359
 \g__um_primekern_muskip=\muskip18
 
 (C:/MiKTeX/tex/latex/unicode-math/unicode-math-table.tex)))
+(C:/MiKTeX/tex/latex/latex-lab/latex-lab-unicode-math.ltx
+File: latex-lab-unicode-math.ltx 2026-01-16 v0.1f unicode-mathadaptions
+LaTeX Info: Redefining \frac on input line 106.
+)
 
 Package fontspec Info: 
 (fontspec)             Font family 'texgyretermes(0)' created for font
@@ -970,33 +1256,33 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 t line 158.
 
 (C:/MiKTeX/tex/latex/microtype/microtype.sty
-Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
-\MT@toks=\toks26
-\MT@tempbox=\box62
-\MT@count=\count325
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
-LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks27
-LaTeX Info: Redefining \rightprotrusion on input line 1107.
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+\MT@toks=\toks27
+\MT@tempbox=\box69
+\MT@count=\count360
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks28
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen172
+\MT@outer@kern=\dimen179
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count326
+\MT@listname@count=\count361
 
 (C:/MiKTeX/tex/latex/microtype/microtype-luatex.def
-File: microtype-luatex.def 2025/07/09 v3.2b Definitions specific to luatex (RS)
+File: microtype-luatex.def 2026/03/01 v3.2d Definitions specific to luatex (RS)
 
-Lua module: microtype 2025/07/09 v3.2b microtype module.
+Lua module: microtype 2026/03/01 v3.2d microtype module.
 Module microtype Info: overwriting function `keepligature' on input line 63
 LaTeX Info: Redefining \lsstyle on input line 779.
 LaTeX Info: Redefining \lslig on input line 779.
-\MT@outer@space=\skip89
+\MT@outer@space=\skip104
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (C:/MiKTeX/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
 )
@@ -1011,17 +1297,17 @@ Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX
 
 (C:/MiKTeX/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count327
+\@catcodetablestackcnt=\count362
 )
-\CatcodeTableOther=\catcodetable16
-\CatcodeTableExpl=\catcodetable17
+\CatcodeTableOther=\catcodetable17
+\CatcodeTableExpl=\catcodetable18
 )
 Inserting `Suppress ligatures selectively' in `ligaturing'.)
 (C:/MiKTeX/tex/latex/graphics/graphicx.sty
-Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:/MiKTeX/tex/latex/graphics/graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
 
 (C:/MiKTeX/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
@@ -1032,15 +1318,15 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: luatex.def on input line 106.
 
 (C:/MiKTeX/tex/latex/graphics-def/luatex.def
-File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+File: luatex.def 2025/09/29 v1.2f Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen173
-\Gin@req@width=\dimen174
+\Gin@req@height=\dimen180
+\Gin@req@width=\dimen181
 )
 (C:/MiKTeX/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen175
-\ESO@tempdimb=\dimen176
+Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
+\ESO@tempdima=\dimen182
+\ESO@tempdimb=\dimen183
  (C:/MiKTeX/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 (C:/MiKTeX/tex/latex/graphics-cfg/color.cfg
@@ -1059,26 +1345,26 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
-(C:/MiKTeX/tex/latex/pdfmanagement-testphase/xcolor-patches-tmp-ltx.sty
-Package: xcolor-patches-tmp-ltx 2025-08-05 v0.96v patch xcolor for l3color
+(C:/MiKTeX/tex/latex/pdfmanagement/xcolor-patches-tmp-ltx.sty
+Package: xcolor-patches-tmp-ltx 2026-05-26 v0.97c patch xcolor for l3color
 ))
 (C:/MiKTeX/tex/latex/newpax/newpax.sty
-Package: newpax 2025-08-21 v0.56 Annotation support for PDF graphics based on p
+Package: newpax 2026-05-09 v0.58 Annotation support for PDF graphics based on p
 ax.sty adapted by (UF)
-\l__newpax_tmpa_box=\box63
+\l__newpax_tmpa_box=\box70
 )
 (C:/MiKTeX/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count328
-\csq@gtype=\count329
-\csq@glevel=\count330
-\csq@qlevel=\count331
-\csq@maxlvl=\count332
-\csq@tshold=\count333
-\csq@ltx@everypar=\toks28
+Package: csquotes 2026-05-19 v5.2p context-sensitive quotations (JAW)
+\csq@reset=\count363
+\csq@gtype=\count364
+\csq@glevel=\count365
+\csq@qlevel=\count366
+\csq@maxlvl=\count367
+\csq@tshold=\count368
+\csq@ltx@everypar=\toks29
 
 (C:/MiKTeX/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+File: csquotes.def 2026-05-19 v5.2p csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
@@ -1091,14 +1377,14 @@ Package: newfile 2009/09/03 v1.0c Output and input files
 
 (C:/MiKTeX/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks29
-\verbatim@line=\toks30
+\every@verbatim=\toks30
+\verbatim@line=\toks31
 \verbatim@in@stream=\read3
 )
-\c@streamvline=\count334
+\c@streamvline=\count369
 )
 (C:/MiKTeX/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+Package: biblatex 2026/08/13 v3.22 programmable bibliographies (PK/MW)
 
 (C:/MiKTeX/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -1113,7 +1399,7 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks31
+\pdftexcmds@toks=\toks32
 )
 (C:/MiKTeX/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -1123,7 +1409,7 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
 (C:/MiKTeX/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count335
+\lrq@indent=\count370
  (C:/MiKTeX/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (C:/MiKTeX/tex/latex/base/ifthen.sty
@@ -1132,155 +1418,155 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip19
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count336
-\c@listtotal=\count337
-\c@listcount=\count338
-\c@liststart=\count339
-\c@liststop=\count340
-\c@citecount=\count341
-\c@citetotal=\count342
-\c@multicitecount=\count343
-\c@multicitetotal=\count344
-\c@instcount=\count345
-\c@maxnames=\count346
-\c@minnames=\count347
-\c@maxitems=\count348
-\c@minitems=\count349
-\c@citecounter=\count350
-\c@maxcitecounter=\count351
-\c@savedcitecounter=\count352
-\c@uniquelist=\count353
-\c@uniquename=\count354
-\c@refsection=\count355
-\c@refsegment=\count356
-\c@maxextratitle=\count357
-\c@maxextratitleyear=\count358
-\c@maxextraname=\count359
-\c@maxextradate=\count360
-\c@maxextraalpha=\count361
-\c@abbrvpenalty=\count362
-\c@highnamepenalty=\count363
-\c@lownamepenalty=\count364
-\c@maxparens=\count365
-\c@parenlevel=\count366
-\blx@tempcnta=\count367
-\blx@tempcntb=\count368
-\blx@tempcntc=\count369
-\c@blx@maxsection=\count370
-\blx@maxsegment@0=\count371
-\blx@notetype=\count372
-\blx@parenlevel@text=\count373
-\blx@parenlevel@foot=\count374
-\blx@sectionciteorder@0=\count375
-\blx@sectionciteorderinternal@0=\count376
-\blx@entrysetcounter=\count377
-\blx@biblioinstance=\count378
-\labelnumberwidth=\skip90
-\labelalphawidth=\skip91
-\biblabelsep=\skip92
-\bibitemsep=\skip93
-\bibnamesep=\skip94
-\bibinitsep=\skip95
-\bibparsep=\skip96
-\bibhang=\skip97
+\c@tabx@nest=\count371
+\c@listtotal=\count372
+\c@listcount=\count373
+\c@liststart=\count374
+\c@liststop=\count375
+\c@citecount=\count376
+\c@citetotal=\count377
+\c@multicitecount=\count378
+\c@multicitetotal=\count379
+\c@instcount=\count380
+\c@maxnames=\count381
+\c@minnames=\count382
+\c@maxitems=\count383
+\c@minitems=\count384
+\c@citecounter=\count385
+\c@maxcitecounter=\count386
+\c@savedcitecounter=\count387
+\c@uniquelist=\count388
+\c@uniquename=\count389
+\c@refsection=\count390
+\c@refsegment=\count391
+\c@maxextratitle=\count392
+\c@maxextratitleyear=\count393
+\c@maxextraname=\count394
+\c@maxextradate=\count395
+\c@maxextraalpha=\count396
+\c@abbrvpenalty=\count397
+\c@highnamepenalty=\count398
+\c@lownamepenalty=\count399
+\c@maxparens=\count400
+\c@parenlevel=\count401
+\blx@tempcnta=\count402
+\blx@tempcntb=\count403
+\blx@tempcntc=\count404
+\c@blx@maxsection=\count405
+\blx@maxsegment@0=\count406
+\blx@notetype=\count407
+\blx@parenlevel@text=\count408
+\blx@parenlevel@foot=\count409
+\blx@sectionciteorder@0=\count410
+\blx@sectionciteorderinternal@0=\count411
+\blx@entrysetcounter=\count412
+\blx@biblioinstance=\count413
+\labelnumberwidth=\skip105
+\labelalphawidth=\skip106
+\biblabelsep=\skip107
+\bibitemsep=\skip108
+\bibnamesep=\skip109
+\bibinitsep=\skip110
+\bibparsep=\skip111
+\bibhang=\skip112
 \blx@bcfin=\read4
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count379
-\c@maxcomprange=\count380
-\c@mincompwidth=\count381
+\c@mincomprange=\count414
+\c@maxcomprange=\count415
+\c@mincompwidth=\count416
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (C:/MiKTeX/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+File: blx-dm.def 2026/08/13 v3.22 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count382
-\c@savedafterword=\count383
-\c@annotator=\count384
-\c@savedannotator=\count385
-\c@author=\count386
-\c@savedauthor=\count387
-\c@bookauthor=\count388
-\c@savedbookauthor=\count389
-\c@commentator=\count390
-\c@savedcommentator=\count391
-\c@editor=\count392
-\c@savededitor=\count393
-\c@editora=\count394
-\c@savededitora=\count395
-\c@editorb=\count396
-\c@savededitorb=\count397
-\c@editorc=\count398
-\c@savededitorc=\count399
-\c@foreword=\count400
-\c@savedforeword=\count401
-\c@holder=\count402
-\c@savedholder=\count403
-\c@introduction=\count404
-\c@savedintroduction=\count405
-\c@namea=\count406
-\c@savednamea=\count407
-\c@nameb=\count408
-\c@savednameb=\count409
-\c@namec=\count410
-\c@savednamec=\count411
-\c@translator=\count412
-\c@savedtranslator=\count413
-\c@shortauthor=\count414
-\c@savedshortauthor=\count415
-\c@shorteditor=\count416
-\c@savedshorteditor=\count417
-\c@labelname=\count418
-\c@savedlabelname=\count419
-\c@institution=\count420
-\c@savedinstitution=\count421
-\c@lista=\count422
-\c@savedlista=\count423
-\c@listb=\count424
-\c@savedlistb=\count425
-\c@listc=\count426
-\c@savedlistc=\count427
-\c@listd=\count428
-\c@savedlistd=\count429
-\c@liste=\count430
-\c@savedliste=\count431
-\c@listf=\count432
-\c@savedlistf=\count433
-\c@location=\count434
-\c@savedlocation=\count435
-\c@organization=\count436
-\c@savedorganization=\count437
-\c@origlocation=\count438
-\c@savedoriglocation=\count439
-\c@origpublisher=\count440
-\c@savedorigpublisher=\count441
-\c@publisher=\count442
-\c@savedpublisher=\count443
-\c@language=\count444
-\c@savedlanguage=\count445
-\c@origlanguage=\count446
-\c@savedoriglanguage=\count447
-\c@pageref=\count448
-\c@savedpageref=\count449
-\shorthandwidth=\skip98
-\shortjournalwidth=\skip99
-\shortserieswidth=\skip100
-\shorttitlewidth=\skip101
-\shortauthorwidth=\skip102
-\shorteditorwidth=\skip103
-\locallabelnumberwidth=\skip104
-\locallabelalphawidth=\skip105
-\localshorthandwidth=\skip106
-\localshortjournalwidth=\skip107
-\localshortserieswidth=\skip108
-\localshorttitlewidth=\skip109
-\localshortauthorwidth=\skip110
-\localshorteditorwidth=\skip111
+\c@afterword=\count417
+\c@savedafterword=\count418
+\c@annotator=\count419
+\c@savedannotator=\count420
+\c@author=\count421
+\c@savedauthor=\count422
+\c@bookauthor=\count423
+\c@savedbookauthor=\count424
+\c@commentator=\count425
+\c@savedcommentator=\count426
+\c@editor=\count427
+\c@savededitor=\count428
+\c@editora=\count429
+\c@savededitora=\count430
+\c@editorb=\count431
+\c@savededitorb=\count432
+\c@editorc=\count433
+\c@savededitorc=\count434
+\c@foreword=\count435
+\c@savedforeword=\count436
+\c@holder=\count437
+\c@savedholder=\count438
+\c@introduction=\count439
+\c@savedintroduction=\count440
+\c@namea=\count441
+\c@savednamea=\count442
+\c@nameb=\count443
+\c@savednameb=\count444
+\c@namec=\count445
+\c@savednamec=\count446
+\c@translator=\count447
+\c@savedtranslator=\count448
+\c@shortauthor=\count449
+\c@savedshortauthor=\count450
+\c@shorteditor=\count451
+\c@savedshorteditor=\count452
+\c@labelname=\count453
+\c@savedlabelname=\count454
+\c@institution=\count455
+\c@savedinstitution=\count456
+\c@lista=\count457
+\c@savedlista=\count458
+\c@listb=\count459
+\c@savedlistb=\count460
+\c@listc=\count461
+\c@savedlistc=\count462
+\c@listd=\count463
+\c@savedlistd=\count464
+\c@liste=\count465
+\c@savedliste=\count466
+\c@listf=\count467
+\c@savedlistf=\count468
+\c@location=\count469
+\c@savedlocation=\count470
+\c@organization=\count471
+\c@savedorganization=\count472
+\c@origlocation=\count473
+\c@savedoriglocation=\count474
+\c@origpublisher=\count475
+\c@savedorigpublisher=\count476
+\c@publisher=\count477
+\c@savedpublisher=\count478
+\c@language=\count479
+\c@savedlanguage=\count480
+\c@origlanguage=\count481
+\c@savedoriglanguage=\count482
+\c@pageref=\count483
+\c@savedpageref=\count484
+\shorthandwidth=\skip113
+\shortjournalwidth=\skip114
+\shortserieswidth=\skip115
+\shorttitlewidth=\skip116
+\shortauthorwidth=\skip117
+\shorteditorwidth=\skip118
+\locallabelnumberwidth=\skip119
+\locallabelalphawidth=\skip120
+\localshorthandwidth=\skip121
+\localshortjournalwidth=\skip122
+\localshortserieswidth=\skip123
+\localshorttitlewidth=\skip124
+\localshortauthorwidth=\skip125
+\localshorteditorwidth=\skip126
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -1289,45 +1575,45 @@ Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (C:/MiKTeX/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+File: blx-compat.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
 (C:/MiKTeX/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count450
-\c@textcitetotal=\count451
-\c@textcitemaxnames=\count452
-\c@biburlbigbreakpenalty=\count453
-\c@biburlbreakpenalty=\count454
-\c@biburlnumpenalty=\count455
-\c@biburlucpenalty=\count456
-\c@biburllcpenalty=\count457
+File: biblatex.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
+\c@textcitecount=\count485
+\c@textcitetotal=\count486
+\c@textcitemaxnames=\count487
+\c@biburlbigbreakpenalty=\count488
+\c@biburlbreakpenalty=\count489
+\c@biburlnumpenalty=\count490
+\c@biburlucpenalty=\count491
+\c@biburllcpenalty=\count492
 \biburlbigskip=\muskip20
 \biburlnumskip=\muskip21
 \biburlucskip=\muskip22
 \biburllcskip=\muskip23
-\c@smartand=\count458
+\c@smartand=\count493
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
 (C:/MiKTeX/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+File: authoryear.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (C:/MiKTeX/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count459
-\c@bbx:relatedtotal=\count460
+File: standard.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count494
+\c@bbx:relatedtotal=\count495
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
 
 (C:/MiKTeX/tex/latex/biblatex/cbx/authoryear.cbx
-File: authoryear.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+File: authoryear.cbx 2026/08/13 v3.22 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1346,12 +1632,12 @@ Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2025-08-13 L3 programming layer (loader) 
+(biblatex)             2026-08-10 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
 (C:/MiKTeX/tex/latex/biblatex/blx-case-expl3.sty
-Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+Package: blx-case-expl3 2026/08/13 v3.22 expl3 case changing code for biblatex
 ))
 \proceedingsbiboutstre@m=\write4
 
@@ -1372,36 +1658,29 @@ Writing index file proceedings.idx
 Package: idxlayout 2012/03/30 v0.4d Configurable index layout
 
 (C:/MiKTeX/tex/latex/tools/multicol.sty
-Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
-\c@tracingmulticols=\count461
-\mult@box=\box64
-\multicol@leftmargin=\dimen177
-\c@unbalance=\count462
-\c@collectmore=\count463
-\doublecol@number=\count464
-\multicoltolerance=\count465
-\multicolpretolerance=\count466
-\full@width=\dimen178
-\page@free=\dimen179
-\premulticols=\dimen180
-\postmulticols=\dimen181
-\multicolsep=\skip112
-\multicolbaselineskip=\skip113
-\partial@page=\box65
-\last@line=\box66
-\mc@boxedresult=\box67
-\maxbalancingoverflow=\dimen182
-\mult@rightbox=\box68
-\mult@grightbox=\box69
-\mult@firstbox=\box70
-\mult@gfirstbox=\box71
-\@tempa=\box72
-\@tempa=\box73
-\@tempa=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\@tempa=\box78
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count496
+\mult@box=\box71
+\multicol@leftmargin=\dimen184
+\c@unbalance=\count497
+\c@collectmore=\count498
+\doublecol@number=\count499
+\multicoltolerance=\count500
+\multicolpretolerance=\count501
+\full@width=\dimen185
+\page@free=\dimen186
+\premulticols=\dimen187
+\postmulticols=\dimen188
+\multicolsep=\skip127
+\multicolbaselineskip=\skip128
+\partial@page=\box72
+\last@line=\box73
+\mc@boxedresult=\box74
+\maxbalancingoverflow=\dimen189
+\mult@rightbox=\box75
+\mult@grightbox=\box76
+\mult@firstbox=\box77
+\mult@gfirstbox=\box78
 \@tempa=\box79
 \@tempa=\box80
 \@tempa=\box81
@@ -1431,22 +1710,29 @@ Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
 \@tempa=\box105
 \@tempa=\box106
 \@tempa=\box107
-\c@minrows=\count467
-\c@columnbadness=\count468
-\c@finalcolumnbadness=\count469
-\last@try=\dimen183
-\multicolovershoot=\dimen184
-\multicolundershoot=\dimen185
-\mult@nat@firstbox=\box108
-\colbreak@box=\box109
-\mc@col@check@num=\count470
-\g__mc_curr_col_int=\count471
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\c@minrows=\count502
+\c@columnbadness=\count503
+\c@finalcolumnbadness=\count504
+\last@try=\dimen190
+\multicolovershoot=\dimen191
+\multicolundershoot=\dimen192
+\mult@nat@firstbox=\box115
+\colbreak@box=\box116
+\mc@col@check@num=\count505
+\g__mc_curr_col_int=\count506
 )
-\c@idxcols=\count472
-\indexcolsep=\skip114
-\indexrule=\skip115
-\ila@indentunit=\skip116
-\ila@initsep=\skip117
+\c@idxcols=\count507
+\indexcolsep=\skip129
+\indexrule=\skip130
+\ila@indentunit=\skip131
+\ila@initsep=\skip132
 )
 (C:/MiKTeX/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
@@ -1454,7 +1740,7 @@ Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 LaTeX Info: Redefining \_ on input line 43.
 )
 (C:/MiKTeX/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+Package: hyperref 2026-06-17 v7.01r Hypertext links for LaTeX
 
 (C:/MiKTeX/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
@@ -1466,7 +1752,7 @@ Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
 (C:/MiKTeX/tex/latex/hyperref/nameref.sty
-Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
 
 (C:/MiKTeX/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -1474,45 +1760,45 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (C:/MiKTeX/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count473
+\c@section@level=\count508
 )
 (C:/MiKTeX/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen186
-\Hy@linkcounter=\count474
-\Hy@pagecounter=\count475
+\@linkdim=\dimen193
+\Hy@linkcounter=\count509
+\Hy@pagecounter=\count510
 
 (C:/MiKTeX/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2026-06-17 v7.01r Hyperref: PDFDocEncoding definition (HO)
 )
 (C:/MiKTeX/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count476
+\Hy@SavedSpaceFactor=\count511
 
 (C:/MiKTeX/tex/latex/hyperref/puenc.def
-File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2026-06-17 v7.01r Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4066.
+Package hyperref Info: Option `unicode' set `true' on input line 4070.
 
 
 Package hyperref Warning: \DocumentMetadata detected.
 (hyperref)                The 'pdfa' key will be ignored.
 (hyperref)                Please set the PDF/A standard in \DocumentMetadata
-(hyperref)                with the 'pdfstandard' key. on input line 4066.
+(hyperref)                with the 'pdfstandard' key. on input line 4070.
 
-Package hyperref Info: Hyper figures OFF on input line 4195.
-Package hyperref Info: Link nesting OFF on input line 4200.
-Package hyperref Info: Hyper index ON on input line 4203.
-Package hyperref Info: Plain pages OFF on input line 4210.
-Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count477
-LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen187
+Package hyperref Info: Bookmarks ON on input line 4466.
+\c@Hy@tempcnt=\count512
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen194
 (C:/MiKTeX/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
@@ -1520,78 +1806,77 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count478
-\Field@Width=\dimen188
-\Fld@charsize=\dimen189
-Package hyperref Info: Hyper figures OFF on input line 6078.
-Package hyperref Info: Link nesting OFF on input line 6083.
-Package hyperref Info: Hyper index ON on input line 6086.
-Package hyperref Info: backreferencing OFF on input line 6093.
-Package hyperref Info: Link coloring OFF on input line 6098.
-Package hyperref Info: Link coloring with OCG OFF on input line 6103.
-Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count479
-\c@Item=\count480
-\c@Hfootnote=\count481
+\Fld@menulength=\count513
+\Field@Width=\dimen195
+\Fld@charsize=\dimen196
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
+\Hy@abspage=\count514
+\c@Item=\count515
 )
 Package hyperref Info: Driver (custom): hgeneric-testphase.
 
-(C:/MiKTeX/tex/latex/pdfmanagement-testphase/hgeneric-testphase.def
-File: hgeneric-testphase.def 2025-08-05 v0.96v generic Hyperref driver for the 
+(C:/MiKTeX/tex/latex/pdfmanagement/hgeneric-testphase.def
+File: hgeneric-testphase.def 2026-05-26 v0.97c generic Hyperref driver for the 
 LaTeX PDF management bundle
 
-(C:/MiKTeX/tex/latex/pdfmanagement-testphase/hyperref-colorschemes.def)
-LaTeX Info: Redefining \href on input line 274.
-LaTeX Info: Redefining \url on input line 360.
-\l__hyp_tmpa_box=\box110
-\l__hyp_tmpa_int=\count482
-\l__hyp_dest_box=\box111
-\g__hyp_linknestlevel_int=\count483
-\HyAnn@Count=\count484
-\Fld@listcount=\count485
-\Hy@SectionHShift=\skip118
-)
-(C:/MiKTeX/tex/latex/bookmark/bookmark.sty
-Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+(C:/MiKTeX/tex/latex/pdfmanagement/hyperref-colorschemes.def)
+LaTeX Info: Redefining \href on input line 262.
+LaTeX Info: Redefining \url on input line 348.
 
-(C:/MiKTeX/tex/latex/bookmark/bkm-pdftex.def
-File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
-)
-\BKM@id=\count486
+(C:/MiKTeX/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2026-05-21 v1.32 PDF bookmarks (HO)
+
+(C:/MiKTeX/tex/latex/bookmark/bkm-luatex.def
+File: bkm-luatex.def 2026-05-21 v1.32 bookmark driver for luaTeX (HO)
+\BKM@id=\count516
 ))
+\l__hyp_tmpa_box=\box117
+\l__hyp_tmpa_int=\count517
+\l__hyp_dest_box=\box118
+\g__hyp_linknestlevel_int=\count518
+\HyAnn@Count=\count519
+\Fld@listcount=\count520
+\Hy@SectionHShift=\skip133
+)
 (C:/MiKTeX/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+Package: pdfpages 2026/03/30 v0.6h Insert pages of external PDF documents (AM)
  (C:/MiKTeX/tex/latex/tools/calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
-\calc@Acount=\count487
-\calc@Bcount=\count488
-\calc@Adimen=\dimen190
-\calc@Bdimen=\dimen191
-\calc@Askip=\skip119
-\calc@Bskip=\skip120
+\calc@Acount=\count521
+\calc@Bcount=\count522
+\calc@Adimen=\dimen197
+\calc@Bdimen=\dimen198
+\calc@Askip=\skip134
+\calc@Bskip=\skip135
 LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
-\calc@Ccount=\count489
-\calc@Cskip=\skip121
+\calc@Ccount=\count523
+\calc@Cskip=\skip136
 )
-\AM@pagewidth=\dimen192
-\AM@pageheight=\dimen193
-\AM@fboxrule=\dimen194
+\AM@pagewidth=\dimen199
+\AM@pageheight=\dimen256
+\AM@fboxrule=\dimen257
 (C:/MiKTeX/tex/latex/pdfpages/ppluatex.def
-File: ppluatex.def 2025/07/23 v0.6g Pdfpages driver for LuaTeX (AM)
+File: ppluatex.def 2026/03/30 v0.6h Pdfpages driver for LuaTeX (AM)
 )
-\pdfpages@includegraphics@status=\count490
-\AM@pagebox=\box112
-\AM@global@opts=\toks32
-\AM@pagecnt=\count491
-\AM@toc@title=\toks33
-\AM@lof@heading=\toks34
-\c@AM@survey=\count492
-\AM@templatesizebox=\box113
+\pdfpages@includegraphics@status=\count524
+\AM@pagebox=\box119
+\AM@global@opts=\toks33
+\AM@pagecnt=\count525
+\AM@toc@title=\toks34
+\AM@lof@heading=\toks35
+\c@AM@survey=\count526
+\AM@templatesizebox=\box120
 ) (./config.tex)
-\c@startpage=\count493
-\c@curpage=\count494
-\c@curpaper=\count495
+\c@startpage=\count527
+\c@curpage=\count528
+\c@curpaper=\count529
 
 (C:/MiKTeX/tex/latex/ccicons/ccicons.sty
 Package: ccicons 2017/10/30 v1.6 LaTeX support for Creative Commons icons
@@ -1601,10 +1886,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:/MiKTeX/tex/generic/xkeyval/xkeyval.tex
 (C:/MiKTeX/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks35
-\XKV@tempa@toks=\toks36
+\XKV@toks=\toks36
+\XKV@tempa@toks=\toks37
 )
-\XKV@depth=\count496
+\XKV@depth=\count530
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 Package csquotes Info: Checking for multilingual support...
@@ -1614,20 +1899,21 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 
 (C:/MiKTeX/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-\CenteringLeftskip=\skip122
-\RaggedLeftLeftskip=\skip123
-\RaggedRightLeftskip=\skip124
-\CenteringRightskip=\skip125
-\RaggedLeftRightskip=\skip126
-\RaggedRightRightskip=\skip127
-\CenteringParfillskip=\skip128
-\RaggedLeftParfillskip=\skip129
-\RaggedRightParfillskip=\skip130
-\JustifyingParfillskip=\skip131
-\CenteringParindent=\skip132
-\RaggedLeftParindent=\skip133
-\RaggedRightParindent=\skip134
-\JustifyingParindent=\skip135
+\CenteringLeftskip=\skip137
+\RaggedLeftLeftskip=\skip138
+\RaggedRightLeftskip=\skip139
+\CenteringRightskip=\skip140
+\RaggedLeftRightskip=\skip141
+\RaggedRightRightskip=\skip142
+\CenteringParfillskip=\skip143
+\RaggedLeftParfillskip=\skip144
+\RaggedRightParfillskip=\skip145
+\JustifyingParfillskip=\skip146
+\CenteringParindent=\skip147
+\RaggedLeftParindent=\skip148
+\RaggedRightParindent=\skip149
+\JustifyingParindent=\skip150
+LaTeX Info: Redefining \justifying on input line 260.
 ) (./proceedings.aux)
 \openout1 = proceedings.aux
 
@@ -1845,17 +2131,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 (C:/MiKTeX/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count497
-\scratchdimen=\dimen195
-\scratchbox=\box114
-\nofMPsegments=\count498
-\nofMParguments=\count499
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count500
-\MPscratchDim=\dimen196
-\MPnumerator=\count501
-\makeMPintoPDFobject=\count502
-\everyMPtoPDFconversion=\toks38
+\scratchcounter=\count531
+\scratchdimen=\dimen258
+\scratchbox=\box121
+\nofMPsegments=\count532
+\nofMParguments=\count533
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count534
+\MPscratchDim=\dimen259
+\MPnumerator=\count535
+\makeMPintoPDFobject=\count536
+\everyMPtoPDFconversion=\toks39
 ) (C:/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1868,7 +2154,7 @@ Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 (C:/MiKTeX/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+File: english.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
 )
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -1889,17 +2175,19 @@ Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 (C:/MiKTeX/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 ))
+\g__cctab_next_cctab=\catcodetable19
+Package babel Info: Main language set to 'english'.
 
-LaTeX DocumentMetadata Warning: The language has not been set in
-(DocumentMetadata)              \DocumentMetadata.
-(DocumentMetadata)              Setting it to 'en' as fallback.
 
-<LNI-Startseiten.pdf, id=6, 597.45207pt x 844.15375pt>
+Package tagpdf Info: luamml has been disabled and will not create a MathML
+(tagpdf)             file.
+
+<LNI-Startseiten.pdf, id=22, 597.45207pt x 844.15375pt>
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf>
 Package luatex.def Info: LNI-Startseiten.pdf  used on input line 442.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
-<LNI-Startseiten.pdf, id=8, page=1, 597.45207pt x 844.15375pt>
+<LNI-Startseiten.pdf, id=24, page=1, 597.45207pt x 844.15375pt>
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 1>
 Package luatex.def Info: LNI-Startseiten.pdf , page1 used on input line 442.
@@ -1912,8 +2200,6 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 1>
 Package luatex.def Info: LNI-Startseiten.pdf , page1 used on input line 442.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
-
-
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 1>
 Package luatex.def Info: LNI-Startseiten.pdf , page1 used on input line 442.
@@ -1923,7 +2209,11 @@ Package luatex.def Info: LNI-Startseiten.pdf , page1 used on input line 442.
 
 
 <./LNI-Startseiten.pdf>]
-<LNI-Startseiten.pdf, id=17, page=2, 597.45207pt x 844.15375pt>
+<LNI-Startseiten.pdf, id=33, page=2, 597.45207pt x 844.15375pt>
+File: LNI-Startseiten.pdf Graphic file (type pdf)
+<use LNI-Startseiten.pdf, page 2>
+Package luatex.def Info: LNI-Startseiten.pdf , page2 used on input line 442.
+(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 2>
 Package luatex.def Info: LNI-Startseiten.pdf , page2 used on input line 442.
@@ -1933,11 +2223,6 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 Package luatex.def Info: LNI-Startseiten.pdf , page2 used on input line 442.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 
-
-File: LNI-Startseiten.pdf Graphic file (type pdf)
-<use LNI-Startseiten.pdf, page 2>
-Package luatex.def Info: LNI-Startseiten.pdf , page2 used on input line 442.
-(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 * Missing: LNI-Startseiten.newpax
 [2
 
@@ -1946,7 +2231,11 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf>
 Package luatex.def Info: LNI-Startseiten.pdf  used on input line 445.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
-<LNI-Startseiten.pdf, id=23, page=3, 597.45207pt x 844.15375pt>
+<LNI-Startseiten.pdf, id=39, page=3, 597.45207pt x 844.15375pt>
+File: LNI-Startseiten.pdf Graphic file (type pdf)
+<use LNI-Startseiten.pdf, page 3>
+Package luatex.def Info: LNI-Startseiten.pdf , page3 used on input line 445.
+(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 3>
 Package luatex.def Info: LNI-Startseiten.pdf , page3 used on input line 445.
@@ -1960,16 +2249,15 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 Package luatex.def Info: LNI-Startseiten.pdf , page3 used on input line 445.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 
-
-File: LNI-Startseiten.pdf Graphic file (type pdf)
-<use LNI-Startseiten.pdf, page 3>
-Package luatex.def Info: LNI-Startseiten.pdf , page3 used on input line 445.
-(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 * Missing: LNI-Startseiten.newpax
 [3
 
 <./LNI-Startseiten.pdf>]
-<LNI-Startseiten.pdf, id=32, page=4, 597.45207pt x 844.15375pt>
+<LNI-Startseiten.pdf, id=48, page=4, 597.45207pt x 844.15375pt>
+File: LNI-Startseiten.pdf Graphic file (type pdf)
+<use LNI-Startseiten.pdf, page 4>
+Package luatex.def Info: LNI-Startseiten.pdf , page4 used on input line 445.
+(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 4>
 Package luatex.def Info: LNI-Startseiten.pdf , page4 used on input line 445.
@@ -1979,11 +2267,6 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 Package luatex.def Info: LNI-Startseiten.pdf , page4 used on input line 445.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 
-
-File: LNI-Startseiten.pdf Graphic file (type pdf)
-<use LNI-Startseiten.pdf, page 4>
-Package luatex.def Info: LNI-Startseiten.pdf , page4 used on input line 445.
-(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 * Missing: LNI-Startseiten.newpax
 [4
 
@@ -1992,7 +2275,11 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf>
 Package luatex.def Info: LNI-Startseiten.pdf  used on input line 450.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
-<LNI-Startseiten.pdf, id=45, page=5, 597.45207pt x 844.15375pt>
+<LNI-Startseiten.pdf, id=61, page=5, 597.45207pt x 844.15375pt>
+File: LNI-Startseiten.pdf Graphic file (type pdf)
+<use LNI-Startseiten.pdf, page 5>
+Package luatex.def Info: LNI-Startseiten.pdf , page5 used on input line 450.
+(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 5>
 Package luatex.def Info: LNI-Startseiten.pdf , page5 used on input line 450.
@@ -2006,11 +2293,6 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 Package luatex.def Info: LNI-Startseiten.pdf , page5 used on input line 450.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 
-
-File: LNI-Startseiten.pdf Graphic file (type pdf)
-<use LNI-Startseiten.pdf, page 5>
-Package luatex.def Info: LNI-Startseiten.pdf , page5 used on input line 450.
-(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 * Missing: LNI-Startseiten.newpax
 [5
 
@@ -2019,7 +2301,11 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf>
 Package luatex.def Info: LNI-Startseiten.pdf  used on input line 454.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
-<LNI-Startseiten.pdf, id=55, page=6, 597.45207pt x 844.15375pt>
+<LNI-Startseiten.pdf, id=71, page=6, 597.45207pt x 844.15375pt>
+File: LNI-Startseiten.pdf Graphic file (type pdf)
+<use LNI-Startseiten.pdf, page 6>
+Package luatex.def Info: LNI-Startseiten.pdf , page6 used on input line 454.
+(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 6>
 Package luatex.def Info: LNI-Startseiten.pdf , page6 used on input line 454.
@@ -2033,11 +2319,6 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 Package luatex.def Info: LNI-Startseiten.pdf , page6 used on input line 454.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 
-
-File: LNI-Startseiten.pdf Graphic file (type pdf)
-<use LNI-Startseiten.pdf, page 6>
-Package luatex.def Info: LNI-Startseiten.pdf , page6 used on input line 454.
-(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 * Missing: LNI-Startseiten.newpax
 [6
 
@@ -2046,7 +2327,11 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf>
 Package luatex.def Info: LNI-Startseiten.pdf  used on input line 459.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
-<LNI-Startseiten.pdf, id=70, page=7, 597.45207pt x 844.15375pt>
+<LNI-Startseiten.pdf, id=86, page=7, 597.45207pt x 844.15375pt>
+File: LNI-Startseiten.pdf Graphic file (type pdf)
+<use LNI-Startseiten.pdf, page 7>
+Package luatex.def Info: LNI-Startseiten.pdf , page7 used on input line 459.
+(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 7>
 Package luatex.def Info: LNI-Startseiten.pdf , page7 used on input line 459.
@@ -2060,11 +2345,6 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 Package luatex.def Info: LNI-Startseiten.pdf , page7 used on input line 459.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 
-
-File: LNI-Startseiten.pdf Graphic file (type pdf)
-<use LNI-Startseiten.pdf, page 7>
-Package luatex.def Info: LNI-Startseiten.pdf , page7 used on input line 459.
-(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 * Missing: LNI-Startseiten.newpax
 [7
 
@@ -2073,7 +2353,11 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf>
 Package luatex.def Info: LNI-Startseiten.pdf  used on input line 464.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
-<LNI-Startseiten.pdf, id=84, page=8, 597.45207pt x 844.15375pt>
+<LNI-Startseiten.pdf, id=100, page=8, 597.45207pt x 844.15375pt>
+File: LNI-Startseiten.pdf Graphic file (type pdf)
+<use LNI-Startseiten.pdf, page 8>
+Package luatex.def Info: LNI-Startseiten.pdf , page8 used on input line 464.
+(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 File: LNI-Startseiten.pdf Graphic file (type pdf)
 <use LNI-Startseiten.pdf, page 8>
 Package luatex.def Info: LNI-Startseiten.pdf , page8 used on input line 464.
@@ -2087,20 +2371,13 @@ File: LNI-Startseiten.pdf Graphic file (type pdf)
 Package luatex.def Info: LNI-Startseiten.pdf , page8 used on input line 464.
 (luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 
-
-File: LNI-Startseiten.pdf Graphic file (type pdf)
-<use LNI-Startseiten.pdf, page 8>
-Package luatex.def Info: LNI-Startseiten.pdf , page8 used on input line 464.
-(luatex.def)             Requested size: 597.4506pt x 844.15169pt.
 * Missing: LNI-Startseiten.newpax
 [8
 
 <./LNI-Startseiten.pdf>]
 Package tocbasic Info: character protrusion at toc deactivated on input line 48
 0.
- (./proceedings.toc
-
-[9
+ (./proceedings.toc [9
 
 
 
@@ -2109,22 +2386,16 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 48
 \tf@toc=\write7
 
 \openout7 = proceedings.toc
-
-
-[10]
+ [10]
 \pagesfile=\write8
-
-
-[11
+ [11
 
 
 
 \openout8 = pages.txt
 
 
-]
-
-[12]
+] [12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unskip' on input line 499.
@@ -2203,9 +2474,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A1-1/paper.pdf, id=200, page=1, 440.98926pt x 668.63977pt>
+<papers/A1-1/paper.pdf, id=133, page=1, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 1>
 Package luatex.def Info: papers/A1-1/paper.pdf , page1 used on input line 499.
@@ -2250,70 +2519,64 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A1-1/paper.pdf>]
-
-<papers/A1-1/paper.pdf, id=299, page=2, 440.98926pt x 668.63977pt>
+<papers/A1-1/paper.pdf, id=233, page=2, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 2>
 Package luatex.def Info: papers/A1-1/paper.pdf , page2 used on input line 499.
 (luatex.def)             Requested size: 440.98817pt x 495.87326pt.
-(./paper.newpax) [14<./papers/A1-1/paper.pdf>]
-
-<papers/A1-1/paper.pdf, id=306, page=3, 440.98926pt x 668.63977pt>
+ (./paper.newpax) [14<./papers/A1-1/paper.pdf>]
+<papers/A1-1/paper.pdf, id=240, page=3, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 3>
 Package luatex.def Info: papers/A1-1/paper.pdf , page3 used on input line 499.
 (luatex.def)             Requested size: 440.98817pt x 495.87326pt.
-(./paper.newpax) [15<./papers/A1-1/paper.pdf>]
 
-<papers/A1-1/paper.pdf, id=313, page=4, 440.98926pt x 668.63977pt>
+(./paper.newpax) [15<./papers/A1-1/paper.pdf>]
+<papers/A1-1/paper.pdf, id=247, page=4, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 4>
 Package luatex.def Info: papers/A1-1/paper.pdf , page4 used on input line 499.
 (luatex.def)             Requested size: 440.98817pt x 495.87326pt.
-(./paper.newpax) [16<./papers/A1-1/paper.pdf>]
-
-<papers/A1-1/paper.pdf, id=320, page=5, 440.98926pt x 668.63977pt>
+ (./paper.newpax) [16<./papers/A1-1/paper.pdf>]
+<papers/A1-1/paper.pdf, id=254, page=5, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 5>
 Package luatex.def Info: papers/A1-1/paper.pdf , page5 used on input line 499.
 (luatex.def)             Requested size: 440.98817pt x 495.87326pt.
-(./paper.newpax) [17<./papers/A1-1/paper.pdf>]
-
-<papers/A1-1/paper.pdf, id=340, page=6, 440.98926pt x 668.63977pt>
+ (./paper.newpax) [17<./papers/A1-1/paper.pdf>]
+<papers/A1-1/paper.pdf, id=274, page=6, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 6>
 Package luatex.def Info: papers/A1-1/paper.pdf , page6 used on input line 499.
 (luatex.def)             Requested size: 440.98817pt x 495.87326pt.
-(./paper.newpax) [18<./papers/A1-1/paper.pdf>]
-
-<papers/A1-1/paper.pdf, id=347, page=7, 440.98926pt x 668.63977pt>
+ (./paper.newpax)
+[18<./papers/A1-1/paper.pdf>]
+<papers/A1-1/paper.pdf, id=281, page=7, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 7>
 Package luatex.def Info: papers/A1-1/paper.pdf , page7 used on input line 499.
 (luatex.def)             Requested size: 440.98817pt x 495.87326pt.
-(./paper.newpax) [19<./papers/A1-1/paper.pdf>]
-
-<papers/A1-1/paper.pdf, id=354, page=8, 440.98926pt x 668.63977pt>
+ (./paper.newpax) [19<./papers/A1-1/paper.pdf>]
+<papers/A1-1/paper.pdf, id=288, page=8, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 8>
 Package luatex.def Info: papers/A1-1/paper.pdf , page8 used on input line 499.
 (luatex.def)             Requested size: 440.98817pt x 495.87326pt.
-(./paper.newpax) [20<./papers/A1-1/paper.pdf>]
 
-<papers/A1-1/paper.pdf, id=361, page=9, 440.98926pt x 668.63977pt>
+(./paper.newpax) [20<./papers/A1-1/paper.pdf>]
+<papers/A1-1/paper.pdf, id=295, page=9, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 9>
 Package luatex.def Info: papers/A1-1/paper.pdf , page9 used on input line 499.
 (luatex.def)             Requested size: 440.98817pt x 495.87326pt.
-(./paper.newpax) [21<./papers/A1-1/paper.pdf>]
-
-<papers/A1-1/paper.pdf, id=369, page=10, 440.98926pt x 668.63977pt>
+ (./paper.newpax) [21<./papers/A1-1/paper.pdf>]
+<papers/A1-1/paper.pdf, id=303, page=10, 440.98926pt x 668.63977pt>
 File: papers/A1-1/paper.pdf Graphic file (type pdf)
 <use papers/A1-1/paper.pdf, page 10>
 Package luatex.def Info: papers/A1-1/paper.pdf , page10 used on input line 499.
 
 (luatex.def)             Requested size: 440.98817pt x 495.87326pt.
-(./paper.newpax) [22<./papers/A1-1/paper.pdf>]
+ (./paper.newpax) [22<./papers/A1-1/paper.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unskip' on input line 505.
@@ -2358,9 +2621,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A1-2/paper.pdf, id=389, page=1, 597.45207pt x 845.1575pt>
+<papers/A1-2/paper.pdf, id=323, page=1, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 1>
 Package luatex.def Info: papers/A1-2/paper.pdf , page1 used on input line 505.
@@ -2390,70 +2651,64 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A1-2/paper.pdf>]
-
-<papers/A1-2/paper.pdf, id=408, page=2, 597.45207pt x 845.1575pt>
+<papers/A1-2/paper.pdf, id=343, page=2, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 2>
 Package luatex.def Info: papers/A1-2/paper.pdf , page2 used on input line 505.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [24<./papers/A1-2/paper.pdf>]
-
-<papers/A1-2/paper.pdf, id=417, page=3, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [24<./papers/A1-2/paper.pdf>]
+<papers/A1-2/paper.pdf, id=352, page=3, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 3>
 Package luatex.def Info: papers/A1-2/paper.pdf , page3 used on input line 505.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [25<./papers/A1-2/paper.pdf>]
 
-<papers/A1-2/paper.pdf, id=424, page=4, 597.45207pt x 845.1575pt>
+(./paper.newpax) [25<./papers/A1-2/paper.pdf>]
+<papers/A1-2/paper.pdf, id=359, page=4, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 4>
 Package luatex.def Info: papers/A1-2/paper.pdf , page4 used on input line 505.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [26<./papers/A1-2/paper.pdf>]
-
-<papers/A1-2/paper.pdf, id=432, page=5, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [26<./papers/A1-2/paper.pdf>]
+<papers/A1-2/paper.pdf, id=367, page=5, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 5>
 Package luatex.def Info: papers/A1-2/paper.pdf , page5 used on input line 505.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [27<./papers/A1-2/paper.pdf>]
-
-<papers/A1-2/paper.pdf, id=439, page=6, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [27<./papers/A1-2/paper.pdf>]
+<papers/A1-2/paper.pdf, id=374, page=6, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 6>
 Package luatex.def Info: papers/A1-2/paper.pdf , page6 used on input line 505.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [28<./papers/A1-2/paper.pdf>]
-
-<papers/A1-2/paper.pdf, id=446, page=7, 597.45207pt x 845.1575pt>
+ (./paper.newpax)
+[28<./papers/A1-2/paper.pdf>]
+<papers/A1-2/paper.pdf, id=381, page=7, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 7>
 Package luatex.def Info: papers/A1-2/paper.pdf , page7 used on input line 505.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [29<./papers/A1-2/paper.pdf>]
-
-<papers/A1-2/paper.pdf, id=458, page=8, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [29<./papers/A1-2/paper.pdf>]
+<papers/A1-2/paper.pdf, id=393, page=8, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 8>
 Package luatex.def Info: papers/A1-2/paper.pdf , page8 used on input line 505.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [30<./papers/A1-2/paper.pdf>]
 
-<papers/A1-2/paper.pdf, id=465, page=9, 597.45207pt x 845.1575pt>
+(./paper.newpax) [30<./papers/A1-2/paper.pdf>]
+<papers/A1-2/paper.pdf, id=400, page=9, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 9>
 Package luatex.def Info: papers/A1-2/paper.pdf , page9 used on input line 505.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [31<./papers/A1-2/paper.pdf>]
-
-<papers/A1-2/paper.pdf, id=473, page=10, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [31<./papers/A1-2/paper.pdf>]
+<papers/A1-2/paper.pdf, id=408, page=10, 597.45207pt x 845.1575pt>
 File: papers/A1-2/paper.pdf Graphic file (type pdf)
 <use papers/A1-2/paper.pdf, page 10>
 Package luatex.def Info: papers/A1-2/paper.pdf , page10 used on input line 505.
 
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [32<./papers/A1-2/paper.pdf>]
+ (./paper.newpax) [32<./papers/A1-2/paper.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unskip' on input line 511.
@@ -2516,9 +2771,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A1-3/paper.pdf, id=482, page=1, 597.45207pt x 845.1575pt>
+<papers/A1-3/paper.pdf, id=417, page=1, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 1>
 Package luatex.def Info: papers/A1-3/paper.pdf , page1 used on input line 511.
@@ -2555,79 +2808,69 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A1-3/paper.pdf>]
-
-<papers/A1-3/paper.pdf, id=497, page=2, 597.45207pt x 845.1575pt>
+<papers/A1-3/paper.pdf, id=433, page=2, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 2>
 Package luatex.def Info: papers/A1-3/paper.pdf , page2 used on input line 511.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [34<./papers/A1-3/paper.pdf>]
-
-<papers/A1-3/paper.pdf, id=504, page=3, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [34<./papers/A1-3/paper.pdf>]
+<papers/A1-3/paper.pdf, id=440, page=3, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 3>
 Package luatex.def Info: papers/A1-3/paper.pdf , page3 used on input line 511.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [35<./papers/A1-3/paper.pdf>]
 
-<papers/A1-3/paper.pdf, id=511, page=4, 597.45207pt x 845.1575pt>
+(./paper.newpax) [35<./papers/A1-3/paper.pdf>]
+<papers/A1-3/paper.pdf, id=447, page=4, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 4>
 Package luatex.def Info: papers/A1-3/paper.pdf , page4 used on input line 511.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [36<./papers/A1-3/paper.pdf>]
-
-<papers/A1-3/paper.pdf, id=521, page=5, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [36<./papers/A1-3/paper.pdf>]
+<papers/A1-3/paper.pdf, id=457, page=5, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 5>
 Package luatex.def Info: papers/A1-3/paper.pdf , page5 used on input line 511.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [37<./papers/A1-3/paper.pdf>]
-
-<papers/A1-3/paper.pdf, id=528, page=6, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [37<./papers/A1-3/paper.pdf>]
+<papers/A1-3/paper.pdf, id=464, page=6, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 6>
 Package luatex.def Info: papers/A1-3/paper.pdf , page6 used on input line 511.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [38<./papers/A1-3/paper.pdf>]
-
-<papers/A1-3/paper.pdf, id=538, page=7, 597.45207pt x 845.1575pt>
+ (./paper.newpax)
+[38<./papers/A1-3/paper.pdf>]
+<papers/A1-3/paper.pdf, id=474, page=7, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 7>
 Package luatex.def Info: papers/A1-3/paper.pdf , page7 used on input line 511.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [39<./papers/A1-3/paper.pdf>]
-
-<papers/A1-3/paper.pdf, id=545, page=8, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [39<./papers/A1-3/paper.pdf>]
+<papers/A1-3/paper.pdf, id=481, page=8, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 8>
 Package luatex.def Info: papers/A1-3/paper.pdf , page8 used on input line 511.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [40<./papers/A1-3/paper.pdf>]
 
-<papers/A1-3/paper.pdf, id=552, page=9, 597.45207pt x 845.1575pt>
+(./paper.newpax) [40<./papers/A1-3/paper.pdf>]
+<papers/A1-3/paper.pdf, id=488, page=9, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 9>
 Package luatex.def Info: papers/A1-3/paper.pdf , page9 used on input line 511.
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [41<./papers/A1-3/paper.pdf>]
-
-<papers/A1-3/paper.pdf, id=572, page=10, 597.45207pt x 845.1575pt>
+ (./paper.newpax) [41<./papers/A1-3/paper.pdf>]
+<papers/A1-3/paper.pdf, id=508, page=10, 597.45207pt x 845.1575pt>
 File: papers/A1-3/paper.pdf Graphic file (type pdf)
 <use papers/A1-3/paper.pdf, page 10>
 Package luatex.def Info: papers/A1-3/paper.pdf , page10 used on input line 511.
 
 (luatex.def)             Requested size: 597.4506pt x 672.39056pt.
-(./paper.newpax) [42<./papers/A1-3/paper.pdf>]
-
-[43
+ (./paper.newpax) [42<./papers/A1-3/paper.pdf>] [43
 
 
 
 
-]
-
-[44]
+] [44]
 Missing character: There is no F (U+0046) in font nullfont!
 Missing character: There is no e (U+0065) in font nullfont!
 Missing character: There is no l (U+006C) in font nullfont!
@@ -2654,9 +2897,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A2-1/paper.pdf, id=590, page=1, 597.50829pt x 845.04709pt>
+<papers/A2-1/paper.pdf, id=526, page=1, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 1>
 Package luatex.def Info: papers/A2-1/paper.pdf , page1 used on input line 520.
@@ -2676,70 +2917,64 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A2-1/paper.pdf>]
-
-<papers/A2-1/paper.pdf, id=637, page=2, 597.50829pt x 845.04709pt>
+<papers/A2-1/paper.pdf, id=574, page=2, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 2>
 Package luatex.def Info: papers/A2-1/paper.pdf , page2 used on input line 520.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [46<./papers/A2-1/paper.pdf>]
-
-<papers/A2-1/paper.pdf, id=673, page=3, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [46<./papers/A2-1/paper.pdf>]
+<papers/A2-1/paper.pdf, id=610, page=3, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 3>
 Package luatex.def Info: papers/A2-1/paper.pdf , page3 used on input line 520.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [47<./papers/A2-1/paper.pdf>]
 
-<papers/A2-1/paper.pdf, id=692, page=4, 597.50829pt x 845.04709pt>
+(./paper.newpax) [47<./papers/A2-1/paper.pdf>]
+<papers/A2-1/paper.pdf, id=629, page=4, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 4>
 Package luatex.def Info: papers/A2-1/paper.pdf , page4 used on input line 520.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [48<./papers/A2-1/paper.pdf>]
-
-<papers/A2-1/paper.pdf, id=760, page=5, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [48<./papers/A2-1/paper.pdf>]
+<papers/A2-1/paper.pdf, id=697, page=5, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 5>
 Package luatex.def Info: papers/A2-1/paper.pdf , page5 used on input line 520.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [49<./papers/A2-1/paper.pdf>]
-
-<papers/A2-1/paper.pdf, id=782, page=6, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [49<./papers/A2-1/paper.pdf>]
+<papers/A2-1/paper.pdf, id=719, page=6, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 6>
 Package luatex.def Info: papers/A2-1/paper.pdf , page6 used on input line 520.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [50<./papers/A2-1/paper.pdf>]
-
-<papers/A2-1/paper.pdf, id=796, page=7, 597.50829pt x 845.04709pt>
+ (./paper.newpax)
+[50<./papers/A2-1/paper.pdf>]
+<papers/A2-1/paper.pdf, id=733, page=7, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 7>
 Package luatex.def Info: papers/A2-1/paper.pdf , page7 used on input line 520.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [51<./papers/A2-1/paper.pdf>]
-
-<papers/A2-1/paper.pdf, id=816, page=8, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [51<./papers/A2-1/paper.pdf>]
+<papers/A2-1/paper.pdf, id=753, page=8, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 8>
 Package luatex.def Info: papers/A2-1/paper.pdf , page8 used on input line 520.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [52<./papers/A2-1/paper.pdf>]
 
-<papers/A2-1/paper.pdf, id=829, page=9, 597.50829pt x 845.04709pt>
+(./paper.newpax) [52<./papers/A2-1/paper.pdf>]
+<papers/A2-1/paper.pdf, id=766, page=9, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 9>
 Package luatex.def Info: papers/A2-1/paper.pdf , page9 used on input line 520.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [53<./papers/A2-1/paper.pdf>]
-
-<papers/A2-1/paper.pdf, id=840, page=10, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [53<./papers/A2-1/paper.pdf>]
+<papers/A2-1/paper.pdf, id=777, page=10, 597.50829pt x 845.04709pt>
 File: papers/A2-1/paper.pdf Graphic file (type pdf)
 <use papers/A2-1/paper.pdf, page 10>
 Package luatex.def Info: papers/A2-1/paper.pdf , page10 used on input line 520.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [54<./papers/A2-1/paper.pdf>]
+ (./paper.newpax) [54<./papers/A2-1/paper.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unskip' on input line 526.
@@ -2846,9 +3081,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A2-2/paper.pdf, id=862, page=1, 597.50829pt x 845.04709pt>
+<papers/A2-2/paper.pdf, id=799, page=1, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 1>
 Package luatex.def Info: papers/A2-2/paper.pdf , page1 used on input line 526.
@@ -2903,79 +3136,69 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A2-2/paper.pdf>]
-
-<papers/A2-2/paper.pdf, id=916, page=2, 597.50829pt x 845.04709pt>
+<papers/A2-2/paper.pdf, id=854, page=2, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 2>
 Package luatex.def Info: papers/A2-2/paper.pdf , page2 used on input line 526.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [56<./papers/A2-2/paper.pdf>]
-
-<papers/A2-2/paper.pdf, id=955, page=3, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [56<./papers/A2-2/paper.pdf>]
+<papers/A2-2/paper.pdf, id=893, page=3, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 3>
 Package luatex.def Info: papers/A2-2/paper.pdf , page3 used on input line 526.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [57<./papers/A2-2/paper.pdf>]
 
-<papers/A2-2/paper.pdf, id=991, page=4, 597.50829pt x 845.04709pt>
+(./paper.newpax) [57<./papers/A2-2/paper.pdf>]
+<papers/A2-2/paper.pdf, id=929, page=4, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 4>
 Package luatex.def Info: papers/A2-2/paper.pdf , page4 used on input line 526.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [58<./papers/A2-2/paper.pdf>]
-
-<papers/A2-2/paper.pdf, id=1003, page=5, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [58<./papers/A2-2/paper.pdf>]
+<papers/A2-2/paper.pdf, id=941, page=5, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 5>
 Package luatex.def Info: papers/A2-2/paper.pdf , page5 used on input line 526.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [59<./papers/A2-2/paper.pdf>]
-
-<papers/A2-2/paper.pdf, id=1014, page=6, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [59<./papers/A2-2/paper.pdf>]
+<papers/A2-2/paper.pdf, id=952, page=6, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 6>
 Package luatex.def Info: papers/A2-2/paper.pdf , page6 used on input line 526.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [60<./papers/A2-2/paper.pdf>]
-
-<papers/A2-2/paper.pdf, id=1026, page=7, 597.50829pt x 845.04709pt>
+ (./paper.newpax)
+[60<./papers/A2-2/paper.pdf>]
+<papers/A2-2/paper.pdf, id=964, page=7, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 7>
 Package luatex.def Info: papers/A2-2/paper.pdf , page7 used on input line 526.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [61<./papers/A2-2/paper.pdf>]
-
-<papers/A2-2/paper.pdf, id=1041, page=8, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [61<./papers/A2-2/paper.pdf>]
+<papers/A2-2/paper.pdf, id=979, page=8, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 8>
 Package luatex.def Info: papers/A2-2/paper.pdf , page8 used on input line 526.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [62<./papers/A2-2/paper.pdf>]
 
-<papers/A2-2/paper.pdf, id=1050, page=9, 597.50829pt x 845.04709pt>
+(./paper.newpax) [62<./papers/A2-2/paper.pdf>]
+<papers/A2-2/paper.pdf, id=988, page=9, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 9>
 Package luatex.def Info: papers/A2-2/paper.pdf , page9 used on input line 526.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [63<./papers/A2-2/paper.pdf>]
-
-<papers/A2-2/paper.pdf, id=1073, page=10, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [63<./papers/A2-2/paper.pdf>]
+<papers/A2-2/paper.pdf, id=1011, page=10, 597.50829pt x 845.04709pt>
 File: papers/A2-2/paper.pdf Graphic file (type pdf)
 <use papers/A2-2/paper.pdf, page 10>
 Package luatex.def Info: papers/A2-2/paper.pdf , page10 used on input line 526.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [64<./papers/A2-2/paper.pdf>]
-
-[65
+ (./paper.newpax) [64<./papers/A2-2/paper.pdf>] [65
 
 
 
 
-]
-
-[66]
+] [66]
 Missing character: There is no E (U+0045) in font nullfont!
 Missing character: There is no l (U+006C) in font nullfont!
 Missing character: There is no f (U+0066) in font nullfont!
@@ -2996,9 +3219,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A3-1/paper.pdf, id=1110, page=1, 597.55244pt x 845.0772pt>
+<papers/A3-1/paper.pdf, id=1048, page=1, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 1>
 Package luatex.def Info: papers/A3-1/paper.pdf , page1 used on input line 535.
@@ -3015,112 +3236,101 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1137, page=2, 597.55244pt x 845.0772pt>
+<papers/A3-1/paper.pdf, id=1076, page=2, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 2>
 Package luatex.def Info: papers/A3-1/paper.pdf , page2 used on input line 535.
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [68<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1144, page=3, 597.55244pt x 845.0772pt>
+ (./paper.newpax) [68<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1083, page=3, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 3>
 Package luatex.def Info: papers/A3-1/paper.pdf , page3 used on input line 535.
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [69<./papers/A3-1/paper.pdf>]
 
-<papers/A3-1/paper.pdf, id=1155, page=4, 597.55244pt x 845.0772pt>
+(./paper.newpax) [69<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1094, page=4, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 4>
 Package luatex.def Info: papers/A3-1/paper.pdf , page4 used on input line 535.
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [70<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1173, page=5, 597.55244pt x 845.0772pt>
+ (./paper.newpax) [70<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1112, page=5, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 5>
 Package luatex.def Info: papers/A3-1/paper.pdf , page5 used on input line 535.
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [71<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1188, page=6, 597.55244pt x 845.0772pt>
+ (./paper.newpax) [71<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1127, page=6, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 6>
 Package luatex.def Info: papers/A3-1/paper.pdf , page6 used on input line 535.
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [72<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1203, page=7, 597.55244pt x 845.0772pt>
+ (./paper.newpax)
+[72<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1142, page=7, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 7>
 Package luatex.def Info: papers/A3-1/paper.pdf , page7 used on input line 535.
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [73<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1210, page=8, 597.55244pt x 845.0772pt>
+ (./paper.newpax) [73<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1149, page=8, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 8>
 Package luatex.def Info: papers/A3-1/paper.pdf , page8 used on input line 535.
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [74<./papers/A3-1/paper.pdf>]
 
-<papers/A3-1/paper.pdf, id=1217, page=9, 597.55244pt x 845.0772pt>
+(./paper.newpax) [74<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1156, page=9, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 9>
 Package luatex.def Info: papers/A3-1/paper.pdf , page9 used on input line 535.
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [75<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1224, page=10, 597.55244pt x 845.0772pt>
+ (./paper.newpax) [75<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1163, page=10, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 10>
 Package luatex.def Info: papers/A3-1/paper.pdf , page10 used on input line 535.
 
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [76<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1233, page=11, 597.55244pt x 845.0772pt>
+ (./paper.newpax) [76<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1172, page=11, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 11>
 Package luatex.def Info: papers/A3-1/paper.pdf , page11 used on input line 535.
 
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [77<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1247, page=12, 597.55244pt x 845.0772pt>
+ (./paper.newpax)
+[77<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1186, page=12, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 12>
 Package luatex.def Info: papers/A3-1/paper.pdf , page12 used on input line 535.
 
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [78<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1275, page=13, 597.55244pt x 845.0772pt>
+ (./paper.newpax) [78<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1214, page=13, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 13>
 Package luatex.def Info: papers/A3-1/paper.pdf , page13 used on input line 535.
 
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [79<./papers/A3-1/paper.pdf>]
 
-<papers/A3-1/paper.pdf, id=1282, page=14, 597.55244pt x 845.0772pt>
+(./paper.newpax) [79<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1221, page=14, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 14>
 Package luatex.def Info: papers/A3-1/paper.pdf , page14 used on input line 535.
 
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [80<./papers/A3-1/paper.pdf>]
-
-<papers/A3-1/paper.pdf, id=1289, page=15, 597.55244pt x 845.0772pt>
+ (./paper.newpax) [80<./papers/A3-1/paper.pdf>]
+<papers/A3-1/paper.pdf, id=1228, page=15, 597.55244pt x 845.0772pt>
 File: papers/A3-1/paper.pdf Graphic file (type pdf)
 <use papers/A3-1/paper.pdf, page 15>
 Package luatex.def Info: papers/A3-1/paper.pdf , page15 used on input line 535.
 
 (luatex.def)             Requested size: 597.55098pt x 672.31026pt.
-(./paper.newpax) [81<./papers/A3-1/paper.pdf>]
-
-[82
+ (./paper.newpax) [81<./papers/A3-1/paper.pdf>] [82
 
 
 ]
@@ -3245,9 +3455,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A3-2/paper.pdf, id=1303, page=1, 597.6729pt x 845.0772pt>
+<papers/A3-2/paper.pdf, id=1242, page=1, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 1>
 Package luatex.def Info: papers/A3-2/paper.pdf , page1 used on input line 541.
@@ -3306,70 +3514,64 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A3-2/paper.pdf>]
-
-<papers/A3-2/paper.pdf, id=1354, page=2, 597.6729pt x 845.0772pt>
+<papers/A3-2/paper.pdf, id=1294, page=2, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 2>
 Package luatex.def Info: papers/A3-2/paper.pdf , page2 used on input line 541.
 (luatex.def)             Requested size: 597.67143pt x 672.31026pt.
-(./paper.newpax) [84<./papers/A3-2/paper.pdf>]
-
-<papers/A3-2/paper.pdf, id=1361, page=3, 597.6729pt x 845.0772pt>
+ (./paper.newpax) [84<./papers/A3-2/paper.pdf>]
+<papers/A3-2/paper.pdf, id=1301, page=3, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 3>
 Package luatex.def Info: papers/A3-2/paper.pdf , page3 used on input line 541.
 (luatex.def)             Requested size: 597.67143pt x 672.31026pt.
-(./paper.newpax) [85<./papers/A3-2/paper.pdf>]
 
-<papers/A3-2/paper.pdf, id=1372, page=4, 597.6729pt x 845.0772pt>
+(./paper.newpax) [85<./papers/A3-2/paper.pdf>]
+<papers/A3-2/paper.pdf, id=1312, page=4, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 4>
 Package luatex.def Info: papers/A3-2/paper.pdf , page4 used on input line 541.
 (luatex.def)             Requested size: 597.67143pt x 672.31026pt.
-(./paper.newpax) [86<./papers/A3-2/paper.pdf>]
-
-<papers/A3-2/paper.pdf, id=1381, page=5, 597.6729pt x 845.0772pt>
+ (./paper.newpax) [86<./papers/A3-2/paper.pdf>]
+<papers/A3-2/paper.pdf, id=1321, page=5, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 5>
 Package luatex.def Info: papers/A3-2/paper.pdf , page5 used on input line 541.
 (luatex.def)             Requested size: 597.67143pt x 672.31026pt.
-(./paper.newpax) [87<./papers/A3-2/paper.pdf>]
-
-<papers/A3-2/paper.pdf, id=1390, page=6, 597.6729pt x 845.0772pt>
+ (./paper.newpax) [87<./papers/A3-2/paper.pdf>]
+<papers/A3-2/paper.pdf, id=1330, page=6, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 6>
 Package luatex.def Info: papers/A3-2/paper.pdf , page6 used on input line 541.
 (luatex.def)             Requested size: 597.67143pt x 672.31026pt.
-(./paper.newpax) [88<./papers/A3-2/paper.pdf>]
-
-<papers/A3-2/paper.pdf, id=1401, page=7, 597.6729pt x 845.0772pt>
+ (./paper.newpax)
+[88<./papers/A3-2/paper.pdf>]
+<papers/A3-2/paper.pdf, id=1341, page=7, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 7>
 Package luatex.def Info: papers/A3-2/paper.pdf , page7 used on input line 541.
 (luatex.def)             Requested size: 597.67143pt x 672.31026pt.
-(./paper.newpax) [89<./papers/A3-2/paper.pdf>]
-
-<papers/A3-2/paper.pdf, id=1412, page=8, 597.6729pt x 845.0772pt>
+ (./paper.newpax) [89<./papers/A3-2/paper.pdf>]
+<papers/A3-2/paper.pdf, id=1352, page=8, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 8>
 Package luatex.def Info: papers/A3-2/paper.pdf , page8 used on input line 541.
 (luatex.def)             Requested size: 597.67143pt x 672.31026pt.
-(./paper.newpax) [90<./papers/A3-2/paper.pdf>]
 
-<papers/A3-2/paper.pdf, id=1419, page=9, 597.6729pt x 845.0772pt>
+(./paper.newpax) [90<./papers/A3-2/paper.pdf>]
+<papers/A3-2/paper.pdf, id=1359, page=9, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 9>
 Package luatex.def Info: papers/A3-2/paper.pdf , page9 used on input line 541.
 (luatex.def)             Requested size: 597.67143pt x 672.31026pt.
-(./paper.newpax) [91<./papers/A3-2/paper.pdf>]
-
-<papers/A3-2/paper.pdf, id=1427, page=10, 597.6729pt x 845.0772pt>
+ (./paper.newpax) [91<./papers/A3-2/paper.pdf>]
+<papers/A3-2/paper.pdf, id=1367, page=10, 597.6729pt x 845.0772pt>
 File: papers/A3-2/paper.pdf Graphic file (type pdf)
 <use papers/A3-2/paper.pdf, page 10>
 Package luatex.def Info: papers/A3-2/paper.pdf , page10 used on input line 541.
 
 (luatex.def)             Requested size: 597.67143pt x 672.31026pt.
-(./paper.newpax) [92<./papers/A3-2/paper.pdf>]
+ (./paper.newpax) [92<./papers/A3-2/paper.pdf>]
 Missing character: There is no K (U+004B) in font nullfont!
 Missing character: There is no o (U+006F) in font nullfont!
 Missing character: There is no r (U+0072) in font nullfont!
@@ -3390,9 +3592,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A3-3/paper.pdf, id=1436, page=1, 597.50829pt x 845.04709pt>
+<papers/A3-3/paper.pdf, id=1376, page=1, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 1>
 Package luatex.def Info: papers/A3-3/paper.pdf , page1 used on input line 547.
@@ -3412,70 +3612,64 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A3-3/paper.pdf>]
-
-<papers/A3-3/paper.pdf, id=1480, page=2, 597.50829pt x 845.04709pt>
+<papers/A3-3/paper.pdf, id=1421, page=2, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 2>
 Package luatex.def Info: papers/A3-3/paper.pdf , page2 used on input line 547.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [94<./papers/A3-3/paper.pdf>]
-
-<papers/A3-3/paper.pdf, id=1498, page=3, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [94<./papers/A3-3/paper.pdf>]
+<papers/A3-3/paper.pdf, id=1439, page=3, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 3>
 Package luatex.def Info: papers/A3-3/paper.pdf , page3 used on input line 547.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [95<./papers/A3-3/paper.pdf>]
 
-<papers/A3-3/paper.pdf, id=1510, page=4, 597.50829pt x 845.04709pt>
+(./paper.newpax) [95<./papers/A3-3/paper.pdf>]
+<papers/A3-3/paper.pdf, id=1451, page=4, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 4>
 Package luatex.def Info: papers/A3-3/paper.pdf , page4 used on input line 547.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [96<./papers/A3-3/paper.pdf>]
-
-<papers/A3-3/paper.pdf, id=1538, page=5, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [96<./papers/A3-3/paper.pdf>]
+<papers/A3-3/paper.pdf, id=1479, page=5, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 5>
 Package luatex.def Info: papers/A3-3/paper.pdf , page5 used on input line 547.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [97<./papers/A3-3/paper.pdf>]
-
-<papers/A3-3/paper.pdf, id=1563, page=6, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [97<./papers/A3-3/paper.pdf>]
+<papers/A3-3/paper.pdf, id=1504, page=6, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 6>
 Package luatex.def Info: papers/A3-3/paper.pdf , page6 used on input line 547.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [98<./papers/A3-3/paper.pdf>]
-
-<papers/A3-3/paper.pdf, id=1574, page=7, 597.50829pt x 845.04709pt>
+ (./paper.newpax)
+[98<./papers/A3-3/paper.pdf>]
+<papers/A3-3/paper.pdf, id=1515, page=7, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 7>
 Package luatex.def Info: papers/A3-3/paper.pdf , page7 used on input line 547.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [99<./papers/A3-3/paper.pdf>]
-
-<papers/A3-3/paper.pdf, id=1582, page=8, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [99<./papers/A3-3/paper.pdf>]
+<papers/A3-3/paper.pdf, id=1523, page=8, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 8>
 Package luatex.def Info: papers/A3-3/paper.pdf , page8 used on input line 547.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [100<./papers/A3-3/paper.pdf>]
 
-<papers/A3-3/paper.pdf, id=1593, page=9, 597.50829pt x 845.04709pt>
+(./paper.newpax) [100<./papers/A3-3/paper.pdf>]
+<papers/A3-3/paper.pdf, id=1534, page=9, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 9>
 Package luatex.def Info: papers/A3-3/paper.pdf , page9 used on input line 547.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [101<./papers/A3-3/paper.pdf>]
-
-<papers/A3-3/paper.pdf, id=1604, page=10, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [101<./papers/A3-3/paper.pdf>]
+<papers/A3-3/paper.pdf, id=1545, page=10, 597.50829pt x 845.04709pt>
 File: papers/A3-3/paper.pdf Graphic file (type pdf)
 <use papers/A3-3/paper.pdf, page 10>
 Package luatex.def Info: papers/A3-3/paper.pdf , page10 used on input line 547.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [102<./papers/A3-3/paper.pdf>]
+ (./paper.newpax) [102<./papers/A3-3/paper.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unskip' on input line 553.
@@ -3524,9 +3718,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A3-4/paper.pdf, id=1615, page=1, 614.295pt x 794.97pt>
+<papers/A3-4/paper.pdf, id=1556, page=1, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 1>
 Package luatex.def Info: papers/A3-4/paper.pdf , page1 used on input line 553.
@@ -3558,102 +3750,93 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A3-4/paper.pdf>]
-
-<papers/A3-4/paper.pdf, id=1647, page=2, 614.295pt x 794.97pt>
+<papers/A3-4/paper.pdf, id=1589, page=2, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 2>
 Package luatex.def Info: papers/A3-4/paper.pdf , page2 used on input line 553.
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [104<./papers/A3-4/paper.pdf>]
-
-<papers/A3-4/paper.pdf, id=1659, page=3, 614.295pt x 794.97pt>
+ (./paper.newpax) [104<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1601, page=3, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 3>
 Package luatex.def Info: papers/A3-4/paper.pdf , page3 used on input line 553.
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [105<./papers/A3-4/paper.pdf>]
 
-<papers/A3-4/paper.pdf, id=1666, page=4, 614.295pt x 794.97pt>
+(./paper.newpax) [105<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1608, page=4, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 4>
 Package luatex.def Info: papers/A3-4/paper.pdf , page4 used on input line 553.
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [106<./papers/A3-4/paper.pdf>]
-
-<papers/A3-4/paper.pdf, id=1679, page=5, 614.295pt x 794.97pt>
+ (./paper.newpax) [106<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1621, page=5, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 5>
 Package luatex.def Info: papers/A3-4/paper.pdf , page5 used on input line 553.
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [107<./papers/A3-4/paper.pdf>]
-
-<papers/A3-4/paper.pdf, id=1706, page=6, 614.295pt x 794.97pt>
+ (./paper.newpax) [107<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1648, page=6, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 6>
 Package luatex.def Info: papers/A3-4/paper.pdf , page6 used on input line 553.
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [108<./papers/A3-4/paper.pdf>]
 
-<papers/A3-4/paper.pdf, id=1713, page=7, 614.295pt x 794.97pt>
+(./paper.newpax) [108<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1655, page=7, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 7>
 Package luatex.def Info: papers/A3-4/paper.pdf , page7 used on input line 553.
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [109<./papers/A3-4/paper.pdf>]
-
-<papers/A3-4/paper.pdf, id=1725, page=8, 614.295pt x 794.97pt>
+ (./paper.newpax) [109<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1667, page=8, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 8>
 Package luatex.def Info: papers/A3-4/paper.pdf , page8 used on input line 553.
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [110<./papers/A3-4/paper.pdf>]
-
-<papers/A3-4/paper.pdf, id=1732, page=9, 614.295pt x 794.97pt>
+ (./paper.newpax) [110<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1674, page=9, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 9>
 Package luatex.def Info: papers/A3-4/paper.pdf , page9 used on input line 553.
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [111<./papers/A3-4/paper.pdf>]
 
-<papers/A3-4/paper.pdf, id=1740, page=10, 614.295pt x 794.97pt>
+(./paper.newpax) [111<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1682, page=10, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 10>
 Package luatex.def Info: papers/A3-4/paper.pdf , page10 used on input line 553.
 
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [112<./papers/A3-4/paper.pdf>]
-
-<papers/A3-4/paper.pdf, id=1747, page=11, 614.295pt x 794.97pt>
+ (./paper.newpax) [112<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1689, page=11, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 11>
 Package luatex.def Info: papers/A3-4/paper.pdf , page11 used on input line 553.
 
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [113<./papers/A3-4/paper.pdf>]
-
-<papers/A3-4/paper.pdf, id=1754, page=12, 614.295pt x 794.97pt>
+ (./paper.newpax) [113<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1696, page=12, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 12>
 Package luatex.def Info: papers/A3-4/paper.pdf , page12 used on input line 553.
 
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [114<./papers/A3-4/paper.pdf>]
 
-<papers/A3-4/paper.pdf, id=1761, page=13, 614.295pt x 794.97pt>
+(./paper.newpax) [114<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1703, page=13, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 13>
 Package luatex.def Info: papers/A3-4/paper.pdf , page13 used on input line 553.
 
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [115<./papers/A3-4/paper.pdf>]
-
-<papers/A3-4/paper.pdf, id=1768, page=14, 614.295pt x 794.97pt>
+ (./paper.newpax) [115<./papers/A3-4/paper.pdf>]
+<papers/A3-4/paper.pdf, id=1710, page=14, 614.295pt x 794.97pt>
 File: papers/A3-4/paper.pdf Graphic file (type pdf)
 <use papers/A3-4/paper.pdf, page 14>
 Package luatex.def Info: papers/A3-4/paper.pdf , page14 used on input line 553.
 
 (luatex.def)             Requested size: 614.29349pt x 622.20319pt.
-(./paper.newpax) [116<./papers/A3-4/paper.pdf>]
+ (./paper.newpax) [116<./papers/A3-4/paper.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unskip' on input line 559.
@@ -3750,9 +3933,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A3-5/paper.pdf, id=1777, page=1, 597.53238pt x 845.05713pt>
+<papers/A3-5/paper.pdf, id=1719, page=1, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 1>
 Package luatex.def Info: papers/A3-5/paper.pdf , page1 used on input line 559.
@@ -3804,89 +3985,77 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A3-5/paper.pdf>]
-
-<papers/A3-5/paper.pdf, id=1813, page=2, 597.53238pt x 845.05713pt>
+<papers/A3-5/paper.pdf, id=1756, page=2, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 2>
 Package luatex.def Info: papers/A3-5/paper.pdf , page2 used on input line 559.
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [118<./papers/A3-5/paper.pdf>]
-
-<papers/A3-5/paper.pdf, id=1828, page=3, 597.53238pt x 845.05713pt>
+ (./paper.newpax) [118<./papers/A3-5/paper.pdf>]
+<papers/A3-5/paper.pdf, id=1771, page=3, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 3>
 Package luatex.def Info: papers/A3-5/paper.pdf , page3 used on input line 559.
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [119<./papers/A3-5/paper.pdf>]
 
-<papers/A3-5/paper.pdf, id=1835, page=4, 597.53238pt x 845.05713pt>
+(./paper.newpax) [119<./papers/A3-5/paper.pdf>]
+<papers/A3-5/paper.pdf, id=1778, page=4, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 4>
 Package luatex.def Info: papers/A3-5/paper.pdf , page4 used on input line 559.
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [120<./papers/A3-5/paper.pdf>]
-
-<papers/A3-5/paper.pdf, id=1846, page=5, 597.53238pt x 845.05713pt>
+ (./paper.newpax) [120<./papers/A3-5/paper.pdf>]
+<papers/A3-5/paper.pdf, id=1789, page=5, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 5>
 Package luatex.def Info: papers/A3-5/paper.pdf , page5 used on input line 559.
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [121<./papers/A3-5/paper.pdf>]
-
-<papers/A3-5/paper.pdf, id=1855, page=6, 597.53238pt x 845.05713pt>
+ (./paper.newpax) [121<./papers/A3-5/paper.pdf>]
+<papers/A3-5/paper.pdf, id=1798, page=6, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 6>
 Package luatex.def Info: papers/A3-5/paper.pdf , page6 used on input line 559.
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [122<./papers/A3-5/paper.pdf>]
 
-<papers/A3-5/paper.pdf, id=1864, page=7, 597.53238pt x 845.05713pt>
+(./paper.newpax) [122<./papers/A3-5/paper.pdf>]
+<papers/A3-5/paper.pdf, id=1807, page=7, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 7>
 Package luatex.def Info: papers/A3-5/paper.pdf , page7 used on input line 559.
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [123<./papers/A3-5/paper.pdf>]
-
-<papers/A3-5/paper.pdf, id=1887, page=8, 597.53238pt x 845.05713pt>
+ (./paper.newpax) [123<./papers/A3-5/paper.pdf>]
+<papers/A3-5/paper.pdf, id=1830, page=8, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 8>
 Package luatex.def Info: papers/A3-5/paper.pdf , page8 used on input line 559.
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [124<./papers/A3-5/paper.pdf>]
-
-<papers/A3-5/paper.pdf, id=1896, page=9, 597.53238pt x 845.05713pt>
+ (./paper.newpax) [124<./papers/A3-5/paper.pdf>]
+<papers/A3-5/paper.pdf, id=1839, page=9, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 9>
 Package luatex.def Info: papers/A3-5/paper.pdf , page9 used on input line 559.
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [125<./papers/A3-5/paper.pdf>]
 
-<papers/A3-5/paper.pdf, id=1904, page=10, 597.53238pt x 845.05713pt>
+(./paper.newpax) [125<./papers/A3-5/paper.pdf>]
+<papers/A3-5/paper.pdf, id=1847, page=10, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 10>
 Package luatex.def Info: papers/A3-5/paper.pdf , page10 used on input line 559.
 
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [126<./papers/A3-5/paper.pdf>]
-
-<papers/A3-5/paper.pdf, id=1911, page=11, 597.53238pt x 845.05713pt>
+ (./paper.newpax) [126<./papers/A3-5/paper.pdf>]
+<papers/A3-5/paper.pdf, id=1854, page=11, 597.53238pt x 845.05713pt>
 File: papers/A3-5/paper.pdf Graphic file (type pdf)
 <use papers/A3-5/paper.pdf, page 11>
 Package luatex.def Info: papers/A3-5/paper.pdf , page11 used on input line 559.
 
 (luatex.def)             Requested size: 597.53091pt x 672.29019pt.
-(./paper.newpax) [127<./papers/A3-5/paper.pdf>]
-
-[128
+ (./paper.newpax) [127<./papers/A3-5/paper.pdf>] [128
 
 
-]
-
-[129
+] [129
 
 
 ]
-
 [130]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -3978,9 +4147,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A4-1/paper.pdf, id=1935, page=1, 597.50829pt x 845.04709pt>
+<papers/A4-1/paper.pdf, id=1878, page=1, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 1>
 Package luatex.def Info: papers/A4-1/paper.pdf , page1 used on input line 568.
@@ -4026,70 +4193,64 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A4-1/paper.pdf>]
-
-<papers/A4-1/paper.pdf, id=1991, page=2, 597.50829pt x 845.04709pt>
+<papers/A4-1/paper.pdf, id=1935, page=2, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 2>
 Package luatex.def Info: papers/A4-1/paper.pdf , page2 used on input line 568.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [132<./papers/A4-1/paper.pdf>]
-
-<papers/A4-1/paper.pdf, id=2019, page=3, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [132<./papers/A4-1/paper.pdf>]
+<papers/A4-1/paper.pdf, id=1963, page=3, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 3>
 Package luatex.def Info: papers/A4-1/paper.pdf , page3 used on input line 568.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [133<./papers/A4-1/paper.pdf>]
 
-<papers/A4-1/paper.pdf, id=2044, page=4, 597.50829pt x 845.04709pt>
+(./paper.newpax) [133<./papers/A4-1/paper.pdf>]
+<papers/A4-1/paper.pdf, id=1988, page=4, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 4>
 Package luatex.def Info: papers/A4-1/paper.pdf , page4 used on input line 568.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [134<./papers/A4-1/paper.pdf>]
-
-<papers/A4-1/paper.pdf, id=2055, page=5, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [134<./papers/A4-1/paper.pdf>]
+<papers/A4-1/paper.pdf, id=1999, page=5, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 5>
 Package luatex.def Info: papers/A4-1/paper.pdf , page5 used on input line 568.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [135<./papers/A4-1/paper.pdf>]
-
-<papers/A4-1/paper.pdf, id=2064, page=6, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [135<./papers/A4-1/paper.pdf>]
+<papers/A4-1/paper.pdf, id=2008, page=6, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 6>
 Package luatex.def Info: papers/A4-1/paper.pdf , page6 used on input line 568.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [136<./papers/A4-1/paper.pdf>]
 
-<papers/A4-1/paper.pdf, id=2081, page=7, 597.50829pt x 845.04709pt>
+(./paper.newpax) [136<./papers/A4-1/paper.pdf>]
+<papers/A4-1/paper.pdf, id=2025, page=7, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 7>
 Package luatex.def Info: papers/A4-1/paper.pdf , page7 used on input line 568.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [137<./papers/A4-1/paper.pdf>]
-
-<papers/A4-1/paper.pdf, id=2096, page=8, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [137<./papers/A4-1/paper.pdf>]
+<papers/A4-1/paper.pdf, id=2040, page=8, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 8>
 Package luatex.def Info: papers/A4-1/paper.pdf , page8 used on input line 568.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [138<./papers/A4-1/paper.pdf>]
-
-<papers/A4-1/paper.pdf, id=2106, page=9, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [138<./papers/A4-1/paper.pdf>]
+<papers/A4-1/paper.pdf, id=2050, page=9, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 9>
 Package luatex.def Info: papers/A4-1/paper.pdf , page9 used on input line 568.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [139<./papers/A4-1/paper.pdf>]
 
-<papers/A4-1/paper.pdf, id=2117, page=10, 597.50829pt x 845.04709pt>
+(./paper.newpax) [139<./papers/A4-1/paper.pdf>]
+<papers/A4-1/paper.pdf, id=2061, page=10, 597.50829pt x 845.04709pt>
 File: papers/A4-1/paper.pdf Graphic file (type pdf)
 <use papers/A4-1/paper.pdf, page 10>
 Package luatex.def Info: papers/A4-1/paper.pdf , page10 used on input line 568.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [140<./papers/A4-1/paper.pdf>]
+ (./paper.newpax) [140<./papers/A4-1/paper.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unskip' on input line 574.
@@ -4160,9 +4321,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A4-2/paper.pdf, id=2136, page=1, 597.50829pt x 845.04709pt>
+<papers/A4-2/paper.pdf, id=2080, page=1, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 1>
 Package luatex.def Info: papers/A4-2/paper.pdf , page1 used on input line 574.
@@ -4203,96 +4362,86 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A4-2/paper.pdf>]
-
-<papers/A4-2/paper.pdf, id=2173, page=2, 597.50829pt x 845.04709pt>
+<papers/A4-2/paper.pdf, id=2118, page=2, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 2>
 Package luatex.def Info: papers/A4-2/paper.pdf , page2 used on input line 574.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [142<./papers/A4-2/paper.pdf>]
-
-<papers/A4-2/paper.pdf, id=2204, page=3, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [142<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2149, page=3, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 3>
 Package luatex.def Info: papers/A4-2/paper.pdf , page3 used on input line 574.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [143<./papers/A4-2/paper.pdf>]
 
-<papers/A4-2/paper.pdf, id=2227, page=4, 597.50829pt x 845.04709pt>
+(./paper.newpax) [143<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2172, page=4, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 4>
 Package luatex.def Info: papers/A4-2/paper.pdf , page4 used on input line 574.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [144<./papers/A4-2/paper.pdf>]
-
-<papers/A4-2/paper.pdf, id=2307, page=5, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [144<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2252, page=5, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 5>
 Package luatex.def Info: papers/A4-2/paper.pdf , page5 used on input line 574.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [145<./papers/A4-2/paper.pdf>]
-
-<papers/A4-2/paper.pdf, id=2323, page=6, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [145<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2268, page=6, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 6>
 Package luatex.def Info: papers/A4-2/paper.pdf , page6 used on input line 574.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [146<./papers/A4-2/paper.pdf>]
 
-<papers/A4-2/paper.pdf, id=2336, page=7, 597.50829pt x 845.04709pt>
+(./paper.newpax) [146<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2281, page=7, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 7>
 Package luatex.def Info: papers/A4-2/paper.pdf , page7 used on input line 574.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [147<./papers/A4-2/paper.pdf>]
-
-<papers/A4-2/paper.pdf, id=2345, page=8, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [147<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2290, page=8, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 8>
 Package luatex.def Info: papers/A4-2/paper.pdf , page8 used on input line 574.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [148<./papers/A4-2/paper.pdf>]
-
-<papers/A4-2/paper.pdf, id=2352, page=9, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [148<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2297, page=9, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 9>
 Package luatex.def Info: papers/A4-2/paper.pdf , page9 used on input line 574.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [149<./papers/A4-2/paper.pdf>]
 
-<papers/A4-2/paper.pdf, id=2359, page=10, 597.50829pt x 845.04709pt>
+(./paper.newpax) [149<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2304, page=10, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 10>
 Package luatex.def Info: papers/A4-2/paper.pdf , page10 used on input line 574.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [150<./papers/A4-2/paper.pdf>]
-
-<papers/A4-2/paper.pdf, id=2377, page=11, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [150<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2322, page=11, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 11>
 Package luatex.def Info: papers/A4-2/paper.pdf , page11 used on input line 574.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [151<./papers/A4-2/paper.pdf>]
-
-<papers/A4-2/paper.pdf, id=2408, page=12, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [151<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2353, page=12, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 12>
 Package luatex.def Info: papers/A4-2/paper.pdf , page12 used on input line 574.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [152<./papers/A4-2/paper.pdf>]
 
-<papers/A4-2/paper.pdf, id=2436, page=13, 597.50829pt x 845.04709pt>
+(./paper.newpax) [152<./papers/A4-2/paper.pdf>]
+<papers/A4-2/paper.pdf, id=2381, page=13, 597.50829pt x 845.04709pt>
 File: papers/A4-2/paper.pdf Graphic file (type pdf)
 <use papers/A4-2/paper.pdf, page 13>
 Package luatex.def Info: papers/A4-2/paper.pdf , page13 used on input line 574.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [153<./papers/A4-2/paper.pdf>]
-
-[154
+ (./paper.newpax) [153<./papers/A4-2/paper.pdf>] [154
 
 
 ]
@@ -4334,9 +4483,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A4-3/paper.pdf, id=2466, page=1, 597.50829pt x 845.04709pt>
+<papers/A4-3/paper.pdf, id=2411, page=1, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 1>
 Package luatex.def Info: papers/A4-3/paper.pdf , page1 used on input line 580.
@@ -4360,70 +4507,64 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A4-3/paper.pdf>]
-
-<papers/A4-3/paper.pdf, id=2507, page=2, 597.50829pt x 845.04709pt>
+<papers/A4-3/paper.pdf, id=2453, page=2, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 2>
 Package luatex.def Info: papers/A4-3/paper.pdf , page2 used on input line 580.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [156<./papers/A4-3/paper.pdf>]
-
-<papers/A4-3/paper.pdf, id=2534, page=3, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [156<./papers/A4-3/paper.pdf>]
+<papers/A4-3/paper.pdf, id=2480, page=3, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 3>
 Package luatex.def Info: papers/A4-3/paper.pdf , page3 used on input line 580.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [157<./papers/A4-3/paper.pdf>]
 
-<papers/A4-3/paper.pdf, id=2548, page=4, 597.50829pt x 845.04709pt>
+(./paper.newpax) [157<./papers/A4-3/paper.pdf>]
+<papers/A4-3/paper.pdf, id=2494, page=4, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 4>
 Package luatex.def Info: papers/A4-3/paper.pdf , page4 used on input line 580.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [158<./papers/A4-3/paper.pdf>]
-
-<papers/A4-3/paper.pdf, id=2557, page=5, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [158<./papers/A4-3/paper.pdf>]
+<papers/A4-3/paper.pdf, id=2503, page=5, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 5>
 Package luatex.def Info: papers/A4-3/paper.pdf , page5 used on input line 580.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [159<./papers/A4-3/paper.pdf>]
-
-<papers/A4-3/paper.pdf, id=2569, page=6, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [159<./papers/A4-3/paper.pdf>]
+<papers/A4-3/paper.pdf, id=2515, page=6, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 6>
 Package luatex.def Info: papers/A4-3/paper.pdf , page6 used on input line 580.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [160<./papers/A4-3/paper.pdf>]
 
-<papers/A4-3/paper.pdf, id=2606, page=7, 597.50829pt x 845.04709pt>
+(./paper.newpax) [160<./papers/A4-3/paper.pdf>]
+<papers/A4-3/paper.pdf, id=2552, page=7, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 7>
 Package luatex.def Info: papers/A4-3/paper.pdf , page7 used on input line 580.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [161<./papers/A4-3/paper.pdf>]
-
-<papers/A4-3/paper.pdf, id=2619, page=8, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [161<./papers/A4-3/paper.pdf>]
+<papers/A4-3/paper.pdf, id=2565, page=8, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 8>
 Package luatex.def Info: papers/A4-3/paper.pdf , page8 used on input line 580.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [162<./papers/A4-3/paper.pdf>]
-
-<papers/A4-3/paper.pdf, id=2650, page=9, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [162<./papers/A4-3/paper.pdf>]
+<papers/A4-3/paper.pdf, id=2596, page=9, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 9>
 Package luatex.def Info: papers/A4-3/paper.pdf , page9 used on input line 580.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [163<./papers/A4-3/paper.pdf>]
 
-<papers/A4-3/paper.pdf, id=2665, page=10, 597.50829pt x 845.04709pt>
+(./paper.newpax) [163<./papers/A4-3/paper.pdf>]
+<papers/A4-3/paper.pdf, id=2611, page=10, 597.50829pt x 845.04709pt>
 File: papers/A4-3/paper.pdf Graphic file (type pdf)
 <use papers/A4-3/paper.pdf, page 10>
 Package luatex.def Info: papers/A4-3/paper.pdf , page10 used on input line 580.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [164<./papers/A4-3/paper.pdf>]
+ (./paper.newpax) [164<./papers/A4-3/paper.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unskip' on input line 586.
@@ -4470,9 +4611,7 @@ Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
-
-
-<papers/A4-4/paper.pdf, id=2684, page=1, 597.50829pt x 845.04709pt>
+<papers/A4-4/paper.pdf, id=2630, page=1, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 1>
 Package luatex.def Info: papers/A4-4/paper.pdf , page1 used on input line 586.
@@ -4503,75 +4642,69 @@ Missing character: There is no 0 (U+0030) in font nullfont!
 Missing character: There is no 2 (U+0032) in font nullfont!
 Missing character: There is no 5 (U+0035) in font nullfont!
 <./papers/A4-4/paper.pdf>]
-
-<papers/A4-4/paper.pdf, id=2726, page=2, 597.50829pt x 845.04709pt>
+<papers/A4-4/paper.pdf, id=2673, page=2, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 2>
 Package luatex.def Info: papers/A4-4/paper.pdf , page2 used on input line 586.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [166<./papers/A4-4/paper.pdf>]
-
-<papers/A4-4/paper.pdf, id=2756, page=3, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [166<./papers/A4-4/paper.pdf>]
+<papers/A4-4/paper.pdf, id=2703, page=3, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 3>
 Package luatex.def Info: papers/A4-4/paper.pdf , page3 used on input line 586.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [167<./papers/A4-4/paper.pdf>]
 
-<papers/A4-4/paper.pdf, id=2775, page=4, 597.50829pt x 845.04709pt>
+(./paper.newpax) [167<./papers/A4-4/paper.pdf>]
+<papers/A4-4/paper.pdf, id=2722, page=4, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 4>
 Package luatex.def Info: papers/A4-4/paper.pdf , page4 used on input line 586.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [168<./papers/A4-4/paper.pdf>]
-
-<papers/A4-4/paper.pdf, id=2798, page=5, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [168<./papers/A4-4/paper.pdf>]
+<papers/A4-4/paper.pdf, id=2745, page=5, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 5>
 Package luatex.def Info: papers/A4-4/paper.pdf , page5 used on input line 586.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [169<./papers/A4-4/paper.pdf>]
-
-<papers/A4-4/paper.pdf, id=2811, page=6, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [169<./papers/A4-4/paper.pdf>]
+<papers/A4-4/paper.pdf, id=2758, page=6, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 6>
 Package luatex.def Info: papers/A4-4/paper.pdf , page6 used on input line 586.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [170<./papers/A4-4/paper.pdf>]
 
-<papers/A4-4/paper.pdf, id=2821, page=7, 597.50829pt x 845.04709pt>
+(./paper.newpax) [170<./papers/A4-4/paper.pdf>]
+<papers/A4-4/paper.pdf, id=2768, page=7, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 7>
 Package luatex.def Info: papers/A4-4/paper.pdf , page7 used on input line 586.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [171<./papers/A4-4/paper.pdf>]
-
-<papers/A4-4/paper.pdf, id=2833, page=8, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [171<./papers/A4-4/paper.pdf>]
+<papers/A4-4/paper.pdf, id=2780, page=8, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 8>
 Package luatex.def Info: papers/A4-4/paper.pdf , page8 used on input line 586.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [172<./papers/A4-4/paper.pdf>]
-
-<papers/A4-4/paper.pdf, id=2844, page=9, 597.50829pt x 845.04709pt>
+ (./paper.newpax) [172<./papers/A4-4/paper.pdf>]
+<papers/A4-4/paper.pdf, id=2791, page=9, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 9>
 Package luatex.def Info: papers/A4-4/paper.pdf , page9 used on input line 586.
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [173<./papers/A4-4/paper.pdf>]
 
-<papers/A4-4/paper.pdf, id=2861, page=10, 597.50829pt x 845.04709pt>
+(./paper.newpax) [173<./papers/A4-4/paper.pdf>]
+<papers/A4-4/paper.pdf, id=2808, page=10, 597.50829pt x 845.04709pt>
 File: papers/A4-4/paper.pdf Graphic file (type pdf)
 <use papers/A4-4/paper.pdf, page 10>
 Package luatex.def Info: papers/A4-4/paper.pdf , page10 used on input line 586.
 
 (luatex.def)             Requested size: 597.50682pt x 672.28015pt.
-(./paper.newpax) [174<./papers/A4-4/paper.pdf>]
+ (./paper.newpax) [174<./papers/A4-4/paper.pdf>]
 No file proceedings.ind.
 (./proceedings.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-08-13>
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
  ***********
 Package logreq Info: Writing requests to 'proceedings.run.xml'.
 
@@ -4579,18 +4712,18 @@ Package logreq Info: Writing requests to 'proceedings.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 38396 strings out of 470117
- 100000,1977958 words of node,token memory allocated
- 765 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 18 attribute, 97 glue_spec
-, 11 attribute_list, 4 write, 1 user_defined, 1 pdf_dest nodes
-   avail lists: 1:4,2:849,3:263,4:152,5:432,6:50,7:3067,8:1,9:553,10:15,11:209,1
+ 43684 strings out of 475635
+ 100000,2373549 words of node,token memory allocated
+ 802 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 2 glyph, 22 attribute, 101 glue_spe
+c, 12 attribute_list, 4 write, 1 user_defined, 1 pdf_dest nodes
+   avail lists: 1:6,2:751,3:198,4:152,5:416,6:47,7:2978,8:2,9:553,10:15,11:198,1
 2:1
- 64506 multiletter control sequences out of 65536+600000
- 62 fonts using 15439527 bytes
- 108i,18n,101p,11209b,2308s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 64103 multiletter control sequences out of 65536+600000
+ 63 fonts using 15571175 bytes
+ 108i,18n,101p,11209b,2320s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-warning  (pdf backend): unreferenced destination with name 'section*.30'
+warning  (pdf backend): unreferenced destination with name 'section*.26'
 
 warning  (pdf backend): unreferenced destination with name 'cite.0@A4-4'
 
@@ -4623,9 +4756,9 @@ warning  (pdf backend): unreferenced destination with name 'cite.0@A1-1'
 nts/opentype/public/tex-gyre/texgyretermes-bold.otf><C:/MiKTeX/fonts/opentype/pu
 blic/tex-gyre/texgyretermes-regular.otf><C:/MiKTeX/fonts/type1/public/ccicons/cc
 icons.pfb>
-Output written on proceedings.pdf (174 pages, 9642974 bytes).
+Output written on proceedings.pdf (174 pages, 9624681 bytes).
 
-PDF statistics: 3005 PDF objects out of 3580 (max. 8388607)
- 424 named destinations out of 1000 (max. 131072)
- 1749 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 2953 PDF objects out of 2984 (max. 8388607)
+ 420 named destinations out of 1000 (max. 131072)
+ 1764 words of extra memory for PDF output out of 10000 (max. 100000000)
 
