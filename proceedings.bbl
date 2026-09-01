@@ -1,0 +1,774 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{A3-1}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd0c215f14b2b3a4905b40fe0d1e9ec9}{%
+           family={Elfeky},
+           familyi={E\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
+      \strng{fullhash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
+      \strng{fullhashraw}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
+      \strng{bibnamehash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
+      \strng{authorbibnamehash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
+      \strng{authornamehash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
+      \strng{authorfullhash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
+      \strng{authorfullhashraw}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Life-Cycle Decision Support for Post-Optimization Industrial Decarbonization: An Environmental-Informatics Case Study of an SME Foundry}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{67\bibrangedash 81}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 06
+      \endverb
+    \endentry
+    \entry{A2-1}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71e050e1471d93318fb96dfaf0655f3e}{%
+           family={Fellinger},
+           familyi={F\bibinitperiod},
+           given={Engelbert},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{71e050e1471d93318fb96dfaf0655f3e}
+      \strng{fullhash}{71e050e1471d93318fb96dfaf0655f3e}
+      \strng{fullhashraw}{71e050e1471d93318fb96dfaf0655f3e}
+      \strng{bibnamehash}{71e050e1471d93318fb96dfaf0655f3e}
+      \strng{authorbibnamehash}{71e050e1471d93318fb96dfaf0655f3e}
+      \strng{authornamehash}{71e050e1471d93318fb96dfaf0655f3e}
+      \strng{authorfullhash}{71e050e1471d93318fb96dfaf0655f3e}
+      \strng{authorfullhashraw}{71e050e1471d93318fb96dfaf0655f3e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Assessing the Maturity of Sustainability-aware Data Management Strategies that minimise Data Volumes and reduce Energy Consumption: A Study Approach}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{45\bibrangedash 54}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 04
+      \endverb
+    \endentry
+    \entry{A2-2}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=3fd222231d25c6eb2e3cfb45eb908eaf}{%
+           family={Flohr},
+           familyi={F\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42ac5dffdd736ba8e90ac7b0f20ae765}{%
+           family={Bruck},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c180eb8aa2a9ae859cef76e757b5a7f1}{%
+           family={Kleinmann},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b8e8847411b32852f6dc1119f1e9a04}{%
+           family={Behrens},
+           familyi={B\bibinitperiod},
+           given={Grit},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ece672d91e7fbf96cb7146cc1fd359d2}{%
+           family={Kahlfeld},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{967a3e826b6b2e3eeb4e03c21ad9eea0}
+      \strng{fullhash}{967a3e826b6b2e3eeb4e03c21ad9eea0}
+      \strng{fullhashraw}{967a3e826b6b2e3eeb4e03c21ad9eea0}
+      \strng{bibnamehash}{967a3e826b6b2e3eeb4e03c21ad9eea0}
+      \strng{authorbibnamehash}{967a3e826b6b2e3eeb4e03c21ad9eea0}
+      \strng{authornamehash}{967a3e826b6b2e3eeb4e03c21ad9eea0}
+      \strng{authorfullhash}{967a3e826b6b2e3eeb4e03c21ad9eea0}
+      \strng{authorfullhashraw}{967a3e826b6b2e3eeb4e03c21ad9eea0}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Linking Water Quality to Corrosion Behaviour at Steel Sheet Pile Walls: A Machine Learning Study in the Port of Hamburg}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{55\bibrangedash 64}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 05
+      \endverb
+    \endentry
+    \entry{A3-2}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a2adf716571887bc53f9c0b7b14dd133}{%
+           family={Fuchs-Kittowski},
+           familyi={F\bibinithyphendelim K\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=455a7e2d6dce44ef9c4013cbb82415ad}{%
+           family={Deharde},
+           familyi={D\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=596a49dfda69ffa3f2816deaf9d2daf2}{%
+           family={Starzl},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25a90fbff1cbd87206ba9cfcb7bf9294}{%
+           family={Poppel},
+           familyi={P\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22cfa9fbf2e7a966237c91f0eba34f6a}{%
+           family={Burkard},
+           familyi={B\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{fa1a262588d4bc110e1e4f970ff412ee}
+      \strng{fullhash}{fa1a262588d4bc110e1e4f970ff412ee}
+      \strng{fullhashraw}{fa1a262588d4bc110e1e4f970ff412ee}
+      \strng{bibnamehash}{fa1a262588d4bc110e1e4f970ff412ee}
+      \strng{authorbibnamehash}{fa1a262588d4bc110e1e4f970ff412ee}
+      \strng{authornamehash}{fa1a262588d4bc110e1e4f970ff412ee}
+      \strng{authorfullhash}{fa1a262588d4bc110e1e4f970ff412ee}
+      \strng{authorfullhashraw}{fa1a262588d4bc110e1e4f970ff412ee}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Common and Domain-Specific Design Patterns for Mobile AR Applications to Visualize Measures on Building Facades in an Environmental Context}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{83\bibrangedash 92}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 07
+      \endverb
+    \endentry
+    \entry{A4-2}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fedd2da465f91565dca2b87627a9bc63}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Nick\bibnamedelima Kriesing},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1da6a3ea25cfdd5377b312e724d3c57}{%
+           family={Junger},
+           familyi={J\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0653fc8123ac2a58c99691143d78e191}{%
+           family={Wohlgemuth},
+           familyi={W\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{38af31c3de156fc936407d7f4592bec6}
+      \strng{fullhash}{38af31c3de156fc936407d7f4592bec6}
+      \strng{fullhashraw}{38af31c3de156fc936407d7f4592bec6}
+      \strng{bibnamehash}{38af31c3de156fc936407d7f4592bec6}
+      \strng{authorbibnamehash}{38af31c3de156fc936407d7f4592bec6}
+      \strng{authornamehash}{38af31c3de156fc936407d7f4592bec6}
+      \strng{authorfullhash}{38af31c3de156fc936407d7f4592bec6}
+      \strng{authorfullhashraw}{38af31c3de156fc936407d7f4592bec6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Joint Evaluation of the Green Coding Roadmap Training}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{141\bibrangedash 153}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 12
+      \endverb
+    \endentry
+    \entry{A4-1}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f0ea295e53526526582ab2bd47706d8e}{%
+           family={Jahns},
+           familyi={J\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1da6a3ea25cfdd5377b312e724d3c57}{%
+           family={Junger},
+           familyi={J\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0653fc8123ac2a58c99691143d78e191}{%
+           family={Wohlgemuth},
+           familyi={W\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ba0f33df3b714839719bbfc66433341}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Geerd-Dietger},
+           giveni={G\bibinithyphendelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{e095ecdc4de81fa00ce40299a78913c1}
+      \strng{fullhash}{e095ecdc4de81fa00ce40299a78913c1}
+      \strng{fullhashraw}{e095ecdc4de81fa00ce40299a78913c1}
+      \strng{bibnamehash}{e095ecdc4de81fa00ce40299a78913c1}
+      \strng{authorbibnamehash}{e095ecdc4de81fa00ce40299a78913c1}
+      \strng{authornamehash}{e095ecdc4de81fa00ce40299a78913c1}
+      \strng{authorfullhash}{e095ecdc4de81fa00ce40299a78913c1}
+      \strng{authorfullhashraw}{e095ecdc4de81fa00ce40299a78913c1}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Windows Integration into the Green Metrics Tool: Energy Measurement of Native Windows Applications via RAPL}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{131\bibrangedash 140}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 11
+      \endverb
+    \endentry
+    \entry{A1-1}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0eb428e1f9b85cabf26f15ed789b127e}{%
+           family={Kobiela},
+           familyi={K\bibinitperiod},
+           given={Paweł},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2a23636e0aa3f9bb0ebd9003cd3ba67}{%
+           family={Stańczak},
+           familyi={S\bibinitperiod},
+           given={Jarosław},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=707cf1d239b8b6a4ed3b603b47ccb19f}{%
+           family={Bartoszczuk},
+           familyi={B\bibinitperiod},
+           given={Paweł},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{c693e18e059f1ecc16aebafb6447fd93}
+      \strng{fullhash}{c693e18e059f1ecc16aebafb6447fd93}
+      \strng{fullhashraw}{c693e18e059f1ecc16aebafb6447fd93}
+      \strng{bibnamehash}{c693e18e059f1ecc16aebafb6447fd93}
+      \strng{authorbibnamehash}{c693e18e059f1ecc16aebafb6447fd93}
+      \strng{authornamehash}{c693e18e059f1ecc16aebafb6447fd93}
+      \strng{authorfullhash}{c693e18e059f1ecc16aebafb6447fd93}
+      \strng{authorfullhashraw}{c693e18e059f1ecc16aebafb6447fd93}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{AI model of a photovoltaic installation}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{13\bibrangedash 22}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 01
+      \endverb
+    \endentry
+    \entry{A3-3}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5dc0e9259764a95213a41ba766c7a42}{%
+           family={Koravi},
+           familyi={K\bibinitperiod},
+           given={Sandhya},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{c5dc0e9259764a95213a41ba766c7a42}
+      \strng{fullhash}{c5dc0e9259764a95213a41ba766c7a42}
+      \strng{fullhashraw}{c5dc0e9259764a95213a41ba766c7a42}
+      \strng{bibnamehash}{c5dc0e9259764a95213a41ba766c7a42}
+      \strng{authorbibnamehash}{c5dc0e9259764a95213a41ba766c7a42}
+      \strng{authornamehash}{c5dc0e9259764a95213a41ba766c7a42}
+      \strng{authorfullhash}{c5dc0e9259764a95213a41ba766c7a42}
+      \strng{authorfullhashraw}{c5dc0e9259764a95213a41ba766c7a42}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Sustainability Context Inheritance: From Trusted Evidence to Product Sustainability Profiles in Circular Economy Decision-Making}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{93\bibrangedash 102}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 08
+      \endverb
+    \endentry
+    \entry{A3-4}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e4c7a13763be3d32a66d133c3075ba0a}{%
+           family={Nachtsheim},
+           familyi={N\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cbbd53ac15a71c3cdae82955e8a7737}{%
+           family={Arndt},
+           familyi={A\bibinitperiod},
+           given={Hans-Knud},
+           giveni={H\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{65a5b06430015d4136977874fbb0153c}
+      \strng{fullhash}{65a5b06430015d4136977874fbb0153c}
+      \strng{fullhashraw}{65a5b06430015d4136977874fbb0153c}
+      \strng{bibnamehash}{65a5b06430015d4136977874fbb0153c}
+      \strng{authorbibnamehash}{65a5b06430015d4136977874fbb0153c}
+      \strng{authornamehash}{65a5b06430015d4136977874fbb0153c}
+      \strng{authorfullhash}{65a5b06430015d4136977874fbb0153c}
+      \strng{authorfullhashraw}{65a5b06430015d4136977874fbb0153c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Time-Variable State Spaces for Auditable ESG and Taxonomy Evidence in Operational Information Systems}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{103\bibrangedash 116}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 09
+      \endverb
+    \endentry
+    \entry{A1-2}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ecb1fc7840d236ff1de64e65739071d2}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Larissa\bibnamedelima Koch},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=334297d8fb954449aa352ee68ebd8ea4}{%
+           family={Engstler},
+           familyi={E\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{116f67c4fcb6ea66e1d8a6ddc2103840}
+      \strng{fullhash}{116f67c4fcb6ea66e1d8a6ddc2103840}
+      \strng{fullhashraw}{116f67c4fcb6ea66e1d8a6ddc2103840}
+      \strng{bibnamehash}{116f67c4fcb6ea66e1d8a6ddc2103840}
+      \strng{authorbibnamehash}{116f67c4fcb6ea66e1d8a6ddc2103840}
+      \strng{authornamehash}{116f67c4fcb6ea66e1d8a6ddc2103840}
+      \strng{authorfullhash}{116f67c4fcb6ea66e1d8a6ddc2103840}
+      \strng{authorfullhashraw}{116f67c4fcb6ea66e1d8a6ddc2103840}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Environmentally Informed GenAI Use in ITSM: A Problem Analysis of Organisational Use-Case Decision-Making}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{23\bibrangedash 32}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 02
+      \endverb
+    \endentry
+    \entry{A3-5}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a6a1224070fb0b334e555151b8dbb75d}{%
+           family={Szałata},
+           familyi={S\bibinitperiod},
+           given={Łukasz},
+           giveni={Ł\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b8e8847411b32852f6dc1119f1e9a04}{%
+           family={Behrens},
+           familyi={B\bibinitperiod},
+           given={Grit},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01f70870ec915cf63817fd9fe43bbd48}{%
+           family={Orłowski},
+           familyi={O\bibinitperiod},
+           given={Cezary},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2316aae68ac3d8b66394ae2325263fd1}{%
+           family={Grzeszczyk},
+           familyi={G\bibinitperiod},
+           given={Rafał},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{8f29e321ac0dc08464b45908c98a9eb6}
+      \strng{fullhash}{8f29e321ac0dc08464b45908c98a9eb6}
+      \strng{fullhashraw}{8f29e321ac0dc08464b45908c98a9eb6}
+      \strng{bibnamehash}{8f29e321ac0dc08464b45908c98a9eb6}
+      \strng{authorbibnamehash}{8f29e321ac0dc08464b45908c98a9eb6}
+      \strng{authornamehash}{8f29e321ac0dc08464b45908c98a9eb6}
+      \strng{authorfullhash}{8f29e321ac0dc08464b45908c98a9eb6}
+      \strng{authorfullhashraw}{8f29e321ac0dc08464b45908c98a9eb6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Air Quality Knowledge as a Driver of Computing Competences: An International Project-Based Learning Project}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{117\bibrangedash 127}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 10
+      \endverb
+    \endentry
+    \entry{A4-3}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6bca39ab5a15534c63731ef13faaf07}{%
+           family={Valko},
+           familyi={V\bibinitperiod},
+           given={Danila},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0014dd4a0b68fc3889febc06dde3abf8}{%
+           family={Gómez},
+           familyi={G\bibinitperiod},
+           given={Jorge\bibnamedelima Marx},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{32d482356b7a51ac9234403d4dedb359}
+      \strng{fullhash}{32d482356b7a51ac9234403d4dedb359}
+      \strng{fullhashraw}{32d482356b7a51ac9234403d4dedb359}
+      \strng{bibnamehash}{32d482356b7a51ac9234403d4dedb359}
+      \strng{authorbibnamehash}{32d482356b7a51ac9234403d4dedb359}
+      \strng{authornamehash}{32d482356b7a51ac9234403d4dedb359}
+      \strng{authorfullhash}{32d482356b7a51ac9234403d4dedb359}
+      \strng{authorfullhashraw}{32d482356b7a51ac9234403d4dedb359}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Toward a Framework for Performance and Carbon Footprint Assessment of Payment Channel Network Solutions}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{155\bibrangedash 164}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 13
+      \endverb
+    \endentry
+    \entry{A1-3}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=46819930df1f18dedf99cdc56d02920d}{%
+           family={Werner},
+           familyi={W\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca467d6d961e8b40fbc31f5832d5987d}{%
+           family={Thimm},
+           familyi={T\bibinitperiod},
+           given={Heiko},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc6ef99882af8beddb565766a5c2b481}{%
+           family={Hammann},
+           familyi={H\bibinitperiod},
+           given={Leonie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{8d5f2ac6bc6f0479665ddafd931b67f3}
+      \strng{fullhash}{8d5f2ac6bc6f0479665ddafd931b67f3}
+      \strng{fullhashraw}{8d5f2ac6bc6f0479665ddafd931b67f3}
+      \strng{bibnamehash}{8d5f2ac6bc6f0479665ddafd931b67f3}
+      \strng{authorbibnamehash}{8d5f2ac6bc6f0479665ddafd931b67f3}
+      \strng{authornamehash}{8d5f2ac6bc6f0479665ddafd931b67f3}
+      \strng{authorfullhash}{8d5f2ac6bc6f0479665ddafd931b67f3}
+      \strng{authorfullhashraw}{8d5f2ac6bc6f0479665ddafd931b67f3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Application of Artificial Intelligence in German Municipal Wastewater Facilities}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{33\bibrangedash 42}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 03
+      \endverb
+    \endentry
+    \entry{A4-4}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a825297abe2e8a5d1b67d683dc379293}{%
+           family={Westing},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ead4a77a577c64dd28ec5f29f4d8c34e}{%
+           family={Naumann},
+           familyi={N\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{ff1dee8b9e122e3c9f0224ceab118d52}
+      \strng{fullhash}{ff1dee8b9e122e3c9f0224ceab118d52}
+      \strng{fullhashraw}{ff1dee8b9e122e3c9f0224ceab118d52}
+      \strng{bibnamehash}{ff1dee8b9e122e3c9f0224ceab118d52}
+      \strng{authorbibnamehash}{ff1dee8b9e122e3c9f0224ceab118d52}
+      \strng{authornamehash}{ff1dee8b9e122e3c9f0224ceab118d52}
+      \strng{authorfullhash}{ff1dee8b9e122e3c9f0224ceab118d52}
+      \strng{authorfullhashraw}{ff1dee8b9e122e3c9f0224ceab118d52}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2025}
+      \field{eventday}{17}
+      \field{eventendday}{19}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2025}
+      \field{eventmonth}{9}
+      \field{eventyear}{2025}
+      \field{title}{Towards a Taxonomy of ICT and Software Sustainability Assessment Instruments}
+      \field{year}{2025}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{165\bibrangedash 174}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2025\textunderscore 14
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,20 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\nonumberline Artificial Intelligence and Sustainability}{13}{part*.9}%
+\contentsline {section}{\textbf {{\language \langwohyphens Paweł Kobiela \unskip ,\ Jarosław Stańczak \unskip ,\ Paweł Bartoszczuk}}\\\textit {AI model of a photovoltaic installation}}{13}{section*.10}%
+\contentsline {section}{\textbf {{\language \langwohyphens Larissa Koch de Souza \unskip ,\ Martin Engstler}}\\\textit {Environmentally Informed GenAI Use in ITSM: A Problem Analysis of Organisational Use-Case Decision-Making}}{23}{section*.11}%
+\contentsline {section}{\textbf {{\language \langwohyphens Nicole Werner \unskip ,\ Heiko Thimm \unskip ,\ Leonie Hammann}}\\\textit {Application of Artificial Intelligence in German Municipal Wastewater Facilities}}{33}{section*.12}%
+\contentsline {chapter}{\nonumberline Doctoral Workshop}{45}{part*.14}%
+\contentsline {section}{\textbf {{\language \langwohyphens Engelbert Fellinger}}\\\textit {Assessing the Maturity of Sustainability-aware Data Management Strategies that minimise Data Volumes and reduce Energy Consumption: A Study Approach}}{45}{section*.15}%
+\contentsline {section}{\textbf {{\language \langwohyphens Sarah Flohr \unskip ,\ Paul Bruck \unskip ,\ Jan Kleinmann \unskip ,\ Grit Behrens \unskip ,\ Andreas Kahlfeld}}\\\textit {Linking Water Quality to Corrosion Behaviour at Steel Sheet Pile Walls: A Machine Learning Study in the Port of Hamburg}}{55}{section*.16}%
+\contentsline {chapter}{\nonumberline Environmental Management Software}{67}{part*.18}%
+\contentsline {section}{\textbf {{\language \langwohyphens Ahmed Elfeky}}\\\textit {Life-Cycle Decision Support for Post-Optimization Industrial Decarbonization: An Environmental-Informatics Case Study of an SME Foundry}}{67}{section*.19}%
+\contentsline {section}{\textbf {{\language \langwohyphens Frank Fuchs-Kittowski \unskip ,\ Maximilian Deharde \unskip ,\ David Starzl \unskip ,\ Marius Poppel \unskip ,\ Simon Burkard}}\\\textit {Common and Domain-Specific Design Patterns for Mobile AR Applications to Visualize Measures on Building Facades in an Environmental Context}}{83}{section*.20}%
+\contentsline {section}{\textbf {{\language \langwohyphens Sandhya Koravi}}\\\textit {Sustainability Context Inheritance: From Trusted Evidence to Product Sustainability Profiles in Circular Economy Decision-Making}}{93}{section*.21}%
+\contentsline {section}{\textbf {{\language \langwohyphens René Nachtsheim \unskip ,\ Hans-Knud Arndt}}\\\textit {Time-Variable State Spaces for Auditable ESG and Taxonomy Evidence in Operational Information Systems}}{103}{section*.22}%
+\contentsline {section}{\textbf {{\language \langwohyphens Łukasz Szałata \unskip ,\ Grit Behrens \unskip ,\ Cezary Orłowski \unskip ,\ Rafał Grzeszczyk}}\\\textit {Air Quality Knowledge as a Driver of Computing Competences: An International Project-Based Learning Project}}{117}{section*.23}%
+\contentsline {chapter}{\nonumberline Green Coding}{131}{part*.25}%
+\contentsline {section}{\textbf {{\language \langwohyphens Maximilian Jahns \unskip ,\ Dennis Junger \unskip ,\ Volker Wohlgemuth \unskip ,\ Geerd-Dietger Hoffmann}}\\\textit {Windows Integration into the Green Metrics Tool: Energy Measurement of Native Windows Applications via RAPL}}{131}{section*.26}%
+\contentsline {section}{\textbf {{\language \langwohyphens Nick Kriesing Garcia \unskip ,\ Dennis Junger \unskip ,\ Volker Wohlgemuth}}\\\textit {Joint Evaluation of the Green Coding Roadmap Training}}{141}{section*.27}%
+\contentsline {section}{\textbf {{\language \langwohyphens Danila Valko \unskip ,\ Jorge Marx Gómez}}\\\textit {Toward a Framework for Performance and Carbon Footprint Assessment of Payment Channel Network Solutions}}{155}{section*.28}%
+\contentsline {section}{\textbf {{\language \langwohyphens Max Westing \unskip ,\ Stefan Naumann}}\\\textit {Towards a Taxonomy of ICT and Software Sustainability Assessment Instruments}}{165}{section*.29}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
