@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
-    \entry{A3-1}{inproceedings}{}{}
+    \entry{A4-1}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bd0c215f14b2b3a4905b40fe0d1e9ec9}{%
            family={Elfeky},
@@ -45,24 +45,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Life-Cycle Decision Support for Post-Optimization Industrial Decarbonization: An Environmental-Informatics Case Study of an SME Foundry}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{67\bibrangedash 81}
+      \field{pages}{101\bibrangedash 115}
       \range{pages}{15}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 06
+      \verb 10.18420/env2026\textunderscore 09
       \endverb
     \endentry
-    \entry{A2-1}{inproceedings}{}{}
+    \entry{A3-1}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=71e050e1471d93318fb96dfaf0655f3e}{%
            family={Fellinger},
@@ -88,24 +88,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Assessing the Maturity of Sustainability-aware Data Management Strategies that minimise Data Volumes and reduce Energy Consumption: A Study Approach}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{45\bibrangedash 54}
+      \field{pages}{79\bibrangedash 88}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 04
+      \verb 10.18420/env2026\textunderscore 07
       \endverb
     \endentry
-    \entry{A2-2}{inproceedings}{}{}
+    \entry{A3-2}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=3fd222231d25c6eb2e3cfb45eb908eaf}{%
            family={Flohr},
@@ -155,24 +155,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Linking Water Quality to Corrosion Behaviour at Steel Sheet Pile Walls: A Machine Learning Study in the Port of Hamburg}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{55\bibrangedash 64}
+      \field{pages}{89\bibrangedash 98}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 05
+      \verb 10.18420/env2026\textunderscore 08
       \endverb
     \endentry
-    \entry{A3-2}{inproceedings}{}{}
+    \entry{A1-2}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=a2adf716571887bc53f9c0b7b14dd133}{%
            family={Fuchs-Kittowski},
@@ -222,24 +222,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Common and Domain-Specific Design Patterns for Mobile AR Applications to Visualize Measures on Building Facades in an Environmental Context}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{83\bibrangedash 92}
+      \field{pages}{25\bibrangedash 34}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 07
+      \verb 10.18420/env2026\textunderscore 02
       \endverb
     \endentry
-    \entry{A4-2}{inproceedings}{}{}
+    \entry{A5-2}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=fedd2da465f91565dca2b87627a9bc63}{%
            family={Garcia},
@@ -277,24 +277,73 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Joint Evaluation of the Green Coding Roadmap Training}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
       \field{pages}{141\bibrangedash 153}
       \range{pages}{13}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 12
+      \verb 10.18420/env2026\textunderscore 12
       \endverb
     \endentry
-    \entry{A4-1}{inproceedings}{}{}
+    \entry{A1-1}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=447b6cfae4fc97a22a15c929472b46cd}{%
+           family={Hosenfeld},
+           familyi={H\bibinitperiod},
+           given={Friedrich},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f143cb379ab607caa8e46907b8fc3876}{%
+           family={Krüger},
+           familyi={K\bibinitperiod},
+           given={Kay},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Gesellschaft für Informatik e.V.}%
+      }
+      \strng{namehash}{66bb1adb47c428f71577c5625ed9e113}
+      \strng{fullhash}{66bb1adb47c428f71577c5625ed9e113}
+      \strng{fullhashraw}{66bb1adb47c428f71577c5625ed9e113}
+      \strng{bibnamehash}{66bb1adb47c428f71577c5625ed9e113}
+      \strng{authorbibnamehash}{66bb1adb47c428f71577c5625ed9e113}
+      \strng{authornamehash}{66bb1adb47c428f71577c5625ed9e113}
+      \strng{authorfullhash}{66bb1adb47c428f71577c5625ed9e113}
+      \strng{authorfullhashraw}{66bb1adb47c428f71577c5625ed9e113}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
+      \field{eventendmonth}{9}
+      \field{eventendyear}{2026}
+      \field{eventmonth}{9}
+      \field{eventyear}{2026}
+      \field{title}{Web-based management and analysis of nature conservation measures in Schleswig-Holstein -- current developments}
+      \field{year}{2026}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+      \field{pages}{15\bibrangedash 24}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18420/env2026\textunderscore 01
+      \endverb
+    \endentry
+    \entry{A5-1}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=f0ea295e53526526582ab2bd47706d8e}{%
            family={Jahns},
@@ -338,24 +387,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Windows Integration into the Green Metrics Tool: Energy Measurement of Native Windows Applications via RAPL}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
       \field{pages}{131\bibrangedash 140}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 11
+      \verb 10.18420/env2026\textunderscore 11
       \endverb
     \endentry
-    \entry{A1-1}{inproceedings}{}{}
+    \entry{A2-1}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0eb428e1f9b85cabf26f15ed789b127e}{%
            family={Kobiela},
@@ -393,24 +442,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{AI model of a photovoltaic installation}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{13\bibrangedash 22}
+      \field{pages}{47\bibrangedash 56}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 01
+      \verb 10.18420/env2026\textunderscore 04
       \endverb
     \endentry
-    \entry{A3-3}{inproceedings}{}{}
+    \entry{A1-3}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c5dc0e9259764a95213a41ba766c7a42}{%
            family={Koravi},
@@ -436,73 +485,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Sustainability Context Inheritance: From Trusted Evidence to Product Sustainability Profiles in Circular Economy Decision-Making}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{93\bibrangedash 102}
+      \field{pages}{35\bibrangedash 44}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 08
+      \verb 10.18420/env2026\textunderscore 03
       \endverb
     \endentry
-    \entry{A3-4}{inproceedings}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=e4c7a13763be3d32a66d133c3075ba0a}{%
-           family={Nachtsheim},
-           familyi={N\bibinitperiod},
-           given={René},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6cbbd53ac15a71c3cdae82955e8a7737}{%
-           family={Arndt},
-           familyi={A\bibinitperiod},
-           given={Hans-Knud},
-           giveni={H\bibinithyphendelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Gesellschaft für Informatik e.V.}%
-      }
-      \strng{namehash}{65a5b06430015d4136977874fbb0153c}
-      \strng{fullhash}{65a5b06430015d4136977874fbb0153c}
-      \strng{fullhashraw}{65a5b06430015d4136977874fbb0153c}
-      \strng{bibnamehash}{65a5b06430015d4136977874fbb0153c}
-      \strng{authorbibnamehash}{65a5b06430015d4136977874fbb0153c}
-      \strng{authornamehash}{65a5b06430015d4136977874fbb0153c}
-      \strng{authorfullhash}{65a5b06430015d4136977874fbb0153c}
-      \strng{authorfullhashraw}{65a5b06430015d4136977874fbb0153c}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
-      \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
-      \field{eventmonth}{9}
-      \field{eventyear}{2025}
-      \field{title}{Time-Variable State Spaces for Auditable ESG and Taxonomy Evidence in Operational Information Systems}
-      \field{year}{2025}
-      \field{eventenddateera}{ce}
-      \field{eventdateera}{ce}
-      \field{pages}{103\bibrangedash 116}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.18420/env2025\textunderscore 09
-      \endverb
-    \endentry
-    \entry{A1-2}{inproceedings}{}{}
+    \entry{A2-2}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ecb1fc7840d236ff1de64e65739071d2}{%
            family={Souza},
@@ -537,24 +537,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Environmentally Informed GenAI Use in ITSM: A Problem Analysis of Organisational Use-Case Decision-Making}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{23\bibrangedash 32}
+      \field{pages}{57\bibrangedash 66}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 02
+      \verb 10.18420/env2026\textunderscore 05
       \endverb
     \endentry
-    \entry{A3-5}{inproceedings}{}{}
+    \entry{A4-2}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=a6a1224070fb0b334e555151b8dbb75d}{%
            family={Szałata},
@@ -598,24 +598,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Air Quality Knowledge as a Driver of Computing Competences: An International Project-Based Learning Project}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
       \field{pages}{117\bibrangedash 127}
       \range{pages}{11}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 10
+      \verb 10.18420/env2026\textunderscore 10
       \endverb
     \endentry
-    \entry{A4-3}{inproceedings}{}{}
+    \entry{A5-3}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b6bca39ab5a15534c63731ef13faaf07}{%
            family={Valko},
@@ -647,24 +647,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Toward a Framework for Performance and Carbon Footprint Assessment of Payment Channel Network Solutions}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
       \field{pages}{155\bibrangedash 164}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 13
+      \verb 10.18420/env2026\textunderscore 13
       \endverb
     \endentry
-    \entry{A1-3}{inproceedings}{}{}
+    \entry{A2-3}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=46819930df1f18dedf99cdc56d02920d}{%
            family={Werner},
@@ -702,24 +702,24 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Application of Artificial Intelligence in German Municipal Wastewater Facilities}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{33\bibrangedash 42}
+      \field{pages}{67\bibrangedash 76}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 03
+      \verb 10.18420/env2026\textunderscore 06
       \endverb
     \endentry
-    \entry{A4-4}{inproceedings}{}{}
+    \entry{A5-4}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a825297abe2e8a5d1b67d683dc379293}{%
            family={Westing},
@@ -751,21 +751,21 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2025}
-      \field{eventday}{17}
-      \field{eventendday}{19}
+      \field{booktitle}{EnviroInfo2026}
+      \field{eventday}{9}
+      \field{eventendday}{11}
       \field{eventendmonth}{9}
-      \field{eventendyear}{2025}
+      \field{eventendyear}{2026}
       \field{eventmonth}{9}
-      \field{eventyear}{2025}
+      \field{eventyear}{2026}
       \field{title}{Towards a Taxonomy of ICT and Software Sustainability Assessment Instruments}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
       \field{pages}{165\bibrangedash 174}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2025\textunderscore 14
+      \verb 10.18420/env2026\textunderscore 14
       \endverb
     \endentry
   \enddatalist

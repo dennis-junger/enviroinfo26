@@ -1,0 +1,175 @@
+% !TeX encoding = UTF-8
+% !TeX program = pdflatex
+% !BIB program = biber
+
+\documentclass[english]{lni}
+ \usepackage{todonotes}
+\addbibresource{refs.bib}
+
+\begin{document}
+%%% Mehrere Autoren werden durch \and voneinander getrennt.
+%%% Die Fußnote enthält die Adresse sowie eine E-Mail-Adresse.
+%%% Das optionale Argument (sofern angegeben) wird für die Kopfzeile verwendet.
+\title{Joint Evaluation of the Green Coding Roadmap Training}
+ \subtitle{Unlocking the Potential of Green Coding into Practice – Evaluation of the BUIS Tage Workshop 2026 Outcomes} % if needed
+
+\author[1]{Dennis M. Junger}{dennis.junger@htw-berlin.de}{0000-0002-9271-2261}
+\author[1]{Nick Vicente Roland Kriesing Garcia}{s0587788@HTW-Berlin.de}{0009-0007-6761-3169}
+\author[1]{Volker Wohlgemuth}{volker.wohlgemuth@htw-berlin.de}{0009-0000-3150-1746}
+%
+\affil[1]{HTW Berlin, University of Applied Sciences\\
+Industrial Environmental Informatics Unit\\
+Wilhelminenhofstr.~75A\\
+12459 Berlin\\
+Germany}
+\maketitle
+
+\begin{abstract}
+
+Sustainable software engineering requires learning resources that translate fragmented research findings into accessible and actionable guidance for practitioners. To address this need, we developed a Green Coding Roadmap that organises core concepts and practices across six phases: understanding the problem, learning the fundamentals, measuring and assessing impacts, writing greener code, optimising infrastructure, and embedding sustainability into processes and organisations. The roadmap combines theoretical foundations with practical tools, standards, and recommended actions in a roadmap-based format familiar to developers.
+
+This paper reports on a participatory workshop study in which the roadmap was tested with twelve participants from academic and professional backgrounds at BUIS-Tage 2026. Through guided small-group work and plenary discussion, participants evaluated the roadmap with respect to content relevance, sequencing, clarity, and usability. The findings indicate that the roadmap is perceived as a promising framework for green coding education, while also revealing opportunities for improvement in narrative coherence, visual organisation, and the explicit treatment of measurement and trade-offs. The paper concludes with design implications for refining the roadmap and for developing workshop-based training formats in sustainable software engineering.
+
+This paper is structured as follows: First, we introduce the Green Coding Roadmap and its development through Activities 3.1–3.4 of the Intervention and Training work package, including its six phases and key themes. Second, we present the participatory workshop study at BUIS-Tage 2026, detail the evaluation results across all roadmap chapters, and conclude with design implications for refining the roadmap and developing workshop-based training formats in sustainable software engineering.
+
+
+\end{abstract}
+
+\begin{keywords}
+Green Coding
+\and Sustainable Software Engineering
+\and Green Software
+\and Software Sustainability
+\and Learning Roadmap
+\and Participatory Design
+\and Workshop Study
+\and Sustainability Education
+\and Green IT
+\and Software Engineering Education
+\end{keywords}
+
+
+\section{Introduction and Motivation}
+
+Sustainability concerns in computing have led to a growing body of work on Green IT and green coding, including guidelines, metrics, and tools to reduce the environmental impact of software systems. Green software engineering research has produced numerous concepts, methods, and tools ranging from energy-efficient algorithms and architectures to carbon-aware scheduling and data centre optimisation. At the same time, educational efforts have explored curricula, courses, and guidelines to build competencies among students and practitioners. However, many contributions remain fragmented and are disseminated primarily through academic papers, making it difficult for practitioners to integrate them into everyday development workflows. There is still limited evidence on how developers perceive structured green coding roadmaps and which design choices support or hinder their adoption. After the project \enquote{Potentials of Greencoding} \cite{potentialsproject}, where in the part of the HTW Berlin was shown that green coding can be integrated into curricula, the following project \enquote{Unlocking the Potential of Green Coding into Practice} \cite{UnlockingGreenCoding2024} seeks to translate research on sustainable software development into a structured training programme. 
+The work package \emph{\enquote{Intervention and Training}} is structured into five activities. Activity~\emph{3.1} focuses on conducting structured expert interviews to identify key training needs. These were implemented through \enquote{Semi-structured expert interview} approach \cite{louklander2025justasking}.
+An initial workshop held at EcoCompute 2024 (\cite{ecocompute24}), and published in \cite{junger24-2} under the title \enquote{Bridging the Skills Gap: Insights from Professional Software Developers into the Challenges and Opportunities Faced by Young Career Starters Integrating Green Coding into Practice}, identified core requirements for the transition from academia to professional practice for junior developers. The findings highlight a clear need for competencies in change management, as well as organisational and process-related knowledge.
+These insights were presented, refined, and further developed during a subsequent workshop at the EnviroInfo 2025 conference (\cite{enviroInfo25}). They were then consolidated into a structured focus group study \cite{Kitzinger299}, the results of which were published in \cite{JungerWohlgemuth2025} under the title \enquote{Requirements Study for a Professional Green Coding Course Format: A Focus Group Study to Explore Strategies for Implementing Green Coding Training in Software Development}. 
+Subsequently, a preliminary academically oriented proposal was presented outlining how a Green Coding master's degree program could be implemented academically through two master's thesis projects and their respective content. These content elements should now be identified within Activity~\emph{3.3} and translated into an appropriate training concept.
+One issue that had already emerged during EnviroInfo 2025~\cite{enviroInfo25} is the implementation of a testing and certification system. This system is currently in the preparatory phase and will be implemented following the completion of the subsequent work packages and the integration of critical feedback.
+The current step of Activity~\emph{3.4} has produced the master training concepts: academically collected papers, enriched with established knowledge from years of experience and prior literature reviews~\cite{junger23_litrep}, presented in the form of a roadmap.
+Our work builds on the popular open learning platform \texttt{roadmap.sh}, which serves several million users and has attracted hundreds of thousands of stars on GitHub~\cite{roadmap}. We use this familiar roadmap metaphor to embed sustainability content as a first-class competency alongside other software engineering skills.
+
+The present paper documents Activity~\emph{3.5} of the \emph{Intervention and Training} phase, in which this pilot training is tested and evaluated. Through a participatory workshop at BUIS-Tage 2026 with twelve participants from academic and professional backgrounds, we systematically collected feedback on content relevance, sequencing, clarity, and usability. This represents the final step linking preceding design activities (\emph{3.1}--\emph{3.4}) with empirical evidence on the effectiveness and acceptance of the resulting training intervention.
+
+
+\section{The Green Coding Roadmap}
+
+The Green Coding Roadmap is conceived as a structured, web-based learning path that translates green coding concepts into actionable steps for developers. It is organised into several major chapters that reflect different stages and dimensions of sustainable software engineering, including \emph{Understanding the Problem}, \emph{Learning the Fundamentals}, \emph{Measuring and Assessing Impacts}, \emph{Writing Greener Code}, \emph{Optimising Infrastructure}, \emph{Green Computing Toolkit}, and \emph{Embedding Sustainability}.
+
+Each chapter contains nodes that introduce key concepts, link to tools and resources, and suggest practical actions, with the overall roadmap providing milestones and a sense of progression. The design aims to offer not only technical guidance but also to incorporate organisational and cultural aspects, for instance, through chapters on governance, standards, and sustainability culture.
+
+The roadmap is hosted on \texttt{roadmap.sh} so that it builds on an existing open-source infrastructure and user community \cite{junger_2026_workshop}. By adopting the familiar roadmap metaphor and visual style, we seek to lower entry barriers for developers and position sustainability as a first-class competency alongside other software engineering skills.
+
+
+\subsection{Content of the Roadmap}
+
+The \textit{Green Coding Roadmap} organises theory and practical guidance into six phases: (1) understanding the problem, (2) learning the fundamentals, (3) measuring and assessing, (4) writing greener code, (5) optimising infrastructure, and (6) embedding sustainability into processes and organisations. Each phase combines theoretical foundations, practical methods, tools, standards, and measurement/certification approaches, guiding teams from sustainability awareness to concrete changes in software design, implementation, and operations.
+
+
+\subsection{Key Themes and Sections}
+
+The following list presents a representative excerpt of the implemented roadmap content for clarity; all comprehensive contents are accessible via \texttt{roadmap.sh}~\cite{roadmaprelease}.
+\begin{itemize}
+    \item \textbf{Foundations and context:} History of sustainability \citep{Me72}, ICT emissions \citep{Fr21}, GHG Scopes\citep{NR04}, embodied vs. operational carbon \citep{GH24}, carbon intensity \citep{GC24}, carbon awareness \citep{GC24}.
+    
+    \item \textbf{Measurement and assessment:} Carbon footprint \citep{NR04}, SCI \citep{SC24}, GREENSOFT model \citep{NA11}, Blue Angel \citep{NA21}, energy profiling (RAPL, Scaphandre) \citep{KN18}, cloud dashboards \citep{AW26}, Scope 3 attribution challenges \citep{GH13}.
+    
+    \item \textbf{Coding and runtime practices:} Algorithmic complexity \citep{Ca24}, data structures \citep{Ha18}, language trade-offs \citep{Va25}, benchmarking \citep{Pe21}, ecoCode/SonarQube plugin \citep{CC26}.
+    
+    \item \textbf{Frontend and API efficiency:} Asset optimisation (images, fonts, scripts) \citep{MD26}, SSR/SSG/CSR \citep{OJ19}, dark mode \citep{PH21}, caching \citep{Ka21}, lazy loading \citep{Fo03}, API/database efficiency \citep{Mi26}, Website Carbon Calculator \citep{WD19}, Ecograder \citep{Ec23}.
+    
+    \item \textbf{AI/ML considerations:} Training vs. inference energy \citep{St19}, model compression \citep{Pi24}, quantization \citep{Gh21}, prompt efficiency \cite{PG26}, token reduction \citep{Ar24}.
+    
+    \item \textbf{Infrastructure and operations:} PUE \citep{He21}, cooling \citep{AS24}, renewable procurement \citep{RE26}, CDN optimisation \citep{Cl26}, edge computing \citep{KR23}, autoscaling \citep{Ve25}, serverless \citep{Ca25}, carbon-aware scheduling \citep{GT24}, Kubernetes green scheduling \citep{CA26}.
+    
+    \item \textbf{Process and organisational adoption:} Green SDLC \citep{Na10}, Green SCRUM/Agile \citep{GA25}, Sustainable DevOps \citep{Ai25}, change management \citep{AN22}, GSMM \citep{GM25}, EU ETS \cite{ET26}, ESG \citep{Ga26}, AI Act \citep{EA24}.
+    
+    \item \textbf{Tools, standards, and learning:} SCI \citep{SC24}, GREENSOFT \citep{NA11}, Blue Angel \citep{NA21}, carbon-aware SDK \citep{CA26}, community links \citep{La25}.
+\end{itemize}
+
+Overall, the roadmap offers a coherent and structured perspective on sustainable software development, integrating conceptual foundations, measurement approaches, implementation practices, infrastructure optimisation, and organisational adoption. It is particularly well suited for workshops, as it facilitates both technical learning and critical reflection on embedding sustainability into everyday software engineering practice.
+
+
+\section{Workshop Design and Methods}
+
+\subsection{Participants and Setting}
+The workshop was conducted as part of the BUIS-Tage 2026 at HTW Berlin on 2 June 2026 \cite{buis_tage_2026}. It was designed as a participatory evaluation of the Green Coding Roadmap within the project \enquote{Unlocking Potentials of Green Coding 2024--2026}, which aims to connect sustainability research with software development practice \cite{junger_2026_workshop}.
+
+A total of twelve participants took part in the workshop and were organised into four small groups of two to four members. The participants represented a mix of academic and professional backgrounds in computer science and related disciplines. Ten participants (83.3\%) were enrolled in higher education programmes, while two participants (16.7\%) came from professional practice in the transport and public sectors.
+
+Among the students, four participants (33.3\% of the total sample) were master's students in business informatics, three (25.0\%) were PhD candidates at the University of Oldenburg with IT-related specialisations, and three (25.0\%) were students from universities of applied sciences or other IT-related programmes. This composition reflects the intended focus on prospective and early-career software professionals, complemented by selected practical perspectives.
+
+
+
+
+\subsection{Materials}
+
+The workshop was supported by four complementary materials: a slide deck introducing green coding and the roadmap concept, printed posters with AI-generated imagery created using NotebookLM \cite{GNotebookLM}—while the topic information was used exclusively for the content—the Green Coding Roadmap embedded via \texttt{roadmap.sh}, and digital worksheets for structured group feedback.
+
+Each worksheet contained guiding questions tailored to the assigned roadmap section(s), addressing prior knowledge, perceived clarity and completeness, logical sequencing, and suggestions for improvement.
+
+All workshop materials—including the AI-generated images and the participants' questions and answers—are available in our Zenodo dataset \cite{junger_2026_workshop}. Due to the GDPR (DSGVO), we removed all personal information of the participants.
+
+\subsection{Workshop Procedure}
+The workshop followed a three-phase format consisting of a plenary introduction, guided small-group work, and final plenary presentations.
+
+In the introductory phase, the facilitators presented the motivation for green coding, the project context, and the concept of structuring knowledge through a roadmap hosted on \texttt{roadmap.sh}. Participants were then assigned to four groups using thematic posters and given access to specific roadmap sections.
+
+After a brief exploration phase of about ten minutes, the groups completed five focused work sprints of approximately five minutes each. In each sprint, participants answered one guiding question from the worksheet and documented their responses as concise bullet points. The questions covered prior expectations, content quality, coherence and completeness, structural ordering, and overall suggestions for improvement.
+
+In the final phase, each group presented its findings in the plenary. Presentations included a short overview of the assigned roadmap section(s), key observations, and one concrete recommendation for improvement. These presentations were followed by brief discussions to clarify feedback and relate insights across groups.
+
+\subsection{Data Collection and Analysis}
+The primary data sources consisted of the completed group worksheets and notes from the plenary presentations and discussions. The data were analysed using qualitative content analysis, focusing on clarity, completeness, sequencing, and motivational aspects of the roadmap.
+
+Codes were iteratively grouped into higher-level themes that capture the main strengths and weaknesses identified by participants and inform concrete design implications for improving the roadmap. The results are presented in the following section, structured by roadmap chapter.
+
+\section{Results}
+\subsection{Understanding the Problem and Fundamentals}
+For the early chapters on \emph{Understanding the Problem} and \emph{Learning the Fundamentals}, participants emphasised that concepts such as embodied carbon, carbon intensity, and human–environment interaction should be more clearly anchored in the problem framing. Some teams expected these topics to be introduced earlier and more prominently in the roadmap, as they form the conceptual basis for later technical strategies.
+
+Participants also noted that transitions between nodes could be smoother and that the visual layout should support a clearer narrative from general sustainability concepts to their implications for software. They suggested increasing the number of intermediate nodes and improving the connections to better reflect the logical flow between topics.
+
+\subsection{Measure \& Assess and Green Coding Toolkit}
+In the chapters on measuring and assessing impacts and on the Green Coding Toolkit, teams appreciated the concrete pointers to tools and software but found the overall structure and sequencing challenging. Several participants expected standards and norms to be introduced before tools, followed by patterns and guidelines, and only then additional resources and communities.
+
+There was also confusion about the allocation of specific tools, for example whether certain calculators and estimators should be classified as key tools or as additional resources. Participants argued that AI-based tools deserved a separate chapter due to their distinct characteristics and rapidly evolving landscape. More generally, they requested richer descriptions of the main blocks, introductory sentences explaining the purpose and importance of each section, and more motivational language and calls to action.
+
+\subsection{Write Greener Code and Optimise Infrastructure}
+For the chapters on writing greener code and optimising infrastructure, participants largely agreed that the topics were relevant but raised critical questions about measurement and trade-offs. They pointed out that private clients and client-side rendering were underrepresented and asked how energy consumption would be measured and compared when specific optimisation techniques were applied.
+
+Some participants suggested that the term \enquote{optimising} might be misleading if measurement is not explicitly addressed, proposing alternatives such as \enquote{analysing} or \enquote{adapting} infrastructure. They also questioned whether a single metric such as Power Usage Effectiveness (PUE) would be sufficient to characterise data centre performance and called for a clearer representation of trade-offs and meta-level decisions.
+
+\subsection{Embedding Sustainability}
+In the \emph{Embed Sustainability} chapter, participants welcomed the clear division into three sub-dimensions: planning, design and implementation; governance and ecological standards; and culture and people. They appreciated that this chapter goes beyond purely technical aspects and highlights policy and behavioural dimensions of sustainability.
+
+At the same time, they reported initial confusion about the visual arrangement of governance and standards items directly under the main heading, and the lack of numbering at the beginning of subsequent chapters. Participants suggested reversing the sequence to start with awareness building, then standards, and then implementation, arguing that awareness is a prerequisite for meaningful adoption of standards and green coding practices. They also requested an abbreviation glossary, clearer visual separation between chapters, more technical examples (e.g., autoscaling based on current carbon intensity), and short introductory texts that situate each section within the overall context.
+
+\section{Discussion}
+The workshop results highlight that while participants overall found the content of the roadmap chapters relevant and meaningful, they also identified several structural and presentational issues that hinder comprehension and motivation. In particular, the need for clearer storylines per chapter, more explicit sequencing of concepts and tools, and better visual cues emerged as recurrent themes.
+
+From a design perspective, one implication is that green coding roadmaps should not only list topics and tools but also articulate the problem they address, the learning goals, and the expected outcomes for each section. Participants' calls for introductory questions, explanatory sentences, and motivational phrasing suggest that narrative framing is as important as technical correctness in encouraging engagement.
+Another implication concerns the explicit treatment of trade-offs and meta-level decisions, particularly in infrastructure optimisation. Participants asked how environmental, economic, and reliability objectives interact and how developers can make informed choices under constraints such as political context, energy markets, and cybersecurity risks. Making such trade-offs more visible in the roadmap may help learners recognise sustainability as a systemic challenge rather than a purely technical add-on.
+
+\section{Conclusion and Future Work}
+This paper reports on a participatory workshop that tested an initial Green Coding Roadmap with professional and student teams, using structured group work and short presentations to elicit feedback on content, structure, and usability. The results show that the roadmap is perceived as a valuable starting point for organising green coding knowledge but requires refinement in terms of narrative coherence, sequencing, and motivational framing.
+In future work, we plan to incorporate the feedback into a revised roadmap version with clearer chapter introductions, re-ordered sections, and dedicated treatment of AI-related tools and trade-offs. We further aim to evaluate the updated roadmap with a broader participant group, including industry practitioners and members of the \texttt{roadmap.sh} community, and to explore interactive multiple-choice tests and certificates as assessment elements.
+
+\section*{Acknowledgements}
+This work was funded by the Internet Society Foundation\footnote{\url{https://www.isocfoundation.org/}~[2026-06-06]}. We would like to thank the Fachgruppe Betriebliche Umweltinformationssysteme (FG BUIS)\footnote{\url{https://fa-ui.gi.de/fachausschuss/fachgruppen/fg-buis/}~[2026-06-06]} of the Gesellschaft für Informatik for providing the opportunity to host the workshop as part of the BUIS-Tage. We also extend our sincere thanks to all participants, whose contributions and engagement were essential for the validation of our research.
+
+
+
+\printbibliography
+\end{document}
