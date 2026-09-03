@@ -288,8 +288,8 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{141\bibrangedash 153}
-      \range{pages}{13}
+      \field{pages}{141\bibrangedash 148}
+      \range{pages}{8}
       \verb{doi}
       \verb 10.18420/env2026\textunderscore 12
       \endverb
@@ -658,7 +658,7 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{155\bibrangedash 164}
+      \field{pages}{149\bibrangedash 158}
       \range{pages}{10}
       \verb{doi}
       \verb 10.18420/env2026\textunderscore 13
@@ -762,7 +762,7 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{165\bibrangedash 174}
+      \field{pages}{159\bibrangedash 168}
       \range{pages}{10}
       \verb{doi}
       \verb 10.18420/env2026\textunderscore 14
