@@ -253,10 +253,10 @@
     \endentry
     \entry{A1-1}{inproceedings}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=447b6cfae4fc97a22a15c929472b46cd}{%
+        {{un=0,uniquepart=base,hash=55cededc480c734f21cebfa698b0f00c}{%
            family={Hosenfeld},
            familyi={H\bibinitperiod},
-           given={Friedrich},
+           given={Friedhelm},
            giveni={F\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=f143cb379ab607caa8e46907b8fc3876}{%
@@ -269,14 +269,14 @@
       \list{publisher}{1}{%
         {Gesellschaft für Informatik e.V.}%
       }
-      \strng{namehash}{66bb1adb47c428f71577c5625ed9e113}
-      \strng{fullhash}{66bb1adb47c428f71577c5625ed9e113}
-      \strng{fullhashraw}{66bb1adb47c428f71577c5625ed9e113}
-      \strng{bibnamehash}{66bb1adb47c428f71577c5625ed9e113}
-      \strng{authorbibnamehash}{66bb1adb47c428f71577c5625ed9e113}
-      \strng{authornamehash}{66bb1adb47c428f71577c5625ed9e113}
-      \strng{authorfullhash}{66bb1adb47c428f71577c5625ed9e113}
-      \strng{authorfullhashraw}{66bb1adb47c428f71577c5625ed9e113}
+      \strng{namehash}{33c07cd3737d17ad40864dbb2b1b41a0}
+      \strng{fullhash}{33c07cd3737d17ad40864dbb2b1b41a0}
+      \strng{fullhashraw}{33c07cd3737d17ad40864dbb2b1b41a0}
+      \strng{bibnamehash}{33c07cd3737d17ad40864dbb2b1b41a0}
+      \strng{authorbibnamehash}{33c07cd3737d17ad40864dbb2b1b41a0}
+      \strng{authornamehash}{33c07cd3737d17ad40864dbb2b1b41a0}
+      \strng{authorfullhash}{33c07cd3737d17ad40864dbb2b1b41a0}
+      \strng{authorfullhashraw}{33c07cd3737d17ad40864dbb2b1b41a0}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}

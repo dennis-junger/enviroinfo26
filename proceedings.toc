@@ -1,6 +1,6 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\nonumberline Sustainable development and other paradigms and concepts in the context of contemporary civilization trends -- global and local dimensions}{15}{part*.8}%
-\contentsline {section}{\textbf {{\language \langwohyphens Friedrich Hosenfeld \unskip ,\ Kay Krüger}}\\\textit {Web-based management and analysis of nature conservation measures in Schleswig-Holstein -- current developments}}{15}{section*.9}%
+\contentsline {section}{\textbf {{\language \langwohyphens Friedhelm Hosenfeld \unskip ,\ Kay Krüger}}\\\textit {Web-based management and analysis of nature conservation measures in Schleswig-Holstein -- current developments}}{15}{section*.9}%
 \contentsline {section}{\textbf {{\language \langwohyphens Frank Fuchs-Kittowski \unskip ,\ Maximilian Deharde \unskip ,\ David Starzl \unskip ,\ Marius Poppel \unskip ,\ Simon Burkard}}\\\textit {Common and Domain-Specific Design Patterns for Mobile AR Applications to Visualize Measures on Building Facades in an Environmental Context}}{25}{section*.10}%
 \contentsline {section}{\textbf {{\language \langwohyphens Sandhya Koravi}}\\\textit {Sustainability Context Inheritance: From Trusted Evidence to Product Sustainability Profiles in Circular Economy Decision-Making}}{35}{section*.11}%
 \contentsline {chapter}{\nonumberline Artificial Intelligence and Sustainability}{47}{part*.12}%

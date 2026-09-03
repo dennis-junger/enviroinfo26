@@ -1,15 +1,15 @@
 [0] Config.pm:329> INFO - This is Biber 2.22
 [0] Config.pm:332> INFO - Logfile is 'proceedings.blg'
-[75] biber-MSWIN64:342> INFO - === 
-[94] Biber.pm:421> INFO - Reading 'proceedings.bcf'
-[212] Biber.pm:1002> INFO - Found 13 citekeys in bib section 0
-[230] Biber.pm:4487> INFO - Processing section 0
-[244] Biber.pm:4680> INFO - Looking for bibtex file 'proceedings.bib' for section 0
-[248] bibtex.pm:1713> INFO - LaTeX decoding ...
-[270] bibtex.pm:1519> INFO - Found BibTeX data source 'proceedings.bib'
-[408] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[408] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[408] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[408] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[428] bbl.pm:676> INFO - Writing 'proceedings.bbl' with encoding 'UTF-8'
-[443] bbl.pm:779> INFO - Output to proceedings.bbl
+[92] biber-MSWIN64:342> INFO - === 
+[125] Biber.pm:421> INFO - Reading 'proceedings.bcf'
+[290] Biber.pm:1002> INFO - Found 13 citekeys in bib section 0
+[314] Biber.pm:4487> INFO - Processing section 0
+[331] Biber.pm:4680> INFO - Looking for bibtex file 'proceedings.bib' for section 0
+[336] bibtex.pm:1713> INFO - LaTeX decoding ...
+[362] bibtex.pm:1519> INFO - Found BibTeX data source 'proceedings.bib'
+[526] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[526] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[526] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[526] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[548] bbl.pm:676> INFO - Writing 'proceedings.bbl' with encoding 'UTF-8'
+[565] bbl.pm:779> INFO - Output to proceedings.bbl
