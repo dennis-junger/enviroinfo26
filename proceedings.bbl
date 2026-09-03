@@ -19,49 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
-    \entry{A4-1}{inproceedings}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bd0c215f14b2b3a4905b40fe0d1e9ec9}{%
-           family={Elfeky},
-           familyi={E\bibinitperiod},
-           given={Ahmed},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Gesellschaft für Informatik e.V.}%
-      }
-      \strng{namehash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
-      \strng{fullhash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
-      \strng{fullhashraw}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
-      \strng{bibnamehash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
-      \strng{authorbibnamehash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
-      \strng{authornamehash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
-      \strng{authorfullhash}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
-      \strng{authorfullhashraw}{bd0c215f14b2b3a4905b40fe0d1e9ec9}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{EnviroInfo2026}
-      \field{eventday}{9}
-      \field{eventendday}{11}
-      \field{eventendmonth}{9}
-      \field{eventendyear}{2026}
-      \field{eventmonth}{9}
-      \field{eventyear}{2026}
-      \field{title}{Life-Cycle Decision Support for Post-Optimization Industrial Decarbonization: An Environmental-Informatics Case Study of an SME Foundry}
-      \field{year}{2026}
-      \field{eventenddateera}{ce}
-      \field{eventdateera}{ce}
-      \field{pages}{101\bibrangedash 115}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.18420/env2026\textunderscore 09
-      \endverb
-    \endentry
     \entry{A3-1}{inproceedings}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=71e050e1471d93318fb96dfaf0655f3e}{%
@@ -288,10 +245,10 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{141\bibrangedash 153}
+      \field{pages}{125\bibrangedash 137}
       \range{pages}{13}
       \verb{doi}
-      \verb 10.18420/env2026\textunderscore 12
+      \verb 10.18420/env2026\textunderscore 11
       \endverb
     \endentry
     \entry{A1-1}{inproceedings}{}{}
@@ -398,10 +355,10 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{131\bibrangedash 140}
+      \field{pages}{115\bibrangedash 124}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2026\textunderscore 11
+      \verb 10.18420/env2026\textunderscore 10
       \endverb
     \endentry
     \entry{A2-1}{inproceedings}{}{}
@@ -609,10 +566,10 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{117\bibrangedash 127}
+      \field{pages}{101\bibrangedash 111}
       \range{pages}{11}
       \verb{doi}
-      \verb 10.18420/env2026\textunderscore 10
+      \verb 10.18420/env2026\textunderscore 09
       \endverb
     \endentry
     \entry{A5-3}{inproceedings}{}{}
@@ -658,10 +615,10 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{155\bibrangedash 164}
+      \field{pages}{139\bibrangedash 148}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2026\textunderscore 13
+      \verb 10.18420/env2026\textunderscore 12
       \endverb
     \endentry
     \entry{A2-3}{inproceedings}{}{}
@@ -762,10 +719,10 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{165\bibrangedash 174}
+      \field{pages}{149\bibrangedash 158}
       \range{pages}{10}
       \verb{doi}
-      \verb 10.18420/env2026\textunderscore 14
+      \verb 10.18420/env2026\textunderscore 13
       \endverb
     \endentry
   \enddatalist

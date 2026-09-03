@@ -2382,12 +2382,11 @@
     <bcf:citekey order="6" intorder="1">A2-3</bcf:citekey>
     <bcf:citekey order="7" intorder="1">A3-1</bcf:citekey>
     <bcf:citekey order="8" intorder="1">A3-2</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">A4-1</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">A4-2</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">A5-1</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">A5-2</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">A5-3</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">A5-4</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">A4-2</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">A5-1</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">A5-2</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">A5-3</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">A5-4</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
