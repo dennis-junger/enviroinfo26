@@ -16,7 +16,7 @@
 \contentsline {chapter}{\nonumberline Green Coding}{131}{part*.22}%
 \contentsline {section}{\textbf {{\language \langwohyphens Maximilian Jahns \unskip ,\ Dennis Junger \unskip ,\ Volker Wohlgemuth \unskip ,\ Geerd-Dietger Hoffmann}}\\\textit {Windows Integration into the Green Metrics Tool: Energy Measurement of Native Windows Applications via RAPL}}{131}{section*.23}%
 \contentsline {section}{\textbf {{\language \langwohyphens Nick Kriesing Garcia \unskip ,\ Dennis Junger \unskip ,\ Volker Wohlgemuth}}\\\textit {Joint Evaluation of the Green Coding Roadmap Training}}{141}{section*.24}%
-\contentsline {section}{\textbf {{\language \langwohyphens Danila Valko \unskip ,\ Jorge Marx Gómez}}\\\textit {Toward a Framework for Performance and Carbon Footprint Assessment of Payment Channel Network Solutions}}{149}{section*.25}%
-\contentsline {section}{\textbf {{\language \langwohyphens Max Westing \unskip ,\ Stefan Naumann}}\\\textit {Towards a Taxonomy of ICT and Software Sustainability Assessment Instruments}}{159}{section*.26}%
-\contentsline {part}{List of Authors}{169}{section*.27}%
+\contentsline {section}{\textbf {{\language \langwohyphens Danila Valko \unskip ,\ Jorge Marx Gómez}}\\\textit {Toward a Framework for Performance and Carbon Footprint Assessment of Payment Channel Network Solutions}}{155}{section*.25}%
+\contentsline {section}{\textbf {{\language \langwohyphens Max Westing \unskip ,\ Stefan Naumann}}\\\textit {Towards a Taxonomy of ICT and Software Sustainability Assessment Instruments}}{165}{section*.26}%
+\contentsline {part}{List of Authors}{175}{section*.27}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
