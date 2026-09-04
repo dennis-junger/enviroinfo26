@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.9.1)  4 SEP 2026 18:09
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.9.1)  4 SEP 2026 18:13
  restricted system commands enabled.
 **proceedings
 (./proceedings.tex
@@ -4576,7 +4576,7 @@ c, 9 attribute_list, 1 write, 1 user_defined nodes
    avail lists: 1:6,2:988,3:306,4:404,5:387,6:179,7:3961,8:2,9:553,10:15,11:173,
 12:1
  64056 multiletter control sequences out of 65536+600000
- 65 fonts using 15920815 bytes
+ 65 fonts using 15920735 bytes
  108i,18n,101p,11209b,2320s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'page.165'
@@ -4610,7 +4610,7 @@ warning  (pdf backend): unreferenced destination with name 'cite.0@A1-1'
 nts/opentype/public/tex-gyre/texgyretermes-bold.otf><C:/MiKTeX/fonts/opentype/pu
 blic/tex-gyre/texgyretermes-regular.otf><C:/MiKTeX/fonts/type1/public/ccicons/cc
 icons.pfb>
-Output written on proceedings.pdf (161 pages, 9723578 bytes).
+Output written on proceedings.pdf (161 pages, 9717079 bytes).
 
 PDF statistics: 2807 PDF objects out of 2984 (max. 8388607)
  408 named destinations out of 1000 (max. 131072)
