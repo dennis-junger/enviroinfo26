@@ -1,0 +1,26 @@
+Subject: EnviroInfo 2026 – Submission #32: Response to Reviewer & Rights Form needed
+
+Dear authors,
+
+we have the following question about your submission
+to EnviroInfo 2026 entitled
+
+  Air Quality Knowledge as a Driver of Computing Competences:
+  An International Project-Based Learning Project
+
+Your new template was also wrong, so I have copied it into the correct LNI template for you.
+
+I still need the following two items from you — please bundle them into a single ZIP archive
+and upload it to your EasyChair submission (login → your submission → "Upload files"):
+
+  [ ] Response to Reviewer Comments
+  [ ] Granting of Rights form (attached — included in the ZIP file)
+
+EasyChair upload: https://easychair.org/conferences/?conf=enviroinfo26
+Contact:          enviroinfo26@easychair.org
+
+Thank you very much for your cooperation.
+
+Best regards,
+Dennis Junger
+EnviroInfo 2026 Proceedings

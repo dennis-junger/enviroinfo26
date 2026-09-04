@@ -245,7 +245,7 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{127\bibrangedash 139}
+      \field{pages}{125\bibrangedash 137}
       \range{pages}{13}
       \verb{doi}
       \verb 10.18420/env2026\textunderscore 11
@@ -355,7 +355,7 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{117\bibrangedash 126}
+      \field{pages}{115\bibrangedash 124}
       \range{pages}{10}
       \verb{doi}
       \verb 10.18420/env2026\textunderscore 10
@@ -566,8 +566,8 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{101\bibrangedash 113}
-      \range{pages}{13}
+      \field{pages}{101\bibrangedash 111}
+      \range{pages}{11}
       \verb{doi}
       \verb 10.18420/env2026\textunderscore 09
       \endverb
@@ -615,7 +615,7 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{141\bibrangedash 150}
+      \field{pages}{139\bibrangedash 148}
       \range{pages}{10}
       \verb{doi}
       \verb 10.18420/env2026\textunderscore 12
@@ -719,7 +719,7 @@
       \field{year}{2026}
       \field{eventenddateera}{ce}
       \field{eventdateera}{ce}
-      \field{pages}{151\bibrangedash 160}
+      \field{pages}{149\bibrangedash 158}
       \range{pages}{10}
       \verb{doi}
       \verb 10.18420/env2026\textunderscore 13
