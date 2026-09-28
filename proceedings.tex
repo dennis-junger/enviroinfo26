@@ -129,6 +129,7 @@
   raggedentrytext=true
 ]{section}{section}
 
+
 %Aim: Do not let the words go into the page numbers
 %Source: http://tex.stackexchange.com/a/180139/9075
 \makeatletter
@@ -585,7 +586,7 @@
 
 \renewcommand{\indexname}{List of Authors}
 \phantomsection
-\addcontentsline{toc}{part}{\indexname}
+\addcontentsline{toc}{section}{{\large\bfseries\indexname}}
 \printindex
 
 \end{document}
